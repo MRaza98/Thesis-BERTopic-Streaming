@@ -1,0 +1,12 @@
+topic_id,cv_score,cnpmi_score,size,top_words,word_weights
+0,0.7824090127283437,0.12407196009829916,564,"climate, emissions, carbon, air, change, environment, environmental, zero, targets, net","0.0154, 0.0100, 0.0089, 0.0084, 0.0083, 0.0075, 0.0065, 0.0063, 0.0058, 0.0057"
+1,0.32951087545863056,-0.3642131379831256,399,"northern, ireland, victims, assembly, executive, stormont, state, secretary, parties, institutional","0.0194, 0.0194, 0.0093, 0.0087, 0.0084, 0.0071, 0.0069, 0.0063, 0.0058, 0.0054"
+2,0.18885307479257038,-0.2750498908129405,396,"scotland, scottish, snp, union, prime, brexit, party, government, independence, referendum","0.0238, 0.0168, 0.0101, 0.0065, 0.0063, 0.0055, 0.0054, 0.0053, 0.0052, 0.0051"
+3,0.36296176107965056,-0.07673877815070324,312,"you, your, speaker, mr, me, house, my, thank, was, member","0.0240, 0.0118, 0.0112, 0.0070, 0.0070, 0.0065, 0.0063, 0.0060, 0.0059, 0.0057"
+4,0.5360934664112451,-0.0002634414021722256,283,"ireland, northern, border, agreement, customs, irish, checks, friday, goods, union","0.0264, 0.0229, 0.0174, 0.0131, 0.0118, 0.0114, 0.0110, 0.0106, 0.0094, 0.0071"
+5,0.42592906455966106,-0.1360278495499798,233,"court, supreme, judges, judgment, prorogation, attorney, judiciary, judicial, advice, law","0.0221, 0.0194, 0.0155, 0.0130, 0.0126, 0.0113, 0.0106, 0.0101, 0.0082, 0.0079"
+6,0.47447132528746266,-0.05552811310007795,220,"iran, nazanin, iranian, foreign, ratcliffe, international, dual, nationals, nuclear, her","0.0381, 0.0209, 0.0151, 0.0116, 0.0094, 0.0086, 0.0082, 0.0079, 0.0077, 0.0074"
+7,0.347672893273347,-0.22993538949699846,203,"motion, bill, order, amendments, house, proceedings, shall, programme, withdrawal, leader","0.0230, 0.0168, 0.0156, 0.0143, 0.0139, 0.0138, 0.0111, 0.0106, 0.0103, 0.0101"
+8,0.5895562414883248,0.019263985489375943,194,"domestic, abuse, bill, violence, victims, women, perpetrators, her, victim, definition","0.0280, 0.0266, 0.0108, 0.0099, 0.0098, 0.0074, 0.0064, 0.0062, 0.0061, 0.0058"
+9,0.7371304581199868,0.12383423922848127,174,"rail, transport, line, network, trains, north, railway, investment, east, train","0.0198, 0.0134, 0.0099, 0.0099, 0.0093, 0.0089, 0.0088, 0.0082, 0.0075, 0.0073"
+Overall,0.47745881731992224,-0.08705864156798412,,,

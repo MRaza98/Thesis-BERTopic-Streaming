@@ -1,0 +1,259 @@
+# %%
+from sentence_transformers import SentenceTransformer
+from bertopic import BERTopic
+from sklearn.decomposition import PCA
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import logging
+import torch
+import time
+import psutil
+import GPUtil
+import threading
+from sklearn.cluster import KMeans
+from sklearn.metrics import silhouette_score
+
+# %%
+keep_logging = True
+
+# %%
+# Set up logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
+
+# %%
+df = pd.read_csv('/home/raza/projects/Streaming-Pipeline-Parliamentary-Debates/data/preprocessed_england_speeches_sample_2015.csv')
+documents = df['text'].tolist()
+
+# %%
+def log_gpu_usage():
+    gpus = GPUtil.getGPUs()
+    for i, gpu in enumerate(gpus):
+        logger.info(f"GPU {i}: {gpu.name}")
+        logger.info(f"  Memory Use: {gpu.memoryUsed}MB / {gpu.memoryTotal}MB")
+        logger.info(f"  GPU Utilization: {gpu.load*100:.2f}%")
+
+def continuous_gpu_logging(interval=5):
+    while keep_logging:
+        log_gpu_usage()
+        time.sleep(interval)
+
+# %%
+def log_system_info():
+    logger.info(f"CPU Usage: {psutil.cpu_percent()}%")
+    logger.info(f"RAM Usage: {psutil.virtual_memory().percent}%")
+
+# %%
+# Check for CUDA availability
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+logger.info(f"Using device: {device}")
+
+if torch.cuda.is_available():
+    logger.info(f"CUDA Device: {torch.cuda.get_device_name(0)}")
+    logger.info(f"CUDA Version: {torch.version.cuda}")
+    logger.info(f"Total GPU Memory: {torch.cuda.get_device_properties(0).total_memory / 1e9:.2f} GB")
+
+# Load documents
+logger.info("Loading documents...")
+logger.info(f"Loaded {len(documents)} documents")
+
+# %%
+# Model 1
+logger.info("Initializing Model 1 (all-MiniLM-L6-v2)")
+model1 = SentenceTransformer('all-MiniLM-L6-v2').to(device)
+logger.info("Model 1 initialization complete")
+log_gpu_usage()
+
+# %%
+# Model 2
+logger.info("Initializing Model 2 (all-mpnet-base-v2)")
+model2 = SentenceTransformer('all-mpnet-base-v2').to(device)
+logger.info("Model 2 initialization complete")
+log_gpu_usage()
+
+# %%
+def perform_elbow_method(embeddings, max_clusters=30):
+    inertias = []
+    silhouette_scores = []
+    k_values = range(2, max_clusters + 1)
+
+    for k in k_values:
+        kmeans = KMeans(n_clusters=k, random_state=42)
+        kmeans.fit(embeddings)
+        inertias.append(kmeans.inertia_)
+        silhouette_scores.append(silhouette_score(embeddings, kmeans.labels_))
+
+    # Plot the Elbow Curve
+    plt.figure(figsize=(12, 5))
+    plt.subplot(1, 2, 1)
+    plt.plot(k_values, inertias, 'bx-')
+    plt.xlabel('Number of Clusters (k)')
+    plt.ylabel('Inertia')
+    plt.title('Elbow Method')
+
+    # Plot the Silhouette Scores
+    plt.subplot(1, 2, 2)
+    plt.plot(k_values, silhouette_scores, 'rx-')
+    plt.xlabel('Number of Clusters (k)')
+    plt.ylabel('Silhouette Score')
+    plt.title('Silhouette Analysis')
+
+    plt.tight_layout()
+    plt.show()
+
+    return inertias, silhouette_scores
+
+# %%
+# Start background GPU logging
+gpu_logging_thread = threading.Thread(target=continuous_gpu_logging)
+gpu_logging_thread.start()
+
+# %%
+# Encode documents and perform Elbow Method analysis for Model 1
+logger.info("Encoding documents and performing Elbow Method analysis for Model 1 (all-MiniLM-L6-v2)")
+start_time = time.time()
+embeddings_mini = model1.encode(documents)
+inertias_mini, silhouette_scores_mini = perform_elbow_method(embeddings_mini)
+end_time = time.time()
+duration = end_time - start_time
+logger.info(f"Model 1 (mini) processing time: {duration:.2f} seconds")
+
+# Ran for more than 600 minutes...so I stopped it
+
+# %%
+# Encode documents and perform Elbow Method analysis for Model 2
+logger.info("Encoding documents and performing Elbow Method analysis for Model 2 (all-mpnet-base-v2)")
+start_time = time.time()
+embeddings_mpnet = model2.encode(documents)
+inertias_mpnet, silhouette_scores_mpnet = perform_elbow_method(embeddings_mpnet)
+end_time = time.time()
+duration = end_time - start_time
+logger.info(f"Model 2 (mpnet) processing time: {duration:.2f} seconds")
+
+# %%
+# Print the results
+print("Model 1 (mini) results:")
+print(f"Inertias: {inertias_mini}")
+print(f"Silhouette Scores: {silhouette_scores_mini}")
+
+print("\nModel 2 (mpnet) results:")
+print(f"Inertias: {inertias_mpnet}")
+print(f"Silhouette Scores: {silhouette_scores_mpnet}")
+
+# %%
+# Choose the number of clusters based on the Elbow Method analysis
+# You'll need to examine the plots and choose appropriate values
+n_clusters_mini = 20  # Replace with your chosen number for Model 1
+n_clusters_mpnet = 20  # Replace with your chosen number for Model 2
+
+# %%
+# Create K-means clustering models
+cluster_model_mini = KMeans(n_clusters=n_clusters_mini)
+cluster_model_mpnet = KMeans(n_clusters=n_clusters_mpnet)
+
+# %%
+# Create PCA Model with 20 components
+
+pca_model = PCA(n_components=20)
+
+# %%
+# Create BERTopic models with K-means clustering
+topic_model1 = BERTopic(embedding_model=model1, umap_model=pca_model, clustering_model=cluster_model_mini)
+topic_model2 = BERTopic(embedding_model=model2, umap_model=pca_model, clustering_model=cluster_model_mpnet)
+
+# %%
+# Stop background GPU logging
+keep_logging = False
+gpu_logging_thread.join()
+
+logger.info("All processing complete")
+
+# %%
+# Load model 1 results
+
+topic_model_mini = BERTopic.load("models/model_all_MiniLM_L6_v2_pca_20")
+
+# Load model 2 results
+
+topic_model_mpnet = BERTopic.load("models/model_all_mpnet_base_v2_pca_20")
+
+# %%
+def compare_topic_distributions(model1, model2):
+    info1 = topic_model_mini.get_topic_info()
+    info2 = topic_model_mpnet.get_topic_info()
+
+    print("mini:")
+    print(f"Number of topics: {len(info1) - 1}")  # Subtract 1 to exclude the -1 topic (outliers)
+    print(f"Average topic size: {info1[info1['Topic'] != -1]['Count'].mean():.2f}")
+    print(f"Largest topic size: {info1['Count'].max()}")
+    print(f"Smallest topic size: {info1[info1['Topic'] != -1]['Count'].min()}")
+
+    print("\nmpnet:")
+    print(f"Number of topics: {len(info2) - 1}")
+    print(f"Average topic size: {info2[info2['Topic'] != -1]['Count'].mean():.2f}")
+    print(f"Largest topic size: {info2['Count'].max()}")
+    print(f"Smallest topic size: {info2[info2['Topic'] != -1]['Count'].min()}")
+
+compare_topic_distributions(topic_model_mini, topic_model_mpnet)
+
+# %%
+def compare_top_topics(model1, model2, n_topics=10):
+    info1 = model1.get_topic_info()
+    info2 = model2.get_topic_info()
+
+    print("Top 5 topics for each model:")
+    for i in range(n_topics):
+        print(f"\nTopic {i}:")
+        print("mini:", info1.iloc[i]['Name'], "-", info1.iloc[i]['Representation'])
+        print("mpnet:", info2.iloc[i]['Name'], "-", info2.iloc[i]['Representation'])
+
+compare_top_topics(topic_model_mini, topic_model_mpnet)
+
+# %%
+def compare_topic_diversity(model1, model2):
+    topics1 = model1.get_topics()
+    topics2 = model2.get_topics()
+
+    unique_words1 = set(word for topic in topics1.values() for word, _ in topic)
+    unique_words2 = set(word for topic in topics2.values() for word, _ in topic)
+
+    print("Topic diversity:")
+    print(f"mini unique words: {len(unique_words1)}")
+    print(f"mpnet unique words: {len(unique_words2)}")
+
+compare_topic_diversity(topic_model_mini, topic_model_mpnet)
+
+# %%
+from gensim.models.coherencemodel import CoherenceModel
+from gensim.corpora.dictionary import Dictionary
+from gensim.utils import simple_preprocess
+
+documents = [simple_preprocess(doc) for doc in documents]
+dictionary = Dictionary(documents)
+
+# %%
+def get_topic_words(topic_model, num_words=10):
+    topic_words = []
+    for topic in range(len(topic_model.get_topic_info())-1):  # -1 to exclude the -1 topic
+        words = [word for word, _ in topic_model.get_topic(topic)][:num_words]
+        topic_words.append(words)
+    return topic_words
+
+# %%
+topics_mini = get_topic_words(topic_model_mini)
+topics_mpnet = get_topic_words(topic_model_mpnet)
+
+def try_different_coherence(topics, texts, dictionary, model_name):
+    for coherence_type in ['c_v', 'u_mass', 'c_uci']:
+        try:
+            coherence_model = CoherenceModel(topics=topics, texts=texts, dictionary=dictionary, coherence=coherence_type)
+            coherence_score = coherence_model.get_coherence()
+            print(f"{model_name} {coherence_type} Coherence: {coherence_score}")
+        except Exception as e:
+            print(f"Error calculating {coherence_type} coherence for {model_name}: {e}")
+
+try_different_coherence(topic_model_mini, documents, dictionary, "mini")
+try_different_coherence(topic_model_mpnet, documents, dictionary, "mpnet")
+
+

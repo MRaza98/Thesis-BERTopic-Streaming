@@ -1,0 +1,2 @@
+distance_metric,num_topics,coherence_score,training_time,coherence_calculation_time
+euclidean,541,0.60856968411588,277.84405875205994,392.4213330745697

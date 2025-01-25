@@ -1,0 +1,12 @@
+topic_id,cv_score,cnpmi_score,size,top_words,word_weights
+0,0.7824090127283437,0.12407196009829916,564,"climate, emissions, carbon, air, change, environment, environmental, zero, targets, net","0.0252, 0.0180, 0.0159, 0.0149, 0.0128, 0.0123, 0.0114, 0.0113, 0.0105, 0.0105"
+1,0.3365465215638273,-0.3235664697477274,399,"northern, ireland, victims, assembly, executive, institutional, parties, state, secretary, abuse","0.0283, 0.0283, 0.0160, 0.0159, 0.0150, 0.0108, 0.0105, 0.0103, 0.0093, 0.0090"
+2,0.2638248377212686,-0.3007150298784898,396,"scotland, scottish, snp, union, independence, prime, referendum, brexit, party, kingdom","0.0382, 0.0285, 0.0189, 0.0102, 0.0099, 0.0089, 0.0087, 0.0082, 0.0082, 0.0081"
+3,0.2752278261041509,-0.17868713060830388,312,"speaker, mr, thank, house, parliament, member, years, great, place, members","0.0190, 0.0118, 0.0100, 0.0092, 0.0086, 0.0083, 0.0071, 0.0070, 0.0065, 0.0062"
+4,0.5638280093921191,0.010319231102673269,283,"ireland, northern, border, customs, irish, agreement, checks, friday, goods, republic","0.0369, 0.0321, 0.0300, 0.0208, 0.0208, 0.0208, 0.0201, 0.0193, 0.0171, 0.0126"
+5,0.3237512732389317,-0.20040265932286136,233,"court, supreme, judges, judgment, prorogation, attorney, judiciary, judicial, advice, lord","0.0389, 0.0371, 0.0306, 0.0247, 0.0238, 0.0221, 0.0213, 0.0202, 0.0147, 0.0144"
+6,0.2637790475555425,-0.23277104808724966,220,"iran, iranian, foreign, nuclear, nationals, international, gulf, family, attacks, british","0.0751, 0.0317, 0.0211, 0.0161, 0.0161, 0.0154, 0.0099, 0.0095, 0.0093, 0.0086"
+7,0.3888410276734655,-0.23601145357188538,203,"motion, amendments, proceedings, order, shall, programme, withdrawal, house, leader, reading","0.0415, 0.0273, 0.0272, 0.0265, 0.0213, 0.0189, 0.0187, 0.0185, 0.0170, 0.0167"
+8,0.6620680101097449,0.13201532452568074,194,"domestic, abuse, violence, victims, perpetrators, victim, women, definition, commissioner, survivors","0.0501, 0.0457, 0.0185, 0.0171, 0.0130, 0.0121, 0.0121, 0.0116, 0.0093, 0.0089"
+9,0.7372175472564464,0.12320052916006197,174,"rail, transport, network, trains, line, railway, north, train, investment, passengers","0.0355, 0.0226, 0.0179, 0.0178, 0.0174, 0.0166, 0.0140, 0.0137, 0.0133, 0.0130"
+Overall,0.4597493113343841,-0.10825467463298022,,,
