@@ -1,0 +1,2 @@
+n_components,run,num_topics,coherence_score,training_time,coherence_calculation_time
+5,3,750,0.5797103400882334,202.2624020576477,489.3648581504822

@@ -1,0 +1,224 @@
+{
+    "batch": {
+        "initial": {
+            "cpu_memory_mean": 8.802236557006836,
+            "cpu_memory_std": 0.0068874359130859375,
+            "time_mean": 6190.096589803696,
+            "time_std": 257.3426926136017,
+            "gpu_memory_stats": {
+                "gpu_0": {
+                    "allocated_mean": 0.08523130416870117,
+                    "allocated_std": 0.0,
+                    "reserved_mean": 0.291015625,
+                    "reserved_std": 0.0
+                },
+                "gpu_1": {
+                    "allocated_mean": 0.0,
+                    "allocated_std": 0.0,
+                    "reserved_mean": 0.0,
+                    "reserved_std": 0.0
+                },
+                "gpu_2": {
+                    "allocated_mean": 0.0,
+                    "allocated_std": 0.0,
+                    "reserved_mean": 0.0,
+                    "reserved_std": 0.0
+                },
+                "gpu_3": {
+                    "allocated_mean": 0.0,
+                    "allocated_std": 0.0,
+                    "reserved_mean": 0.0,
+                    "reserved_std": 0.0
+                }
+            }
+        },
+        "full": {
+            "cpu_memory_mean": 9.81488037109375,
+            "cpu_memory_std": 0.05821990966796875,
+            "time_mean": 7293.712253689766,
+            "time_std": 96.54148876667023,
+            "gpu_memory_stats": {
+                "gpu_0": {
+                    "allocated_mean": 0.08523130416870117,
+                    "allocated_std": 0.0,
+                    "reserved_mean": 0.240234375,
+                    "reserved_std": 0.0
+                },
+                "gpu_1": {
+                    "allocated_mean": 0.0,
+                    "allocated_std": 0.0,
+                    "reserved_mean": 0.0,
+                    "reserved_std": 0.0
+                },
+                "gpu_2": {
+                    "allocated_mean": 0.0,
+                    "allocated_std": 0.0,
+                    "reserved_mean": 0.0,
+                    "reserved_std": 0.0
+                },
+                "gpu_3": {
+                    "allocated_mean": 0.0,
+                    "allocated_std": 0.0,
+                    "reserved_mean": 0.0,
+                    "reserved_std": 0.0
+                }
+            }
+        }
+    },
+    "incremental": {
+        "by_year": {
+            "2000": {
+                "cpu_memory_mean": 0.26029586791992188,
+                "cpu_memory_std": 0.007198333740234375,
+                "time_mean": 150.44821453094482,
+                "time_std": 0.8607139723205566
+            },
+            "2001": {
+                "cpu_memory_mean": 0.16152381896972656,
+                "cpu_memory_std": 0.005506515502929688,
+                "time_mean": 123.54839158058167,
+                "time_std": 1.2437760829925537
+            },
+            "2002": {
+                "cpu_memory_mean": 0.20746994018554688,
+                "cpu_memory_std": 0.004495143890380859,
+                "time_mean": 125.62163245677948,
+                "time_std": 0.32023191452026367
+            },
+            "2003": {
+                "cpu_memory_mean": 0.22492218017578125,
+                "cpu_memory_std": 0.008419036865234375,
+                "time_mean": 142.01227271556854,
+                "time_std": 1.665708541870117
+            },
+            "2004": {
+                "cpu_memory_mean": 0.23509788513183594,
+                "cpu_memory_std": 0.006616592407226562,
+                "time_mean": 141.48210287094116,
+                "time_std": 1.3929331302642822
+            },
+            "2005": {
+                "cpu_memory_mean": 0.18632698059082031,
+                "cpu_memory_std": 0.009149551391601562,
+                "time_mean": 117.01580023765564,
+                "time_std": 0.7611989974975586
+            },
+            "2006": {
+                "cpu_memory_mean": 0.22311019897460938,
+                "cpu_memory_std": 0.006549835205078125,
+                "time_mean": 129.88308310508728,
+                "time_std": 1.508162021636963
+            },
+            "2007": {
+                "cpu_memory_mean": 0.23785209655761719,
+                "cpu_memory_std": 0.005376815795898438,
+                "time_mean": 134.61692047119141,
+                "time_std": 1.3334279060363769
+            },
+            "2008": {
+                "cpu_memory_mean": 0.24276924133300781,
+                "cpu_memory_std": 0.005861282348632812,
+                "time_mean": 142.30719971656799,
+                "time_std": 1.4485652446746826
+            },
+            "2009": {
+                "cpu_memory_mean": 0.22365951538085938,
+                "cpu_memory_std": 0.006244659423828125,
+                "time_mean": 131.09868419170380,
+                "time_std": 1.181195616722107
+            },
+            "2010": {
+                "cpu_memory_mean": 0.27392768859863281,
+                "cpu_memory_std": 0.007310867309570312,
+                "time_mean": 159.02530694007874,
+                "time_std": 0.58393383026123
+            },
+            "2011": {
+                "cpu_memory_mean": 0.32199668884277344,
+                "cpu_memory_std": 0.006196975708007812,
+                "time_mean": 172.44217586517334,
+                "time_std": 2.2257182292938232
+            },
+            "2012": {
+                "cpu_memory_mean": 0.26374244689941406,
+                "cpu_memory_std": 0.005334854125976562,
+                "time_mean": 150.17605674266815,
+                "time_std": 0.13599991798400879
+            },
+            "2013": {
+                "cpu_memory_mean": 0.29580116271972656,
+                "cpu_memory_std": 0.005003452301025391,
+                "time_mean": 168.22566485404968,
+                "time_std": 2.1039711475372314
+            },
+            "2014": {
+                "cpu_memory_mean": 0.27536964416503906,
+                "cpu_memory_std": 0.0002918243408203125,
+                "time_mean": 155.26778900623322,
+                "time_std": 1.1374537944793701
+            },
+            "2015": {
+                "cpu_memory_mean": 0.24453926086425781,
+                "cpu_memory_std": 0.004507064819335938,
+                "time_mean": 143.06652474403381,
+                "time_std": 2.434220552444458
+            },
+            "2016": {
+                "cpu_memory_mean": 0.28591918945312500,
+                "cpu_memory_std": 0.004638671875000000,
+                "time_mean": 173.05815827846527,
+                "time_std": 0.8876758813858032
+            },
+            "2017": {
+                "cpu_memory_mean": 0.25725173950195312,
+                "cpu_memory_std": 0.005054473876953125,
+                "time_mean": 151.83971297740936,
+                "time_std": 0.33903431892395020
+            },
+            "2018": {
+                "cpu_memory_mean": 0.34428405761718750,
+                "cpu_memory_std": 0.003814697265625000,
+                "time_mean": 192.52622857093811,
+                "time_std": 2.1225907802581787
+            },
+            "2019": {
+                "cpu_memory_mean": 0.28386497497558594,
+                "cpu_memory_std": 0.004316329956054688,
+                "time_mean": 161.33378469467163,
+                "time_std": 2.958647251129150
+            }
+        },
+        "overall": {
+            "cpu_memory_mean": 0.25057220458984375,
+            "cpu_memory_std": 0.04561996459960938,
+            "time_mean": 148.71883916854858,
+            "time_std": 19.23647689819336,
+            "gpu_memory_stats": {
+                "gpu_0": {
+                    "allocated_mean": 0.08492612838745117,
+                    "allocated_std": 0.00030517578125,
+                    "reserved_mean": 0.2615234375,
+                    "reserved_std": 0.015660360379219605
+                },
+                "gpu_1": {
+                    "allocated_mean": 0.0,
+                    "allocated_std": 0.0,
+                    "reserved_mean": 0.0,
+                    "reserved_std": 0.0
+                },
+                "gpu_2": {
+                    "allocated_mean": 0.0,
+                    "allocated_std": 0.0,
+                    "reserved_mean": 0.0,
+                    "reserved_std": 0.0
+                },
+                "gpu_3": {
+                    "allocated_mean": 0.0,
+                    "allocated_std": 0.0,
+                    "reserved_mean": 0.0,
+                    "reserved_std": 0.0
+                }
+            }
+        }
+    }
+}

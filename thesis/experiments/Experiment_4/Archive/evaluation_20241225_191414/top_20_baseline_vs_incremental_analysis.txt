@@ -1,0 +1,48 @@
+Baseline vs Incremental Model Comparison
+Generated on: 2024-12-25 22:08:08
+==================================================
+
+1. Top 20 Topics Overlap Analysis
+------------------------------
+Number of shared topics in top 20: 8
+Sharing rate: 40.00%
+
+Detailed shared topics:
+
+Baseline (Rank 1): 0_scottish_scotland_snp_scotlands (11241 docs)
+Incremental (Rank 9): 41_scottish_scotland_devolution_parliament (6849 docs)
+Word overlap: 2
+
+Baseline (Rank 2): 1_speaker_order_madam_deputy (5869 docs)
+Incremental (Rank 11): 7_speaker_order_mr_point (5499 docs)
+Word overlap: 2
+
+Baseline (Rank 3): 2_pension_pensions_retirement_pensioners (5765 docs)
+Incremental (Rank 12): 15_pension_pensioners_pensions_retirement (5256 docs)
+Word overlap: 4
+
+Baseline (Rank 5): 4_police_policing_officers_crime (4194 docs)
+Incremental (Rank 8): 3_police_policing_officers_crime (6881 docs)
+Word overlap: 4
+
+Baseline (Rank 6): 5_israel_gaza_palestinian_israeli (3920 docs)
+Incremental (Rank 15): 14_gaza_israel_israeli_hamas (4160 docs)
+Word overlap: 3
+
+Baseline (Rank 8): 7_avoidance_tax_50p_evasion (3063 docs)
+Incremental (Rank 20): 47_tax_avoidance_evasion_corporation (3546 docs)
+Word overlap: 3
+
+Baseline (Rank 12): 11_rail_trains_franchise_passengers (2897 docs)
+Incremental (Rank 4): 2_rail_trains_train_line (10133 docs)
+Word overlap: 2
+
+Baseline (Rank 20): 19_prison_prisons_prisoners_hmp (1951 docs)
+Incremental (Rank 10): 12_prison_prisoners_offenders_sentences (5725 docs)
+Word overlap: 2
+
+2. Topic Coverage Analysis
+------------------------------
+Coverage Rate: 90.00%
+Topics Covered: 18 out of 20
+

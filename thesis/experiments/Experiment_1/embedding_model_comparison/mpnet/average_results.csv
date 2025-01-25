@@ -1,0 +1,4 @@
+metric,average,std_dev
+Training Time,754.8773225784302,126.71880882481396
+Coherence Score,0.5817599892608567,0.0
+Number of Topics,906.0,14.028542333400146

@@ -1,0 +1,9072 @@
+
+Topic_0:
+scottish: 0.0137
+scotland: 0.0113
+snp: 0.0082
+devolution: 0.0059
+parliament: 0.0058
+independence: 0.0042
+powers: 0.0042
+devolved: 0.0033
+consent: 0.0033
+grab: 0.0033
+
+Topic_1:
+universal: 0.0286
+credit: 0.0269
+roll: 0.0086
+claimants: 0.0070
+arrears: 0.0045
+benefits: 0.0044
+work: 0.0043
+system: 0.0042
+uc: 0.0039
+jobcentre: 0.0036
+
+Topic_2:
+rail: 0.0136
+franchise: 0.0113
+trains: 0.0112
+passengers: 0.0109
+timetable: 0.0104
+train: 0.0080
+network: 0.0070
+gtr: 0.0068
+railways: 0.0064
+railway: 0.0064
+
+Topic_3:
+fishing: 0.0249
+fisheries: 0.0204
+fishermen: 0.0145
+fish: 0.0133
+waters: 0.0111
+coastal: 0.0082
+common: 0.0060
+industry: 0.0059
+cfp: 0.0054
+quota: 0.0048
+
+Topic_4:
+syria: 0.0187
+chemical: 0.0141
+weapons: 0.0123
+syrian: 0.0120
+turkey: 0.0089
+assad: 0.0078
+humanitarian: 0.0075
+daesh: 0.0069
+regime: 0.0065
+turkish: 0.0061
+
+Topic_5:
+police: 0.0255
+policing: 0.0123
+crime: 0.0122
+officers: 0.0114
+settlement: 0.0059
+force: 0.0054
+funding: 0.0054
+commissioner: 0.0048
+midlands: 0.0047
+cuts: 0.0045
+
+Topic_6:
+israel: 0.0264
+gaza: 0.0202
+israeli: 0.0153
+palestinian: 0.0133
+hamas: 0.0105
+palestinians: 0.0073
+peace: 0.0058
+palestine: 0.0057
+settlements: 0.0039
+ahmar: 0.0039
+
+Topic_7:
+legal: 0.0138
+justice: 0.0124
+aid: 0.0117
+court: 0.0103
+courts: 0.0096
+judges: 0.0063
+magistrates: 0.0051
+bar: 0.0051
+barristers: 0.0048
+judicial: 0.0048
+
+Topic_8:
+prison: 0.0358
+prisons: 0.0223
+prisoners: 0.0164
+officers: 0.0095
+reoffending: 0.0078
+hmp: 0.0060
+offenders: 0.0055
+prisoner: 0.0049
+governors: 0.0043
+g4s: 0.0041
+
+Topic_9:
+gentleman: 0.0221
+lady: 0.0121
+give: 0.0112
+happy: 0.0095
+write: 0.0087
+hon: 0.0085
+way: 0.0080
+him: 0.0059
+meet: 0.0057
+answer: 0.0056
+
+Topic_10:
+councils: 0.0156
+council: 0.0138
+local: 0.0107
+county: 0.0076
+northamptonshire: 0.0076
+authorities: 0.0060
+funding: 0.0057
+services: 0.0043
+cuts: 0.0043
+grant: 0.0040
+
+Topic_11:
+yemen: 0.0272
+saudi: 0.0249
+arabia: 0.0164
+arms: 0.0113
+humanitarian: 0.0104
+conflict: 0.0087
+houthis: 0.0082
+hodeidah: 0.0080
+coalition: 0.0075
+saudis: 0.0062
+
+Topic_12:
+russia: 0.0236
+russian: 0.0223
+ukraine: 0.0079
+putin: 0.0075
+russians: 0.0061
+crimea: 0.0050
+salisbury: 0.0043
+europe: 0.0040
+ukrainian: 0.0038
+actions: 0.0037
+
+Topic_13:
+cancer: 0.0398
+breast: 0.0122
+screening: 0.0105
+cancers: 0.0088
+treatment: 0.0083
+diagnosis: 0.0079
+survival: 0.0072
+blood: 0.0070
+patients: 0.0062
+radiotherapy: 0.0061
+
+Topic_14:
+refugees: 0.0213
+asylum: 0.0148
+refugee: 0.0147
+family: 0.0071
+seekers: 0.0069
+reunion: 0.0064
+children: 0.0048
+resettlement: 0.0043
+reunited: 0.0041
+accommodation: 0.0038
+
+Topic_15:
+backstop: 0.0413
+ireland: 0.0071
+agreement: 0.0071
+withdrawal: 0.0065
+northern: 0.0062
+arrangement: 0.0059
+temporary: 0.0056
+border: 0.0051
+relationship: 0.0051
+attorney: 0.0044
+
+Topic_16:
+border: 0.0275
+ireland: 0.0172
+irish: 0.0129
+customs: 0.0109
+northern: 0.0105
+republic: 0.0088
+hard: 0.0076
+union: 0.0058
+checks: 0.0053
+between: 0.0051
+
+Topic_17:
+drug: 0.0224
+drugs: 0.0212
+cannabis: 0.0194
+medicinal: 0.0074
+consumption: 0.0074
+alfie: 0.0073
+substances: 0.0064
+heroin: 0.0058
+deaths: 0.0052
+users: 0.0052
+
+Topic_18:
+homelessness: 0.0296
+rough: 0.0270
+sleeping: 0.0224
+homeless: 0.0181
+sleepers: 0.0093
+accommodation: 0.0070
+housing: 0.0062
+streets: 0.0053
+reduction: 0.0051
+temporary: 0.0041
+
+Topic_19:
+prime: 0.0157
+she: 0.0117
+deal: 0.0116
+vote: 0.0093
+her: 0.0086
+minister: 0.0066
+brexit: 0.0057
+no: 0.0043
+majority: 0.0040
+house: 0.0034
+
+Topic_20:
+homes: 0.0192
+housing: 0.0148
+planning: 0.0134
+affordable: 0.0119
+built: 0.0077
+build: 0.0077
+houses: 0.0075
+neighbourhood: 0.0074
+land: 0.0066
+developers: 0.0064
+
+Topic_21:
+member: 0.0341
+friend: 0.0151
+south: 0.0140
+give: 0.0130
+north: 0.0114
+east: 0.0097
+way: 0.0091
+john: 0.0087
+west: 0.0084
+for: 0.0084
+
+Topic_22:
+schools: 0.0226
+school: 0.0135
+funding: 0.0133
+teachers: 0.0131
+pupil: 0.0114
+formula: 0.0105
+education: 0.0079
+per: 0.0072
+budgets: 0.0054
+pupils: 0.0054
+
+Topic_23:
+rohingya: 0.0253
+burma: 0.0178
+bangladesh: 0.0155
+burmese: 0.0135
+myanmar: 0.0091
+camps: 0.0086
+refugees: 0.0072
+rakhine: 0.0059
+international: 0.0055
+un: 0.0054
+
+Topic_24:
+welsh: 0.0266
+wales: 0.0254
+prosperity: 0.0066
+fund: 0.0064
+shared: 0.0053
+language: 0.0051
+devolved: 0.0039
+north: 0.0036
+cardiff: 0.0035
+devolution: 0.0035
+
+Topic_25:
+windrush: 0.0311
+generation: 0.0183
+home: 0.0086
+immigration: 0.0072
+illegal: 0.0058
+here: 0.0054
+caribbean: 0.0052
+commonwealth: 0.0051
+citizens: 0.0046
+deported: 0.0045
+
+Topic_26:
+mental: 0.0419
+health: 0.0239
+young: 0.0065
+services: 0.0059
+children: 0.0050
+adolescent: 0.0046
+camhs: 0.0045
+psychosis: 0.0044
+parity: 0.0040
+problems: 0.0039
+
+Topic_27:
+claims: 0.0256
+insurance: 0.0212
+whiplash: 0.0124
+injury: 0.0110
+premiums: 0.0092
+injuries: 0.0084
+compensation: 0.0080
+fraudulent: 0.0080
+insurers: 0.0060
+companies: 0.0058
+
+Topic_28:
+plastic: 0.0454
+plastics: 0.0183
+waste: 0.0151
+recycling: 0.0148
+packaging: 0.0147
+bottles: 0.0097
+oceans: 0.0074
+recycled: 0.0073
+environment: 0.0066
+marine: 0.0056
+
+Topic_29:
+give: 0.1558
+way: 0.1108
+gentleman: 0.1027
+hon: 0.0280
+will: 0.0237
+spade: 0.0040
+the: 0.0031
+briefly: 0.0017
+gave: 0.0013
+long: 0.0013
+
+Topic_30:
+landlords: 0.0219
+tenants: 0.0196
+tenant: 0.0109
+rented: 0.0107
+fees: 0.0106
+agents: 0.0101
+landlord: 0.0095
+tenancy: 0.0087
+letting: 0.0082
+housing: 0.0071
+
+Topic_31:
+heathrow: 0.0363
+airport: 0.0196
+airports: 0.0164
+expansion: 0.0154
+runway: 0.0129
+flights: 0.0077
+slots: 0.0065
+regional: 0.0063
+hub: 0.0061
+connectivity: 0.0056
+
+Topic_32:
+ireland: 0.0170
+northern: 0.0170
+assembly: 0.0104
+sinn: 0.0084
+executive: 0.0082
+fa: 0.0079
+stormont: 0.0068
+decisions: 0.0059
+civil: 0.0052
+devolved: 0.0049
+
+Topic_33:
+energy: 0.0221
+cap: 0.0186
+ofgem: 0.0139
+price: 0.0109
+customers: 0.0108
+consumers: 0.0092
+market: 0.0078
+tariffs: 0.0067
+prices: 0.0060
+tariff: 0.0058
+
+Topic_34:
+citizens: 0.0248
+eu: 0.0153
+status: 0.0130
+settled: 0.0119
+citizenship: 0.0115
+nationals: 0.0113
+rights: 0.0100
+living: 0.0070
+uk: 0.0057
+scheme: 0.0056
+
+Topic_35:
+nursing: 0.0333
+nurses: 0.0333
+nurse: 0.0145
+bursary: 0.0125
+training: 0.0077
+students: 0.0074
+bursaries: 0.0072
+doctors: 0.0068
+nhs: 0.0066
+student: 0.0061
+
+Topic_36:
+care: 0.0304
+social: 0.0209
+adult: 0.0117
+funding: 0.0071
+carers: 0.0060
+councils: 0.0052
+green: 0.0052
+paper: 0.0044
+local: 0.0043
+term: 0.0039
+
+Topic_37:
+data: 0.0351
+protection: 0.0136
+commissioner: 0.0088
+information: 0.0085
+analytica: 0.0081
+facebook: 0.0079
+gdpr: 0.0067
+cambridge: 0.0062
+digital: 0.0052
+bill: 0.0047
+
+Topic_38:
+customs: 0.0336
+union: 0.0149
+trade: 0.0094
+eu: 0.0061
+tariff: 0.0056
+goods: 0.0052
+single: 0.0051
+tariffs: 0.0050
+market: 0.0049
+arrangement: 0.0047
+
+Topic_39:
+trade: 0.0260
+free: 0.0145
+deals: 0.0109
+agreements: 0.0096
+wto: 0.0080
+trading: 0.0077
+countries: 0.0076
+agreement: 0.0068
+world: 0.0061
+eu: 0.0058
+
+Topic_40:
+disabled: 0.0309
+disability: 0.0226
+disabilities: 0.0127
+confident: 0.0093
+scheme: 0.0070
+employers: 0.0070
+employment: 0.0062
+people: 0.0057
+work: 0.0049
+motability: 0.0036
+
+Topic_41:
+broadband: 0.0527
+fibre: 0.0198
+superfast: 0.0197
+coverage: 0.0191
+mobile: 0.0131
+rural: 0.0127
+roll: 0.0091
+connectivity: 0.0090
+speeds: 0.0081
+megabits: 0.0076
+
+Topic_42:
+minister: 0.0191
+give: 0.0065
+ministers: 0.0050
+please: 0.0045
+way: 0.0045
+him: 0.0039
+he: 0.0038
+hope: 0.0035
+reshuffle: 0.0033
+will: 0.0033
+
+Topic_43:
+carillion: 0.0413
+contracts: 0.0145
+collapse: 0.0109
+company: 0.0101
+liquidation: 0.0071
+capita: 0.0070
+outsourcing: 0.0069
+suppliers: 0.0066
+profit: 0.0065
+public: 0.0060
+
+Topic_44:
+motion: 0.0167
+house: 0.0082
+leader: 0.0082
+amendment: 0.0075
+vote: 0.0064
+order: 0.0061
+amendable: 0.0057
+amendments: 0.0056
+motions: 0.0050
+debate: 0.0050
+
+Topic_45:
+nato: 0.0518
+defence: 0.0115
+alliance: 0.0113
+summit: 0.0098
+allies: 0.0078
+europe: 0.0061
+threats: 0.0059
+estonia: 0.0057
+states: 0.0055
+security: 0.0055
+
+Topic_46:
+apprenticeships: 0.0492
+apprenticeship: 0.0366
+levy: 0.0192
+apprentices: 0.0183
+training: 0.0105
+skills: 0.0090
+education: 0.0083
+employers: 0.0073
+starts: 0.0068
+colleges: 0.0060
+
+Topic_47:
+bill: 0.0171
+amendments: 0.0084
+reading: 0.0044
+christchurch: 0.0043
+chope: 0.0033
+passage: 0.0030
+member: 0.0029
+support: 0.0028
+statute: 0.0028
+house: 0.0028
+
+Topic_48:
+nuclear: 0.0511
+hinkley: 0.0113
+energy: 0.0109
+reactors: 0.0101
+wylfa: 0.0087
+power: 0.0081
+electricity: 0.0073
+cumbria: 0.0072
+toshiba: 0.0069
+moorside: 0.0061
+
+Topic_49:
+poverty: 0.0354
+child: 0.0139
+households: 0.0120
+children: 0.0108
+workless: 0.0100
+families: 0.0088
+freeze: 0.0067
+absolute: 0.0061
+fewer: 0.0059
+living: 0.0053
+
+Topic_50:
+government: 0.0203
+governance: 0.0062
+policies: 0.0053
+must: 0.0053
+urge: 0.0051
+provisions: 0.0051
+policy: 0.0042
+need: 0.0041
+recognise: 0.0040
+œ30: 0.0040
+
+Topic_51:
+defence: 0.0328
+threats: 0.0073
+spending: 0.0065
+armed: 0.0064
+capability: 0.0064
+modernising: 0.0064
+budget: 0.0063
+mod: 0.0063
+fiscally: 0.0060
+security: 0.0059
+
+Topic_52:
+complaints: 0.0142
+harassment: 0.0110
+laura: 0.0108
+bullying: 0.0105
+dame: 0.0088
+leader: 0.0071
+culture: 0.0071
+cox: 0.0066
+staff: 0.0065
+allegations: 0.0064
+
+Topic_53:
+bank: 0.0264
+branches: 0.0208
+banks: 0.0194
+banking: 0.0185
+rbs: 0.0178
+branch: 0.0176
+closures: 0.0154
+customers: 0.0078
+closure: 0.0067
+communities: 0.0065
+
+Topic_54:
+autism: 0.0522
+autistic: 0.0213
+spectrum: 0.0094
+diagnosis: 0.0048
+awareness: 0.0047
+adults: 0.0043
+friendly: 0.0038
+criminal: 0.0038
+condition: 0.0037
+training: 0.0036
+
+Topic_55:
+fire: 0.0441
+firefighters: 0.0285
+rescue: 0.0137
+tyne: 0.0101
+service: 0.0097
+wear: 0.0097
+fires: 0.0080
+services: 0.0055
+emergency: 0.0052
+firefighter: 0.0052
+
+Topic_56:
+knife: 0.0278
+crime: 0.0163
+violence: 0.0141
+young: 0.0101
+youth: 0.0097
+gang: 0.0083
+knives: 0.0068
+violent: 0.0064
+gangs: 0.0057
+stabbed: 0.0055
+
+Topic_57:
+hs2: 0.0429
+rail: 0.0101
+line: 0.0090
+crewe: 0.0081
+capacity: 0.0077
+phase: 0.0076
+stoke: 0.0067
+project: 0.0064
+speed: 0.0063
+coast: 0.0057
+
+Topic_58:
+abortion: 0.0320
+ireland: 0.0146
+northern: 0.0134
+women: 0.0118
+abortions: 0.0081
+rights: 0.0055
+woman: 0.0054
+walthamstow: 0.0052
+assembly: 0.0052
+pregnancy: 0.0050
+
+Topic_59:
+farmers: 0.0237
+farming: 0.0165
+food: 0.0156
+agriculture: 0.0127
+agricultural: 0.0120
+production: 0.0084
+environmental: 0.0063
+environment: 0.0061
+farm: 0.0060
+land: 0.0051
+
+Topic_60:
+gender: 0.0335
+gap: 0.0237
+women: 0.0216
+pay: 0.0146
+reporting: 0.0082
+equality: 0.0074
+employers: 0.0074
+men: 0.0068
+workplace: 0.0063
+companies: 0.0052
+
+Topic_61:
+obesity: 0.0386
+drinks: 0.0193
+childhood: 0.0188
+sugar: 0.0184
+advertising: 0.0140
+obese: 0.0127
+food: 0.0099
+children: 0.0096
+junk: 0.0093
+overweight: 0.0089
+
+Topic_62:
+pip: 0.0502
+dla: 0.0128
+assessments: 0.0092
+assessment: 0.0078
+claimants: 0.0075
+appeal: 0.0074
+disabled: 0.0060
+process: 0.0053
+dwp: 0.0052
+appeals: 0.0046
+
+Topic_63:
+veterans: 0.0145
+northern: 0.0125
+ireland: 0.0124
+soldiers: 0.0103
+armed: 0.0102
+forces: 0.0096
+limitations: 0.0090
+statute: 0.0076
+served: 0.0064
+covenant: 0.0063
+
+Topic_64:
+member: 0.0062
+chairmanship: 0.0051
+pleasure: 0.0047
+serve: 0.0047
+your: 0.0046
+debate: 0.0039
+mr: 0.0038
+members: 0.0034
+west: 0.0033
+hon: 0.0033
+
+Topic_65:
+women: 0.0286
+female: 0.0094
+men: 0.0085
+suffrage: 0.0075
+equality: 0.0071
+centenary: 0.0065
+woman: 0.0057
+gender: 0.0053
+celebrate: 0.0051
+1918: 0.0049
+
+Topic_66:
+shipbuilding: 0.0330
+ships: 0.0250
+type: 0.0163
+fleet: 0.0135
+frigates: 0.0112
+shipyards: 0.0109
+ship: 0.0104
+frigate: 0.0102
+26: 0.0094
+navy: 0.0089
+
+Topic_67:
+road: 0.0271
+driving: 0.0138
+safety: 0.0133
+roads: 0.0114
+dangerous: 0.0079
+killed: 0.0076
+deaths: 0.0067
+death: 0.0066
+accidents: 0.0065
+drivers: 0.0061
+
+Topic_68:
+article: 0.0490
+50: 0.0372
+revoke: 0.0238
+revoking: 0.0108
+extension: 0.0088
+revoked: 0.0088
+court: 0.0073
+deal: 0.0056
+european: 0.0055
+revocation: 0.0051
+
+Topic_69:
+semitism: 0.0271
+holocaust: 0.0253
+anti: 0.0247
+jewish: 0.0222
+jews: 0.0083
+memorial: 0.0078
+racism: 0.0068
+semitic: 0.0066
+party: 0.0047
+auschwitz: 0.0045
+
+Topic_70:
+gambling: 0.0548
+betting: 0.0265
+terminals: 0.0170
+odds: 0.0159
+machines: 0.0134
+stake: 0.0127
+fixed: 0.0127
+gaming: 0.0106
+fobts: 0.0104
+addiction: 0.0097
+
+Topic_71:
+cladding: 0.0383
+fire: 0.0235
+grenfell: 0.0181
+tower: 0.0175
+buildings: 0.0162
+blocks: 0.0156
+combustible: 0.0131
+safety: 0.0110
+building: 0.0104
+materials: 0.0095
+
+Topic_72:
+commonwealth: 0.0471
+africa: 0.0146
+countries: 0.0087
+trade: 0.0081
+african: 0.0080
+heads: 0.0080
+summit: 0.0068
+zimbabwe: 0.0066
+nations: 0.0057
+foreign: 0.0055
+
+Topic_73:
+territories: 0.0203
+overseas: 0.0166
+laundering: 0.0166
+registers: 0.0111
+corruption: 0.0099
+money: 0.0083
+dependencies: 0.0065
+illicit: 0.0060
+panama: 0.0060
+havens: 0.0060
+
+Topic_74:
+give: 0.1700
+way: 0.1221
+minister: 0.0741
+will: 0.0268
+meadows: 0.0102
+cull: 0.0070
+corbyn: 0.0068
+badger: 0.0067
+avon: 0.0067
+jeremy: 0.0055
+
+Topic_75:
+give: 0.0773
+way: 0.0561
+progress: 0.0307
+then: 0.0258
+once: 0.0201
+time: 0.0177
+remarks: 0.0160
+finish: 0.0148
+conscious: 0.0143
+briefly: 0.0129
+
+Topic_76:
+referendum: 0.0397
+second: 0.0140
+vote: 0.0091
+result: 0.0080
+voted: 0.0078
+democracy: 0.0057
+referendums: 0.0052
+democrats: 0.0048
+electorate: 0.0046
+2016: 0.0045
+
+Topic_77:
+aid: 0.0332
+dfid: 0.0160
+development: 0.0113
+overseas: 0.0081
+disaster: 0.0072
+humanitarian: 0.0071
+international: 0.0071
+disasters: 0.0068
+assistance: 0.0064
+countries: 0.0058
+
+Topic_78:
+war: 0.0236
+armistice: 0.0092
+memorial: 0.0089
+remembrance: 0.0084
+centenary: 0.0083
+commemorations: 0.0069
+commemorate: 0.0061
+iolaire: 0.0059
+world: 0.0056
+sacrifice: 0.0055
+
+Topic_79:
+organ: 0.0297
+donation: 0.0271
+transplant: 0.0187
+organs: 0.0161
+donor: 0.0138
+donors: 0.0121
+cell: 0.0112
+bame: 0.0105
+stem: 0.0104
+opt: 0.0092
+
+Topic_80:
+air: 0.0386
+pollution: 0.0228
+quality: 0.0189
+particulate: 0.0103
+clean: 0.0101
+emissions: 0.0076
+nitrogen: 0.0069
+dioxide: 0.0057
+poor: 0.0051
+vehicles: 0.0050
+
+Topic_81:
+ivory: 0.0472
+elephants: 0.0200
+species: 0.0199
+elephant: 0.0164
+wildlife: 0.0092
+poaching: 0.0078
+ban: 0.0066
+endangered: 0.0063
+illegal: 0.0062
+african: 0.0060
+
+Topic_82:
+parole: 0.0555
+board: 0.0309
+worboys: 0.0270
+victims: 0.0189
+transparency: 0.0096
+release: 0.0091
+review: 0.0082
+judicial: 0.0080
+decision: 0.0076
+case: 0.0071
+
+Topic_83:
+armed: 0.0231
+forces: 0.0195
+army: 0.0183
+recruitment: 0.0175
+personnel: 0.0168
+capita: 0.0140
+recruiting: 0.0107
+flexible: 0.0066
+retention: 0.0055
+recruit: 0.0054
+
+Topic_84:
+give: 0.1544
+way: 0.1094
+friend: 0.0562
+my: 0.0324
+hon: 0.0275
+will: 0.0238
+cousin: 0.0077
+timea: 0.0067
+œone: 0.0065
+honourable: 0.0056
+
+Topic_85:
+children: 0.0238
+services: 0.0085
+family: 0.0082
+care: 0.0082
+child: 0.0071
+families: 0.0070
+authorities: 0.0061
+centres: 0.0059
+kinship: 0.0055
+local: 0.0051
+
+Topic_86:
+iran: 0.0694
+iranian: 0.0240
+jcpoa: 0.0231
+nuclear: 0.0132
+ballistic: 0.0106
+region: 0.0102
+missile: 0.0089
+iranians: 0.0087
+destabilising: 0.0086
+president: 0.0081
+
+Topic_87:
+efta: 0.0449
+eea: 0.0314
+norway: 0.0101
+membership: 0.0098
+option: 0.0092
+eu: 0.0058
+free: 0.0058
+movement: 0.0057
+trade: 0.0054
+union: 0.0048
+
+Topic_88:
+immigration: 0.0415
+white: 0.0127
+migration: 0.0119
+paper: 0.0111
+system: 0.0071
+home: 0.0057
+policy: 0.0053
+control: 0.0049
+net: 0.0038
+migrants: 0.0035
+
+Topic_89:
+advice: 0.0263
+attorney: 0.0225
+general: 0.0162
+legal: 0.0136
+client: 0.0086
+lawyer: 0.0077
+convention: 0.0070
+disclosed: 0.0068
+officers: 0.0068
+solicitor: 0.0067
+
+Topic_90:
+rbs: 0.0147
+bank: 0.0136
+lloyds: 0.0129
+grg: 0.0129
+banks: 0.0109
+hbos: 0.0086
+banking: 0.0084
+fca: 0.0065
+fraud: 0.0062
+financial: 0.0062
+
+Topic_91:
+slavery: 0.0580
+modern: 0.0330
+trafficking: 0.0091
+chains: 0.0090
+supply: 0.0072
+victims: 0.0070
+exploitation: 0.0070
+act: 0.0050
+54: 0.0050
+human: 0.0049
+
+Topic_92:
+electric: 0.0481
+charging: 0.0385
+vehicles: 0.0229
+points: 0.0126
+vehicle: 0.0120
+charge: 0.0117
+infrastructure: 0.0097
+cars: 0.0076
+car: 0.0073
+bikes: 0.0071
+
+Topic_93:
+cyber: 0.0996
+security: 0.0219
+attacks: 0.0195
+threat: 0.0080
+russia: 0.0078
+space: 0.0078
+defences: 0.0078
+attack: 0.0078
+national: 0.0077
+defence: 0.0065
+
+Topic_94:
+fireworks: 0.0651
+firework: 0.0145
+displays: 0.0121
+bonfire: 0.0111
+night: 0.0078
+petition: 0.0065
+display: 0.0064
+animals: 0.0062
+sale: 0.0057
+pets: 0.0053
+
+Topic_95:
+hezbollah: 0.0684
+lebanon: 0.0233
+terrorist: 0.0133
+israel: 0.0119
+wing: 0.0111
+proscribed: 0.0110
+proscription: 0.0108
+military: 0.0098
+lebanese: 0.0091
+organisation: 0.0085
+
+Topic_96:
+trees: 0.0338
+timber: 0.0227
+woodland: 0.0220
+forestry: 0.0211
+planting: 0.0168
+tree: 0.0157
+palm: 0.0125
+woodlands: 0.0105
+forest: 0.0105
+plant: 0.0085
+
+Topic_97:
+steel: 0.0590
+tariffs: 0.0250
+aluminium: 0.0144
+dumping: 0.0106
+states: 0.0095
+trump: 0.0092
+overcapacity: 0.0087
+president: 0.0085
+imports: 0.0082
+exemption: 0.0080
+
+Topic_98:
+domestic: 0.0463
+abuse: 0.0300
+violence: 0.0265
+victims: 0.0115
+women: 0.0077
+coercive: 0.0071
+courts: 0.0063
+draft: 0.0057
+perpetrators: 0.0053
+girls: 0.0047
+
+Topic_99:
+a120: 0.0199
+road: 0.0197
+highways: 0.0175
+roads: 0.0126
+a12: 0.0121
+junction: 0.0090
+braintree: 0.0085
+a5: 0.0082
+motorway: 0.0067
+england: 0.0066
+
+Topic_100:
+bus: 0.0805
+concessionary: 0.0194
+buses: 0.0184
+fares: 0.0122
+pass: 0.0107
+patronage: 0.0099
+passes: 0.0095
+services: 0.0088
+journeys: 0.0081
+transport: 0.0076
+
+Topic_101:
+post: 0.0591
+offices: 0.0270
+office: 0.0268
+banking: 0.0185
+banks: 0.0107
+whsmith: 0.0106
+postmasters: 0.0104
+branches: 0.0101
+network: 0.0086
+services: 0.0073
+
+Topic_102:
+cr: 0.2907
+chestnut: 0.2676
+sweet: 0.2236
+finally: 0.1761
+books: 0.1466
+chris: 0.1123
+developed: 0.1050
+according: 0.0933
+written: 0.0883
+went: 0.0752
+
+Topic_103:
+raf: 0.0529
+air: 0.0207
+force: 0.0147
+royal: 0.0127
+aircraft: 0.0085
+war: 0.0069
+regiment: 0.0066
+scampton: 0.0062
+squadron: 0.0057
+flying: 0.0053
+
+Topic_104:
+departmental: 0.4024
+responsibilities: 0.3329
+statement: 0.1609
+make: 0.0707
+his: 0.0603
+if: 0.0544
+he: 0.0346
+will: 0.0162
+on: 0.0142
+wear: 0.0045
+
+Topic_105:
+cystic: 0.0341
+fibrosis: 0.0340
+orkambi: 0.0307
+nice: 0.0149
+vertex: 0.0133
+cf: 0.0107
+drugs: 0.0087
+sufferers: 0.0087
+drug: 0.0084
+life: 0.0060
+
+Topic_106:
+resolution: 0.0293
+resolutions: 0.0218
+money: 0.0204
+bills: 0.0143
+bill: 0.0111
+private: 0.0085
+reading: 0.0073
+initiate: 0.0066
+gorton: 0.0058
+boundary: 0.0056
+
+Topic_107:
+16: 0.0299
+age: 0.0253
+olds: 0.0197
+18: 0.0165
+voting: 0.0148
+17: 0.0137
+young: 0.0091
+vote: 0.0084
+consent: 0.0075
+elections: 0.0074
+
+Topic_108:
+detention: 0.0623
+immigration: 0.0174
+shaw: 0.0166
+detained: 0.0157
+yarl: 0.0137
+detainees: 0.0111
+wood: 0.0100
+removal: 0.0087
+vulnerable: 0.0067
+indefinite: 0.0067
+
+Topic_109:
+euratom: 0.0526
+nuclear: 0.0243
+membership: 0.0165
+associate: 0.0152
+safeguards: 0.0127
+iaea: 0.0081
+safeguarding: 0.0066
+arrangements: 0.0054
+period: 0.0053
+transition: 0.0051
+
+Topic_110:
+victims: 0.0389
+victim: 0.0122
+criminal: 0.0085
+crime: 0.0080
+justice: 0.0077
+code: 0.0074
+law: 0.0052
+cica: 0.0049
+restorative: 0.0049
+compensation: 0.0046
+
+Topic_111:
+fracking: 0.0477
+shale: 0.0308
+gas: 0.0238
+permitted: 0.0124
+planning: 0.0102
+exploration: 0.0082
+nsip: 0.0077
+development: 0.0077
+seismic: 0.0064
+drilling: 0.0057
+
+Topic_112:
+leveson: 0.0526
+press: 0.0164
+inquiry: 0.0150
+brian: 0.0090
+section: 0.0071
+newspapers: 0.0067
+hacking: 0.0063
+victims: 0.0063
+40: 0.0060
+ipso: 0.0055
+
+Topic_113:
+gkn: 0.0473
+melrose: 0.0368
+takeover: 0.0337
+aerospace: 0.0107
+bid: 0.0106
+company: 0.0097
+undertakings: 0.0080
+term: 0.0073
+defence: 0.0068
+shareholders: 0.0059
+
+Topic_114:
+gentleman: 0.0134
+write: 0.0102
+raises: 0.0089
+directly: 0.0086
+ministers: 0.0081
+him: 0.0071
+raise: 0.0068
+encourage: 0.0065
+he: 0.0054
+his: 0.0052
+
+Topic_115:
+football: 0.0356
+fans: 0.0283
+standing: 0.0275
+safe: 0.0162
+club: 0.0157
+league: 0.0150
+supporters: 0.0141
+clubs: 0.0128
+seater: 0.0123
+stadiums: 0.0110
+
+Topic_116:
+parking: 0.0519
+car: 0.0159
+code: 0.0102
+park: 0.0094
+companies: 0.0083
+dvla: 0.0083
+private: 0.0082
+ticket: 0.0079
+fines: 0.0078
+motorists: 0.0076
+
+Topic_117:
+debt: 0.0252
+deficit: 0.0210
+gdp: 0.0101
+budget: 0.0098
+borrowing: 0.0068
+chancellor: 0.0066
+economy: 0.0052
+balanced: 0.0048
+labour: 0.0048
+spending: 0.0045
+
+Topic_118:
+pay: 0.0266
+sector: 0.0150
+cap: 0.0137
+public: 0.0116
+civil: 0.0096
+rises: 0.0086
+servants: 0.0086
+departments: 0.0083
+workers: 0.0078
+rise: 0.0060
+
+Topic_119:
+intervention: 0.0563
+interventions: 0.0530
+take: 0.0199
+then: 0.0189
+progress: 0.0162
+finish: 0.0159
+speech: 0.0140
+conscious: 0.0110
+intervene: 0.0100
+speak: 0.0087
+
+Topic_120:
+erasmus: 0.0412
+students: 0.0236
+universities: 0.0196
+university: 0.0115
+programme: 0.0102
+study: 0.0083
+youth: 0.0073
+programmes: 0.0072
+abroad: 0.0065
+education: 0.0059
+
+Topic_121:
+friend: 0.0278
+makes: 0.0226
+point: 0.0170
+my: 0.0168
+hon: 0.0135
+agree: 0.0123
+write: 0.0100
+wholeheartedly: 0.0099
+absolutely: 0.0089
+nail: 0.0085
+
+Topic_122:
+order: 0.2089
+speaker: 0.1733
+mr: 0.1236
+point: 0.0841
+similarity: 0.0189
+on: 0.0161
+substance: 0.0112
+commiserations: 0.0110
+fawr: 0.0090
+yn: 0.0088
+
+Topic_123:
+give: 0.1340
+lady: 0.1303
+way: 0.0950
+hon: 0.0243
+will: 0.0208
+claire: 0.0178
+turnham: 0.0127
+refunds: 0.0102
+viagogo: 0.0097
+indulge: 0.0086
+
+Topic_124:
+whip: 0.0325
+pairing: 0.0266
+whips: 0.0194
+pair: 0.0183
+chief: 0.0167
+pairs: 0.0129
+error: 0.0113
+paired: 0.0101
+yarmouth: 0.0092
+dunbartonshire: 0.0068
+
+Topic_125:
+tidal: 0.0663
+lagoon: 0.0527
+swansea: 0.0256
+bay: 0.0188
+lagoons: 0.0185
+energy: 0.0157
+project: 0.0135
+hendry: 0.0132
+wales: 0.0090
+wind: 0.0083
+
+Topic_126:
+disabled: 0.0251
+accessibility: 0.0175
+transport: 0.0170
+stations: 0.0139
+accessible: 0.0135
+inclusive: 0.0100
+access: 0.0098
+passengers: 0.0093
+station: 0.0081
+wheelchair: 0.0076
+
+Topic_127:
+withdrawal: 0.0312
+agreement: 0.0209
+relationship: 0.0103
+meaningful: 0.0081
+future: 0.0073
+vote: 0.0068
+section: 0.0059
+agreed: 0.0058
+13: 0.0053
+text: 0.0053
+
+Topic_128:
+need: 0.0369
+should: 0.0235
+we: 0.0197
+must: 0.0188
+si: 0.0156
+tread: 0.0155
+cherish: 0.0147
+willingly: 0.0146
+requesting: 0.0134
+spell: 0.0134
+
+Topic_129:
+ambulance: 0.0484
+ambulances: 0.0171
+paramedics: 0.0113
+service: 0.0108
+patients: 0.0105
+emas: 0.0082
+hospital: 0.0077
+emergency: 0.0068
+patient: 0.0064
+midlands: 0.0064
+
+Topic_130:
+kingdom: 0.0091
+uk: 0.0081
+united: 0.0079
+diplomatic: 0.0078
+britain: 0.0076
+soft: 0.0063
+embassy: 0.0060
+foreign: 0.0059
+embassies: 0.0057
+values: 0.0055
+
+Topic_131:
+marriage: 0.0365
+partnerships: 0.0346
+civil: 0.0336
+couples: 0.0275
+sex: 0.0196
+married: 0.0145
+partnership: 0.0115
+opposite: 0.0086
+same: 0.0066
+marriages: 0.0059
+
+Topic_132:
+œmore: 0.0248
+couragea: 0.0174
+œbaha: 0.0174
+œbead: 0.0174
+œcafcass: 0.0174
+watercourse: 0.0174
+œherra: 0.0174
+œinertiaa: 0.0174
+mcbeala: 0.0174
+valueda: 0.0174
+
+Topic_133:
+christians: 0.0254
+religious: 0.0253
+freedom: 0.0196
+persecution: 0.0185
+faith: 0.0179
+religion: 0.0170
+persecuted: 0.0153
+christian: 0.0146
+belief: 0.0131
+beliefs: 0.0063
+
+Topic_134:
+she: 0.0612
+her: 0.0239
+œwhil: 0.0145
+œmeasure: 0.0145
+princeton: 0.0145
+pranking: 0.0145
+drest: 0.0145
+œalex: 0.0134
+prodding: 0.0134
+œman: 0.0134
+
+Topic_135:
+water: 0.0919
+ofwat: 0.0222
+thames: 0.0216
+companies: 0.0153
+customers: 0.0086
+reservoir: 0.0080
+leaks: 0.0077
+supply: 0.0075
+drinking: 0.0066
+supplies: 0.0059
+
+Topic_136:
+engineering: 0.0620
+stem: 0.0482
+careers: 0.0223
+maths: 0.0201
+subjects: 0.0196
+girls: 0.0191
+engineers: 0.0154
+science: 0.0142
+women: 0.0104
+career: 0.0096
+
+Topic_137:
+electoral: 0.0339
+commission: 0.0196
+beleave: 0.0141
+leave: 0.0102
+democracy: 0.0092
+campaign: 0.0089
+referendum: 0.0088
+investigations: 0.0083
+vote: 0.0080
+allegations: 0.0080
+
+Topic_138:
+give: 0.1473
+lady: 0.1432
+way: 0.1031
+hon: 0.0264
+will: 0.0223
+again: 0.0120
+cook: 0.0102
+turns: 0.0089
+tea: 0.0089
+love: 0.0060
+
+Topic_139:
+pension: 0.0482
+pensions: 0.0300
+regulator: 0.0184
+pensioners: 0.0183
+defined: 0.0108
+schemes: 0.0100
+scheme: 0.0078
+trustees: 0.0072
+protection: 0.0054
+employer: 0.0054
+
+Topic_140:
+ports: 0.0494
+port: 0.0310
+freeport: 0.0160
+freeports: 0.0148
+immingham: 0.0105
+teesport: 0.0088
+container: 0.0075
+ships: 0.0075
+ro: 0.0071
+felixstowe: 0.0071
+
+Topic_141:
+space: 0.0456
+launch: 0.0150
+satellites: 0.0135
+satellite: 0.0127
+industry: 0.0113
+spaceport: 0.0108
+spaceports: 0.0108
+cornwall: 0.0068
+liability: 0.0058
+uk: 0.0052
+
+Topic_142:
+mobile: 0.0420
+phones: 0.0365
+prison: 0.0216
+prisons: 0.0211
+phone: 0.0131
+lewes: 0.0119
+telephone: 0.0118
+prisoners: 0.0103
+caulfield: 0.0091
+maria: 0.0083
+
+Topic_143:
+forecasts: 0.0433
+forecast: 0.0231
+economic: 0.0131
+growth: 0.0118
+forecasting: 0.0118
+obr: 0.0104
+treasury: 0.0099
+wrong: 0.0092
+scenarios: 0.0085
+assumptions: 0.0061
+
+Topic_144:
+medicines: 0.0422
+pharmaceutical: 0.0219
+ema: 0.0162
+agency: 0.0110
+stockpile: 0.0095
+drugs: 0.0091
+sciences: 0.0086
+european: 0.0081
+patients: 0.0076
+stockpiling: 0.0068
+
+Topic_145:
+asda: 0.0463
+sainsbury: 0.0455
+merger: 0.0447
+cma: 0.0353
+competition: 0.0212
+store: 0.0121
+stores: 0.0112
+suppliers: 0.0078
+supermarkets: 0.0076
+markets: 0.0075
+
+Topic_146:
+gps: 0.0510
+gp: 0.0327
+medical: 0.0148
+practice: 0.0145
+doctors: 0.0093
+plymouth: 0.0087
+general: 0.0083
+training: 0.0082
+kent: 0.0069
+university: 0.0069
+
+Topic_147:
+electrification: 0.0593
+swansea: 0.0181
+wales: 0.0158
+rail: 0.0129
+line: 0.0126
+railway: 0.0116
+trains: 0.0086
+passengers: 0.0083
+cancelled: 0.0081
+network: 0.0078
+
+Topic_148:
+afghanistan: 0.0616
+afghan: 0.0315
+kabul: 0.0209
+taliban: 0.0193
+attacks: 0.0084
+nato: 0.0084
+forces: 0.0075
+troops: 0.0073
+terrorist: 0.0069
+security: 0.0069
+
+Topic_149:
+condition: 0.0157
+trial: 0.0137
+pain: 0.0124
+symptoms: 0.0122
+pace: 0.0108
+sufferers: 0.0107
+me: 0.0106
+graded: 0.0100
+merryn: 0.0096
+fatigue: 0.0089
+
+Topic_150:
+state: 0.0285
+secretary: 0.0260
+give: 0.0177
+way: 0.0129
+vetoed: 0.0059
+will: 0.0050
+jogged: 0.0046
+secretaries: 0.0043
+tokenism: 0.0043
+zuma: 0.0043
+
+Topic_151:
+food: 0.0450
+banks: 0.0248
+bank: 0.0162
+hunger: 0.0144
+trussell: 0.0126
+universal: 0.0110
+credit: 0.0103
+insecurity: 0.0087
+use: 0.0056
+liverpool: 0.0052
+
+Topic_152:
+deputy: 0.1017
+madam: 0.0747
+speaker: 0.0715
+you: 0.0350
+apologise: 0.0303
+mr: 0.0242
+apologies: 0.0145
+thank: 0.0122
+toddle: 0.0120
+your: 0.0085
+
+Topic_153:
+lgbt: 0.0368
+gay: 0.0196
+pride: 0.0082
+commonwealth: 0.0076
+homosexuality: 0.0066
+rights: 0.0063
+survey: 0.0060
+hove: 0.0060
+trans: 0.0059
+countries: 0.0057
+
+Topic_154:
+chequers: 0.0454
+proposal: 0.0069
+rulebook: 0.0068
+proposals: 0.0066
+barnier: 0.0054
+agreement: 0.0054
+plan: 0.0051
+white: 0.0050
+prime: 0.0048
+brussels: 0.0048
+
+Topic_155:
+assessment: 0.0703
+effect: 0.0595
+leaving: 0.0432
+eu: 0.0318
+potential: 0.0288
+uk: 0.0254
+made: 0.0229
+aerospace: 0.0157
+remaining: 0.0149
+agreements: 0.0136
+
+Topic_156:
+transport: 0.0325
+community: 0.0218
+bus: 0.0088
+commercial: 0.0084
+operators: 0.0071
+drivers: 0.0066
+permits: 0.0063
+volunteer: 0.0060
+dial: 0.0059
+operator: 0.0056
+
+Topic_157:
+give: 0.1100
+way: 0.0780
+right: 0.0443
+friend: 0.0438
+my: 0.0254
+hon: 0.0214
+will: 0.0176
+removed: 0.0174
+wil: 0.0155
+logs: 0.0143
+
+Topic_158:
+export: 0.0468
+exports: 0.0155
+exporting: 0.0123
+finance: 0.0121
+smes: 0.0101
+trade: 0.0100
+businesses: 0.0097
+overseas: 0.0087
+companies: 0.0084
+china: 0.0084
+
+Topic_159:
+diabetes: 0.0821
+type: 0.0262
+pancreas: 0.0191
+insulin: 0.0177
+glucose: 0.0161
+artificial: 0.0148
+diabetics: 0.0125
+libre: 0.0092
+pumps: 0.0076
+diabetic: 0.0073
+
+Topic_160:
+rifles: 0.0377
+firearms: 0.0289
+calibre: 0.0273
+weapons: 0.0175
+rifle: 0.0144
+shooting: 0.0112
+guns: 0.0101
+gun: 0.0097
+weapon: 0.0092
+abiding: 0.0085
+
+Topic_161:
+fur: 0.0749
+animal: 0.0218
+animals: 0.0195
+ban: 0.0166
+farming: 0.0157
+mink: 0.0083
+welfare: 0.0082
+imports: 0.0068
+cruelty: 0.0068
+farms: 0.0066
+
+Topic_162:
+million: 0.0281
+estimated: 0.0171
+lkp: 0.0167
+lbs: 0.0167
+bandings: 0.0167
+numbers: 0.0162
+tonnes: 0.0159
+number: 0.0157
+peppercorns: 0.0155
+precise: 0.0153
+
+Topic_163:
+hospices: 0.0577
+hospice: 0.0502
+palliative: 0.0157
+care: 0.0139
+nhs: 0.0088
+life: 0.0088
+woodlands: 0.0079
+douglas: 0.0078
+staff: 0.0076
+helen: 0.0060
+
+Topic_164:
+give: 0.1603
+way: 0.1121
+minister: 0.0685
+conservatism: 0.0310
+will: 0.0239
+acquaintance: 0.0171
+renewing: 0.0146
+lent: 0.0138
+reeves: 0.0123
+tunnel: 0.0113
+
+Topic_165:
+charities: 0.0342
+charity: 0.0203
+help: 0.0091
+bureaux: 0.0089
+thalidomide: 0.0085
+charitable: 0.0074
+small: 0.0073
+support: 0.0067
+citizens: 0.0065
+advice: 0.0064
+
+Topic_166:
+immigration: 0.0275
+scotland: 0.0184
+migration: 0.0103
+nationals: 0.0086
+scottish: 0.0081
+eu: 0.0054
+policy: 0.0054
+population: 0.0044
+home: 0.0043
+advisory: 0.0042
+
+Topic_167:
+dogs: 0.0331
+dog: 0.0274
+puppies: 0.0196
+puppy: 0.0144
+breed: 0.0136
+animal: 0.0123
+bull: 0.0106
+pet: 0.0106
+rescue: 0.0099
+welfare: 0.0093
+
+Topic_168:
+proxy: 0.0176
+baby: 0.0175
+babies: 0.0150
+voting: 0.0120
+procedure: 0.0072
+maternity: 0.0072
+leave: 0.0071
+whips: 0.0056
+birth: 0.0054
+paternity: 0.0048
+
+Topic_169:
+unemployment: 0.0314
+youth: 0.0295
+wage: 0.0204
+young: 0.0148
+minimum: 0.0133
+age: 0.0117
+olds: 0.0104
+employment: 0.0101
+25: 0.0098
+aged: 0.0082
+
+Topic_170:
+friday: 0.0240
+agreement: 0.0205
+belfast: 0.0175
+ireland: 0.0161
+northern: 0.0129
+irish: 0.0116
+good: 0.0082
+border: 0.0081
+peace: 0.0058
+republic: 0.0057
+
+Topic_171:
+seasonal: 0.0473
+workers: 0.0215
+fruit: 0.0211
+agricultural: 0.0172
+farmers: 0.0128
+migrant: 0.0117
+scheme: 0.0109
+crops: 0.0094
+angus: 0.0090
+harvest: 0.0078
+
+Topic_172:
+veterans: 0.0520
+covenant: 0.0255
+armed: 0.0130
+forces: 0.0125
+veteran: 0.0074
+personnel: 0.0072
+military: 0.0061
+departments: 0.0061
+charities: 0.0055
+board: 0.0053
+
+Topic_173:
+channel: 0.0587
+glasgow: 0.0263
+creative: 0.0191
+city: 0.0174
+headquarters: 0.0115
+bid: 0.0095
+relocation: 0.0089
+broadcasting: 0.0083
+talent: 0.0083
+production: 0.0072
+
+Topic_174:
+tax: 0.0270
+scotland: 0.0165
+snp: 0.0148
+personnel: 0.0109
+scottish: 0.0108
+taxes: 0.0102
+taxed: 0.0089
+higher: 0.0087
+armed: 0.0087
+forces: 0.0073
+
+Topic_175:
+climate: 0.0391
+carbon: 0.0256
+change: 0.0142
+capture: 0.0130
+storage: 0.0128
+emissions: 0.0119
+energy: 0.0073
+paris: 0.0072
+clean: 0.0068
+targets: 0.0065
+
+Topic_176:
+deaf: 0.0567
+bsl: 0.0253
+language: 0.0222
+sign: 0.0170
+hearing: 0.0153
+children: 0.0137
+deafness: 0.0113
+curriculum: 0.0111
+aids: 0.0091
+gcse: 0.0085
+
+Topic_177:
+small: 0.0440
+contracts: 0.0318
+businesses: 0.0314
+sized: 0.0171
+medium: 0.0153
+finder: 0.0151
+smes: 0.0131
+enterprises: 0.0130
+procurement: 0.0125
+business: 0.0125
+
+Topic_178:
+services: 0.0203
+financial: 0.0175
+goods: 0.0086
+regulatory: 0.0077
+equivalence: 0.0071
+sector: 0.0071
+london: 0.0060
+mutual: 0.0059
+eu: 0.0059
+european: 0.0057
+
+Topic_179:
+oh: 0.3319
+rubbish: 0.3118
+shame: 0.2013
+okay: 0.1616
+shocking: 0.1587
+course: 0.0905
+god: 0.0862
+uh: 0.0856
+hooray: 0.0856
+nonsense: 0.0769
+
+Topic_180:
+ai: 0.0317
+digital: 0.0190
+tech: 0.0106
+technologies: 0.0092
+research: 0.0087
+industrial: 0.0083
+automation: 0.0083
+innovation: 0.0081
+sector: 0.0075
+cloud: 0.0068
+
+Topic_181:
+id: 0.0528
+voter: 0.0327
+electoral: 0.0176
+fraud: 0.0144
+voters: 0.0140
+polling: 0.0140
+pilot: 0.0129
+identification: 0.0128
+photographic: 0.0110
+bromley: 0.0109
+
+Topic_182:
+yorkshire: 0.0621
+devolution: 0.0213
+barnsley: 0.0185
+doncaster: 0.0172
+sheffield: 0.0106
+yorkshirea: 0.0099
+deal: 0.0086
+mayor: 0.0085
+region: 0.0078
+leaders: 0.0078
+
+Topic_183:
+consultation: 0.0529
+consultations: 0.0077
+responses: 0.0064
+respond: 0.0052
+views: 0.0044
+consult: 0.0041
+previous: 0.0039
+answer: 0.0038
+operators: 0.0038
+carefully: 0.0034
+
+Topic_184:
+probation: 0.0682
+crcs: 0.0280
+rehabilitation: 0.0198
+offenders: 0.0146
+crc: 0.0128
+gate: 0.0118
+reoffending: 0.0109
+privatised: 0.0092
+offender: 0.0072
+privatisation: 0.0070
+
+Topic_185:
+military: 0.0162
+convention: 0.0107
+action: 0.0101
+parliament: 0.0101
+war: 0.0091
+iraq: 0.0090
+armed: 0.0071
+forces: 0.0070
+decision: 0.0066
+approval: 0.0066
+
+Topic_186:
+smoking: 0.0622
+tobacco: 0.0327
+cigarettes: 0.0230
+smokers: 0.0192
+vaping: 0.0131
+smoke: 0.0123
+prevalence: 0.0106
+cigarette: 0.0097
+control: 0.0074
+quit: 0.0070
+
+Topic_187:
+meters: 0.0724
+smart: 0.0661
+meter: 0.0280
+smets: 0.0193
+energy: 0.0128
+consumers: 0.0126
+installed: 0.0118
+roll: 0.0105
+dcc: 0.0103
+consumer: 0.0065
+
+Topic_188:
+museums: 0.0632
+museum: 0.0598
+stirling: 0.0197
+heritage: 0.0087
+dunblane: 0.0080
+smith: 0.0073
+local: 0.0070
+cultural: 0.0070
+arts: 0.0065
+artefacts: 0.0064
+
+Topic_189:
+deal: 0.0267
+no: 0.0138
+scenario: 0.0133
+table: 0.0115
+preparations: 0.0085
+prepare: 0.0078
+rule: 0.0066
+cliff: 0.0056
+negotiations: 0.0054
+happen: 0.0047
+
+Topic_190:
+racing: 0.0469
+horse: 0.0417
+bha: 0.0300
+horses: 0.0297
+welfare: 0.0225
+racehorses: 0.0177
+racecourse: 0.0141
+whip: 0.0117
+animal: 0.0088
+jockeys: 0.0083
+
+Topic_191:
+nhs: 0.0238
+privatisation: 0.0180
+private: 0.0101
+care: 0.0086
+patient: 0.0058
+healthcare: 0.0057
+hospitals: 0.0056
+labour: 0.0055
+health: 0.0054
+patients: 0.0050
+
+Topic_192:
+police: 0.0223
+merger: 0.0172
+btp: 0.0171
+transport: 0.0163
+scotland: 0.0148
+scottish: 0.0141
+british: 0.0096
+snp: 0.0095
+policing: 0.0084
+officers: 0.0083
+
+Topic_193:
+mesh: 0.0554
+incontinence: 0.0115
+implants: 0.0110
+prolapse: 0.0108
+surgical: 0.0107
+vaginal: 0.0105
+women: 0.0104
+complications: 0.0101
+pain: 0.0092
+hessle: 0.0075
+
+Topic_194:
+meals: 0.0503
+school: 0.0311
+free: 0.0234
+meal: 0.0135
+universal: 0.0107
+children: 0.0104
+breakfast: 0.0100
+eligibility: 0.0087
+poverty: 0.0080
+credit: 0.0073
+
+Topic_195:
+concern: 0.0264
+concerns: 0.0259
+issue: 0.0256
+problems: 0.0203
+diddled: 0.0176
+numbera: 0.0176
+hlf: 0.0163
+hg: 0.0163
+nipped: 0.0155
+fear: 0.0154
+
+Topic_196:
+animals: 0.0369
+animal: 0.0233
+slaughter: 0.0181
+welfare: 0.0149
+exported: 0.0136
+fattening: 0.0133
+live: 0.0107
+slaughtered: 0.0096
+transported: 0.0092
+calves: 0.0085
+
+Topic_197:
+stalking: 0.0593
+totnes: 0.0094
+victims: 0.0088
+orders: 0.0080
+behaviour: 0.0078
+victim: 0.0077
+wollaston: 0.0076
+alice: 0.0075
+police: 0.0071
+protection: 0.0058
+
+Topic_198:
+ecj: 0.0423
+jurisdiction: 0.0286
+arbitration: 0.0273
+court: 0.0268
+justice: 0.0167
+european: 0.0145
+panel: 0.0096
+interpretation: 0.0081
+law: 0.0080
+disputes: 0.0080
+
+Topic_199:
+hate: 0.0565
+muslim: 0.0237
+crime: 0.0203
+islamophobia: 0.0145
+anti: 0.0129
+letters: 0.0119
+hatred: 0.0116
+mama: 0.0095
+extremism: 0.0094
+muslims: 0.0085
+
+Topic_200:
+bereavement: 0.0215
+baby: 0.0155
+loss: 0.0151
+bereaved: 0.0089
+child: 0.0085
+parents: 0.0081
+stillbirth: 0.0076
+parent: 0.0076
+pathway: 0.0063
+eddisbury: 0.0057
+
+Topic_201:
+search: 0.0575
+stop: 0.0357
+stopped: 0.0149
+searched: 0.0146
+searches: 0.0111
+police: 0.0109
+ethnic: 0.0090
+intelligence: 0.0087
+black: 0.0079
+tool: 0.0078
+
+Topic_202:
+leasehold: 0.0463
+leaseholders: 0.0357
+freehold: 0.0188
+lease: 0.0175
+leaseholds: 0.0164
+leases: 0.0162
+freeholders: 0.0107
+sold: 0.0096
+commonhold: 0.0093
+houses: 0.0088
+
+Topic_203:
+gibraltar: 0.0926
+spain: 0.0184
+anguilla: 0.0174
+spanish: 0.0104
+territories: 0.0092
+overseas: 0.0076
+sint: 0.0067
+chief: 0.0063
+negotiations: 0.0061
+interests: 0.0058
+
+Topic_204:
+ask: 0.0531
+statement: 0.0478
+make: 0.0207
+secretary: 0.0186
+commonwealth: 0.0166
+state: 0.0163
+foreign: 0.0162
+affairs: 0.0148
+pensions: 0.0111
+if: 0.0110
+
+Topic_205:
+bahrain: 0.0859
+bahraini: 0.0221
+human: 0.0154
+gulf: 0.0140
+rights: 0.0121
+rajab: 0.0081
+base: 0.0067
+friendship: 0.0065
+bahrainis: 0.0063
+shi: 0.0062
+
+Topic_206:
+yes: 1.9571
+you: 0.0190
+good: 0.0148
+thank: 0.0147
+very: 0.0077
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+
+Topic_207:
+belt: 0.0598
+green: 0.0420
+brownfield: 0.0309
+land: 0.0184
+planning: 0.0129
+sites: 0.0127
+homes: 0.0108
+housing: 0.0095
+halton: 0.0089
+build: 0.0087
+
+Topic_208:
+oil: 0.0462
+gas: 0.0357
+industry: 0.0154
+aberdeen: 0.0131
+sea: 0.0074
+barrels: 0.0066
+north: 0.0064
+decommissioning: 0.0063
+supply: 0.0050
+nally: 0.0049
+
+Topic_209:
+canada: 0.0463
+ceta: 0.0357
+canadian: 0.0145
+trade: 0.0140
+agreement: 0.0113
+deal: 0.0065
+eu: 0.0055
+provisionally: 0.0054
+investment: 0.0047
+investor: 0.0044
+
+Topic_210:
+aviation: 0.0546
+airlines: 0.0115
+flights: 0.0105
+airline: 0.0105
+airports: 0.0092
+air: 0.0084
+passenger: 0.0081
+wythenshawe: 0.0074
+industry: 0.0069
+planes: 0.0069
+
+Topic_211:
+speaker: 0.1748
+mr: 0.1197
+you: 0.0522
+order: 0.0346
+further: 0.0254
+question: 0.0230
+spanking: 0.0227
+lenthall: 0.0210
+innovator: 0.0210
+wilderness: 0.0193
+
+Topic_212:
+rates: 0.0379
+business: 0.0254
+retailers: 0.0152
+businesses: 0.0152
+relief: 0.0139
+high: 0.0127
+retail: 0.0119
+streets: 0.0117
+street: 0.0112
+small: 0.0090
+
+Topic_213:
+members: 0.0630
+favers: 0.0242
+elicited: 0.0242
+hurl: 0.0242
+ellesm: 0.0242
+bobbing: 0.0214
+hurting: 0.0192
+collated: 0.0192
+hides: 0.0186
+attendances: 0.0180
+
+Topic_214:
+palace: 0.0221
+building: 0.0134
+restoration: 0.0107
+decant: 0.0101
+renewal: 0.0095
+westminster: 0.0074
+richmond: 0.0068
+fire: 0.0056
+chamber: 0.0054
+unesco: 0.0051
+
+Topic_215:
+parking: 0.0446
+charges: 0.0359
+car: 0.0304
+hospital: 0.0267
+hospitals: 0.0158
+park: 0.0147
+trusts: 0.0087
+patients: 0.0087
+badge: 0.0083
+nhs: 0.0079
+
+Topic_216:
+electoral: 0.0395
+register: 0.0334
+registration: 0.0212
+fraud: 0.0166
+registered: 0.0135
+vote: 0.0124
+voter: 0.0105
+elections: 0.0099
+voting: 0.0097
+election: 0.0090
+
+Topic_217:
+billion: 0.0348
+million: 0.0219
+39: 0.0166
+brevity: 0.0121
+cost: 0.0117
+saving: 0.0108
+nationalisation: 0.0107
+84: 0.0101
+book: 0.0099
+divorce: 0.0096
+
+Topic_218:
+give: 0.1911
+way: 0.1354
+minister: 0.0816
+will: 0.0293
+the: 0.0038
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+
+Topic_219:
+academy: 0.0452
+academies: 0.0407
+schools: 0.0388
+multi: 0.0207
+school: 0.0188
+free: 0.0155
+trust: 0.0125
+trusts: 0.0111
+pupils: 0.0105
+primary: 0.0093
+
+Topic_220:
+retail: 0.0461
+spencer: 0.0189
+stores: 0.0189
+marks: 0.0146
+retailers: 0.0141
+sector: 0.0138
+high: 0.0087
+street: 0.0087
+store: 0.0082
+jobs: 0.0079
+
+Topic_221:
+student: 0.0382
+loans: 0.0308
+students: 0.0268
+ons: 0.0207
+loan: 0.0176
+augar: 0.0157
+debt: 0.0143
+accounting: 0.0105
+sale: 0.0093
+fiscal: 0.0087
+
+Topic_222:
+prime: 0.0536
+minister: 0.0218
+sirisena: 0.0181
+downing: 0.0106
+give: 0.0104
+wickremesinghe: 0.0095
+orderlya: 0.0095
+cameron: 0.0091
+buildinga: 0.0091
+œsmooth: 0.0091
+
+Topic_223:
+buyers: 0.0578
+stamp: 0.0456
+duty: 0.0260
+buyer: 0.0153
+first: 0.0145
+buy: 0.0129
+property: 0.0120
+relief: 0.0114
+tax: 0.0107
+ladder: 0.0102
+
+Topic_224:
+levels: 0.0471
+vocational: 0.0174
+institutes: 0.0145
+introduction: 0.0114
+technical: 0.0108
+college: 0.0107
+2020: 0.0106
+employers: 0.0105
+placements: 0.0102
+skills: 0.0092
+
+Topic_225:
+magnitsky: 0.0468
+sanctions: 0.0172
+abuses: 0.0099
+laundering: 0.0098
+gross: 0.0090
+amendment: 0.0088
+human: 0.0078
+amendments: 0.0068
+sergei: 0.0058
+rights: 0.0057
+
+Topic_226:
+harassment: 0.0347
+sexual: 0.0154
+women: 0.0130
+workplace: 0.0121
+misogyny: 0.0097
+abuse: 0.0086
+girls: 0.0067
+woman: 0.0059
+violence: 0.0057
+equality: 0.0054
+
+Topic_227:
+noise: 0.0827
+aircraft: 0.0266
+gatwick: 0.0245
+aviation: 0.0212
+airport: 0.0189
+flights: 0.0132
+affected: 0.0103
+airspace: 0.0081
+paths: 0.0081
+heathrow: 0.0079
+
+Topic_228:
+brain: 0.0579
+injury: 0.0442
+acquired: 0.0303
+rehabilitation: 0.0261
+injuries: 0.0139
+traumatic: 0.0130
+headway: 0.0096
+abi: 0.0088
+neuro: 0.0083
+trauma: 0.0057
+
+Topic_229:
+there: 0.1043
+œsincerelya: 0.0649
+belfry: 0.0602
+bats: 0.0515
+lastly: 0.0383
+isn: 0.0367
+bound: 0.0299
+connection: 0.0274
+somewhere: 0.0271
+desperately: 0.0255
+
+Topic_230:
+compensation: 0.0441
+scheme: 0.0170
+hotline: 0.0121
+consultation: 0.0111
+fees: 0.0107
+expenses: 0.0107
+constituent: 0.0072
+costs: 0.0071
+incurred: 0.0056
+forde: 0.0055
+
+Topic_231:
+atms: 0.0389
+cash: 0.0373
+atm: 0.0353
+link: 0.0188
+free: 0.0094
+machines: 0.0093
+machine: 0.0093
+interchange: 0.0085
+fee: 0.0077
+bank: 0.0077
+
+Topic_232:
+ahmadi: 0.0367
+ahmadis: 0.0320
+ahmadiyya: 0.0298
+pakistan: 0.0296
+persecution: 0.0261
+muslim: 0.0173
+community: 0.0146
+religious: 0.0124
+mosque: 0.0098
+muslims: 0.0081
+
+Topic_233:
+loneliness: 0.0840
+jo: 0.0298
+cox: 0.0171
+lonely: 0.0111
+strategy: 0.0101
+isolation: 0.0079
+tackle: 0.0075
+tackling: 0.0064
+society: 0.0057
+groups: 0.0057
+
+Topic_234:
+farmers: 0.0295
+agriculture: 0.0156
+scottish: 0.0148
+farming: 0.0126
+agricultural: 0.0124
+scotland: 0.0109
+brexit: 0.0065
+crofters: 0.0059
+bill: 0.0051
+policy: 0.0049
+
+Topic_235:
+galileo: 0.0743
+space: 0.0161
+satellite: 0.0151
+project: 0.0095
+security: 0.0085
+navigation: 0.0081
+uk: 0.0077
+european: 0.0077
+programme: 0.0068
+participate: 0.0065
+
+Topic_236:
+eating: 0.0645
+disorders: 0.0461
+disorder: 0.0278
+treatment: 0.0119
+anorexia: 0.0085
+mental: 0.0081
+beat: 0.0062
+health: 0.0061
+sufferers: 0.0061
+illnesses: 0.0053
+
+Topic_237:
+mlas: 0.0559
+assembly: 0.0240
+salaries: 0.0227
+mla: 0.0199
+reaney: 0.0192
+trevor: 0.0145
+salary: 0.0141
+pay: 0.0099
+cut: 0.0090
+allowances: 0.0089
+
+Topic_238:
+church: 0.0791
+churches: 0.0330
+worship: 0.0194
+england: 0.0148
+diocese: 0.0135
+commissioners: 0.0134
+ordinands: 0.0124
+landfill: 0.0110
+priest: 0.0102
+christmas: 0.0096
+
+Topic_239:
+passport: 0.0543
+passports: 0.0441
+rue: 0.0301
+la: 0.0280
+de: 0.0198
+contract: 0.0153
+french: 0.0111
+procurement: 0.0102
+blue: 0.0101
+gemalto: 0.0094
+
+Topic_240:
+constituents: 0.0429
+campaigners: 0.0234
+campaign: 0.0150
+constituent: 0.0126
+knotweed: 0.0122
+staffers: 0.0122
+ran: 0.0122
+whyte: 0.0116
+campaigns: 0.0114
+disrupts: 0.0112
+
+Topic_241:
+give: 0.0842
+way: 0.0622
+friend: 0.0322
+moaning: 0.0280
+happily: 0.0230
+my: 0.0188
+rudery: 0.0177
+hon: 0.0158
+hornets: 0.0156
+learned: 0.0152
+
+Topic_242:
+dissent: 2.4343
+indicated: 1.5481
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+
+Topic_243:
+wage: 0.0828
+living: 0.0359
+minimum: 0.0316
+national: 0.0199
+lowest: 0.0177
+25s: 0.0162
+83: 0.0151
+wages: 0.0139
+worker: 0.0112
+earnings: 0.0109
+
+Topic_244:
+grenfell: 0.0348
+tower: 0.0204
+survivors: 0.0163
+tragedy: 0.0139
+fire: 0.0124
+kensington: 0.0084
+residents: 0.0074
+inquiry: 0.0067
+blocks: 0.0066
+rehousing: 0.0059
+
+Topic_245:
+tax: 0.0288
+digital: 0.0232
+taxation: 0.0111
+multilateral: 0.0110
+businesses: 0.0109
+corporation: 0.0100
+oecd: 0.0086
+platforms: 0.0079
+taxes: 0.0069
+online: 0.0068
+
+Topic_246:
+jagtar: 0.0415
+torture: 0.0343
+johal: 0.0277
+indian: 0.0173
+india: 0.0130
+singh: 0.0128
+consular: 0.0119
+case: 0.0076
+foreign: 0.0069
+allegations: 0.0068
+
+Topic_247:
+solar: 0.0749
+energy: 0.0184
+installations: 0.0173
+tariff: 0.0170
+rooftop: 0.0160
+subsidy: 0.0138
+renewable: 0.0130
+electricity: 0.0125
+feed: 0.0116
+grid: 0.0110
+
+Topic_248:
+honestly: 0.9446
+anti: 0.5646
+simply: 0.3277
+really: 0.2930
+what: 0.0665
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+
+Topic_249:
+bbc: 0.0835
+pay: 0.0218
+carrie: 0.0177
+gender: 0.0176
+equality: 0.0163
+gracie: 0.0163
+equal: 0.0161
+presenters: 0.0104
+men: 0.0089
+gap: 0.0089
+
+Topic_250:
+austerity: 0.0448
+cuts: 0.0116
+budget: 0.0095
+chancellor: 0.0071
+eight: 0.0069
+ending: 0.0064
+end: 0.0061
+cut: 0.0047
+billion: 0.0044
+services: 0.0043
+
+Topic_251:
+johnston: 0.0309
+newspapers: 0.0296
+titles: 0.0247
+journalism: 0.0239
+press: 0.0183
+local: 0.0136
+journalists: 0.0134
+newspaper: 0.0110
+jpi: 0.0097
+news: 0.0094
+
+Topic_252:
+retention: 0.0464
+pilots: 0.0403
+rates: 0.0400
+business: 0.0212
+pilot: 0.0151
+growth: 0.0120
+local: 0.0117
+councils: 0.0105
+authorities: 0.0097
+grant: 0.0089
+
+Topic_253:
+folic: 0.0542
+acid: 0.0465
+flour: 0.0388
+fortification: 0.0353
+bifida: 0.0262
+spina: 0.0262
+neural: 0.0198
+defects: 0.0164
+tube: 0.0153
+pregnancy: 0.0149
+
+Topic_254:
+polish: 0.0617
+poland: 0.0381
+jewish: 0.0162
+reparations: 0.0157
+poles: 0.0118
+holocaust: 0.0117
+camps: 0.0117
+jews: 0.0111
+germany: 0.0107
+nazi: 0.0102
+
+Topic_255:
+toby: 0.0248
+young: 0.0221
+tweets: 0.0212
+appointment: 0.0182
+fulbright: 0.0157
+students: 0.0148
+board: 0.0124
+appointed: 0.0120
+panel: 0.0117
+commissioner: 0.0116
+
+Topic_256:
+island: 0.0472
+islands: 0.0395
+isle: 0.0327
+wight: 0.0318
+hayling: 0.0097
+havant: 0.0086
+unique: 0.0080
+communities: 0.0077
+islanders: 0.0073
+seely: 0.0071
+
+Topic_257:
+treaty: 0.0642
+russia: 0.0274
+inf: 0.0246
+intermediate: 0.0202
+nuclear: 0.0182
+compliance: 0.0154
+range: 0.0122
+allies: 0.0113
+missiles: 0.0098
+missile: 0.0097
+
+Topic_258:
+product: 0.0318
+electrical: 0.0274
+safety: 0.0245
+whirlpool: 0.0244
+dryers: 0.0211
+tumble: 0.0203
+standards: 0.0185
+faulty: 0.0120
+trading: 0.0119
+recall: 0.0100
+
+Topic_259:
+diesel: 0.0873
+cars: 0.0292
+engines: 0.0289
+emissions: 0.0277
+2040: 0.0196
+clean: 0.0167
+petrol: 0.0156
+vehicles: 0.0155
+dagenham: 0.0132
+zero: 0.0122
+
+Topic_260:
+pornography: 0.0385
+pornographic: 0.0202
+verification: 0.0193
+material: 0.0164
+online: 0.0154
+age: 0.0125
+regulations: 0.0125
+images: 0.0117
+content: 0.0104
+bbfc: 0.0094
+
+Topic_261:
+taylor: 0.0386
+employment: 0.0195
+matthew: 0.0163
+workers: 0.0156
+review: 0.0113
+employed: 0.0089
+protections: 0.0085
+worker: 0.0083
+rights: 0.0078
+flexible: 0.0072
+
+Topic_262:
+traidcraft: 0.0536
+fairtrade: 0.0420
+fair: 0.0202
+trade: 0.0118
+bananas: 0.0080
+consumers: 0.0076
+products: 0.0073
+producers: 0.0072
+tea: 0.0066
+brand: 0.0061
+
+Topic_263:
+hire: 0.0311
+taxi: 0.0276
+drivers: 0.0235
+licensing: 0.0207
+taxis: 0.0140
+private: 0.0108
+licences: 0.0104
+licence: 0.0094
+licensed: 0.0086
+uber: 0.0084
+
+Topic_264:
+tax: 0.0437
+avoidance: 0.0301
+evasion: 0.0242
+corporation: 0.0235
+revenue: 0.0114
+hmrc: 0.0108
+measures: 0.0084
+gap: 0.0080
+billion: 0.0078
+profit: 0.0077
+
+Topic_265:
+tay: 0.0409
+city: 0.0337
+cities: 0.0289
+deals: 0.0206
+region: 0.0144
+deal: 0.0130
+inverness: 0.0125
+scottish: 0.0100
+dundee: 0.0098
+clackmannanshire: 0.0096
+
+Topic_266:
+whisky: 0.1032
+scotch: 0.0721
+drink: 0.0145
+association: 0.0125
+scottish: 0.0122
+geographical: 0.0116
+industry: 0.0111
+exports: 0.0110
+indications: 0.0100
+products: 0.0092
+
+Topic_267:
+negotiations: 0.0130
+michel: 0.0115
+barnier: 0.0108
+eu: 0.0100
+european: 0.0092
+deal: 0.0083
+brussels: 0.0074
+relationship: 0.0066
+side: 0.0064
+good: 0.0059
+
+Topic_268:
+nigeria: 0.0543
+nigerian: 0.0224
+fulani: 0.0178
+christian: 0.0165
+herdsmen: 0.0126
+christians: 0.0125
+religion: 0.0117
+religious: 0.0115
+violence: 0.0114
+haram: 0.0107
+
+Topic_269:
+nord: 0.0556
+stream: 0.0501
+gas: 0.0271
+pipeline: 0.0268
+ukraine: 0.0246
+germany: 0.0128
+russian: 0.0118
+russia: 0.0116
+energy: 0.0101
+denmark: 0.0095
+
+Topic_270:
+ireland: 0.0309
+northern: 0.0305
+belfast: 0.0092
+economy: 0.0090
+opportunities: 0.0078
+inward: 0.0075
+investment: 0.0073
+invest: 0.0073
+economic: 0.0072
+businesses: 0.0062
+
+Topic_271:
+report: 0.0615
+reports: 0.0168
+confess: 0.0128
+alighted: 0.0121
+troublemaker: 0.0112
+published: 0.0104
+punches: 0.0087
+annual: 0.0085
+scepticism: 0.0077
+look: 0.0077
+
+Topic_272:
+delighted: 0.0947
+happy: 0.0780
+am: 0.0482
+tempted: 0.0460
+pleased: 0.0443
+blush: 0.0398
+grateful: 0.0359
+translation: 0.0318
+conveniently: 0.0293
+glad: 0.0278
+
+Topic_273:
+fly: 0.0658
+tipping: 0.0628
+waste: 0.0187
+landowners: 0.0102
+tippers: 0.0090
+honiton: 0.0086
+tiverton: 0.0085
+tipped: 0.0071
+parish: 0.0064
+rubbish: 0.0061
+
+Topic_274:
+debate: 0.0437
+unhelpf: 0.0193
+œthings: 0.0179
+ranging: 0.0161
+proposers: 0.0160
+gut: 0.0156
+unfolds: 0.0153
+bettera: 0.0150
+coincides: 0.0148
+tenor: 0.0144
+
+Topic_275:
+backbench: 0.0442
+business: 0.0209
+debates: 0.0174
+committee: 0.0142
+leader: 0.0082
+debate: 0.0076
+time: 0.0069
+thursday: 0.0068
+day: 0.0065
+tuesday: 0.0063
+
+Topic_276:
+we: 0.0656
+praise: 0.0629
+performance: 0.0485
+unfortunately: 0.0473
+surely: 0.0435
+history: 0.0384
+obviously: 0.0365
+published: 0.0330
+used: 0.0269
+sure: 0.0162
+
+Topic_277:
+transport: 0.0424
+powerhouse: 0.0352
+north: 0.0232
+investment: 0.0149
+infrastructure: 0.0143
+per: 0.0137
+northern: 0.0116
+south: 0.0113
+spending: 0.0102
+head: 0.0101
+
+Topic_278:
+tourism: 0.0712
+tourist: 0.0305
+visitors: 0.0210
+visit: 0.0188
+attractions: 0.0162
+throughout: 0.0106
+steps: 0.0103
+castle: 0.0102
+discover: 0.0096
+england: 0.0095
+
+Topic_279:
+deputy: 0.0669
+madam: 0.0566
+order: 0.0516
+speaker: 0.0472
+point: 0.0200
+title: 0.0135
+mr: 0.0126
+you: 0.0125
+annunciators: 0.0118
+annunciator: 0.0112
+
+Topic_280:
+qatar: 0.0607
+qatari: 0.0193
+workers: 0.0100
+kafala: 0.0089
+cup: 0.0088
+qataris: 0.0084
+emir: 0.0067
+ilo: 0.0066
+delegation: 0.0065
+rights: 0.0064
+
+Topic_281:
+libraries: 0.1284
+library: 0.0375
+county: 0.0200
+council: 0.0102
+books: 0.0099
+controlled: 0.0094
+pevensey: 0.0091
+tory: 0.0089
+northamptonshire: 0.0088
+local: 0.0086
+
+Topic_282:
+labour: 0.0317
+party: 0.0193
+trying: 0.0087
+lagan: 0.0076
+politics: 0.0075
+dong: 0.0063
+ding: 0.0063
+accusing: 0.0054
+deliver: 0.0051
+proscription: 0.0050
+
+Topic_283:
+waste: 0.0554
+hes: 0.0264
+incineration: 0.0251
+incinerator: 0.0179
+capacity: 0.0159
+clinical: 0.0159
+sites: 0.0156
+agency: 0.0139
+normanton: 0.0126
+environment: 0.0119
+
+Topic_284:
+citizenship: 0.0274
+fees: 0.0214
+fee: 0.0172
+immigration: 0.0107
+home: 0.0105
+children: 0.0095
+nationality: 0.0095
+kids: 0.0094
+british: 0.0087
+office: 0.0079
+
+Topic_285:
+potholes: 0.0702
+pothole: 0.0252
+roads: 0.0215
+oxfordshire: 0.0092
+repair: 0.0083
+road: 0.0073
+highway: 0.0069
+asphalt: 0.0059
+backlog: 0.0055
+maintenance: 0.0047
+
+Topic_286:
+yes: 0.0861
+oh: 0.0389
+extant: 0.0259
+interpreting: 0.0246
+briefly: 0.0237
+will: 0.0235
+peroration: 0.0234
+anticipating: 0.0234
+ample: 0.0223
+once: 0.0222
+
+Topic_287:
+airbus: 0.0758
+aerospace: 0.0110
+chain: 0.0093
+supply: 0.0078
+brexit: 0.0076
+jobs: 0.0066
+manufacturing: 0.0064
+company: 0.0059
+aviation: 0.0058
+warnings: 0.0049
+
+Topic_288:
+scotland: 0.0206
+market: 0.0191
+internal: 0.0146
+rest: 0.0145
+scottish: 0.0122
+single: 0.0120
+trade: 0.0119
+exports: 0.0112
+eu: 0.0084
+union: 0.0080
+
+Topic_289:
+review: 0.0631
+augar: 0.0119
+link: 0.0090
+emailable: 0.0089
+outwardly: 0.0076
+mod: 0.0073
+accessible: 0.0071
+gemma: 0.0068
+nice: 0.0064
+downsides: 0.0062
+
+Topic_290:
+vauxhall: 0.0347
+automotive: 0.0244
+plant: 0.0164
+ellesmere: 0.0153
+manufacturing: 0.0140
+industry: 0.0125
+psa: 0.0111
+car: 0.0105
+port: 0.0099
+losses: 0.0090
+
+Topic_291:
+wildlife: 0.0613
+illegal: 0.0418
+corruption: 0.0236
+trade: 0.0182
+species: 0.0140
+conference: 0.0108
+anti: 0.0103
+trafficking: 0.0087
+fauna: 0.0074
+flora: 0.0072
+
+Topic_292:
+upskirting: 0.0730
+offence: 0.0307
+sexual: 0.0194
+gina: 0.0154
+offences: 0.0142
+skirt: 0.0105
+outraging: 0.0098
+voyeurism: 0.0096
+law: 0.0091
+criminal: 0.0084
+
+Topic_293:
+creative: 0.0619
+industries: 0.0405
+tourism: 0.0134
+sector: 0.0082
+copyright: 0.0078
+festival: 0.0075
+film: 0.0072
+economy: 0.0071
+musicians: 0.0062
+success: 0.0062
+
+Topic_294:
+learning: 0.0499
+disability: 0.0259
+disabilities: 0.0237
+autism: 0.0129
+deaths: 0.0107
+care: 0.0106
+training: 0.0103
+transforming: 0.0095
+units: 0.0086
+leder: 0.0074
+
+Topic_295:
+hmrc: 0.0866
+roadchef: 0.0205
+employees: 0.0076
+schemes: 0.0070
+individuals: 0.0061
+ebt: 0.0061
+promoted: 0.0061
+trust: 0.0057
+payout: 0.0056
+trustees: 0.0054
+
+Topic_296:
+internet: 0.0215
+media: 0.0199
+platforms: 0.0171
+content: 0.0162
+online: 0.0133
+companies: 0.0117
+material: 0.0107
+facebook: 0.0094
+social: 0.0090
+harms: 0.0089
+
+Topic_297:
+science: 0.0477
+innovation: 0.0170
+scientific: 0.0149
+collaboration: 0.0133
+research: 0.0131
+horizon: 0.0101
+scientists: 0.0096
+technology: 0.0067
+pact: 0.0061
+world: 0.0061
+
+Topic_298:
+dental: 0.0915
+dentists: 0.0404
+dentistry: 0.0243
+decay: 0.0220
+dentist: 0.0175
+bradford: 0.0173
+tooth: 0.0154
+nhs: 0.0154
+contract: 0.0112
+argus: 0.0108
+
+Topic_299:
+marine: 0.0441
+oceans: 0.0249
+blue: 0.0179
+territories: 0.0167
+belt: 0.0163
+protected: 0.0144
+sandwich: 0.0130
+conservation: 0.0130
+overseas: 0.0121
+sq: 0.0115
+
+Topic_300:
+loan: 0.0267
+hmrc: 0.0227
+charge: 0.0222
+schemes: 0.0172
+tax: 0.0132
+retrospective: 0.0123
+loans: 0.0110
+remuneration: 0.0104
+ir35: 0.0104
+disguised: 0.0103
+
+Topic_301:
+helms: 0.0326
+green: 0.0254
+mis: 0.0229
+selling: 0.0168
+scheme: 0.0140
+backed: 0.0139
+warrants: 0.0124
+company: 0.0094
+panels: 0.0088
+deal: 0.0088
+
+Topic_302:
+parental: 0.0836
+shared: 0.0461
+leave: 0.0278
+employed: 0.0185
+self: 0.0147
+maternity: 0.0131
+freelancers: 0.0129
+pay: 0.0119
+parents: 0.0115
+fathers: 0.0111
+
+Topic_303:
+vat: 0.0852
+tourism: 0.0196
+directive: 0.0072
+businesses: 0.0071
+ireland: 0.0063
+visitors: 0.0061
+retailers: 0.0057
+tourists: 0.0057
+threshold: 0.0056
+boost: 0.0053
+
+Topic_304:
+funeral: 0.0611
+funerals: 0.0356
+loved: 0.0114
+burial: 0.0103
+paupers: 0.0085
+cremation: 0.0073
+fund: 0.0060
+grief: 0.0057
+grieving: 0.0056
+goodbye: 0.0054
+
+Topic_305:
+inquiry: 0.0471
+brian: 0.0199
+sir: 0.0106
+kingston: 0.0088
+diana: 0.0084
+hull: 0.0074
+chair: 0.0072
+reference: 0.0068
+johnson: 0.0067
+judge: 0.0066
+
+Topic_306:
+erosion: 0.0424
+coastal: 0.0371
+coastline: 0.0228
+angus: 0.0168
+flood: 0.0104
+flooding: 0.0097
+coast: 0.0092
+montrose: 0.0090
+kirstene: 0.0073
+hair: 0.0067
+
+Topic_307:
+cycling: 0.0793
+walking: 0.0354
+cycle: 0.0198
+gilligan: 0.0154
+bike: 0.0130
+cyclists: 0.0091
+cities: 0.0087
+oxford: 0.0079
+congestion: 0.0068
+investment: 0.0064
+
+Topic_308:
+parks: 0.0655
+playgrounds: 0.0227
+spaces: 0.0206
+park: 0.0117
+playground: 0.0094
+beauty: 0.0076
+sheffield: 0.0073
+play: 0.0073
+national: 0.0070
+mawr: 0.0068
+
+Topic_309:
+university: 0.0486
+universities: 0.0247
+colleges: 0.0216
+privy: 0.0130
+students: 0.0118
+london: 0.0106
+institutions: 0.0090
+disadvantaged: 0.0084
+federal: 0.0083
+andrews: 0.0079
+
+Topic_310:
+give: 0.1320
+lady: 0.1284
+way: 0.0936
+right: 0.0503
+hon: 0.0237
+will: 0.0202
+find: 0.0059
+like: 0.0037
+the: 0.0026
+point: 0.0024
+
+Topic_311:
+treasury: 0.0585
+website: 0.0064
+appearance: 0.0062
+op: 0.0062
+research: 0.0058
+information: 0.0058
+ministers: 0.0053
+wall: 0.0053
+tcsps: 0.0052
+piece: 0.0051
+
+Topic_312:
+scrabo: 0.2140
+defra: 0.1011
+indeed: 0.0636
+whole: 0.0345
+the: 0.0159
+does: 0.0127
+and: 0.0011
+: 0.0000
+: 0.0000
+: 0.0000
+
+Topic_313:
+bbc: 0.0993
+transparency: 0.0113
+viewers: 0.0102
+broadcaster: 0.0095
+broadcasting: 0.0092
+tv: 0.0089
+openness: 0.0077
+keighley: 0.0063
+programmes: 0.0061
+concession: 0.0060
+
+Topic_314:
+tb: 0.0756
+tuberculosis: 0.0267
+malaria: 0.0218
+disease: 0.0212
+global: 0.0137
+resistant: 0.0125
+vaccine: 0.0113
+arundel: 0.0098
+aids: 0.0096
+downs: 0.0096
+
+Topic_315:
+menopause: 0.0934
+women: 0.0174
+symptoms: 0.0158
+menopausal: 0.0112
+employers: 0.0089
+woman: 0.0084
+workplace: 0.0080
+hot: 0.0078
+flushes: 0.0074
+taboo: 0.0060
+
+Topic_316:
+trade: 0.0199
+agreements: 0.0194
+scrutiny: 0.0116
+clause: 0.0079
+bill: 0.0071
+existing: 0.0071
+powers: 0.0070
+remedies: 0.0067
+deals: 0.0065
+eu: 0.0063
+
+Topic_317:
+antibiotics: 0.0633
+homeopathy: 0.0481
+homeopathic: 0.0248
+antimicrobial: 0.0237
+resistance: 0.0213
+antibiotic: 0.0207
+veterinary: 0.0187
+rcvs: 0.0174
+medicine: 0.0156
+use: 0.0149
+
+Topic_318:
+training: 0.0600
+compulsory: 0.0156
+mandatory: 0.0085
+staff: 0.0076
+available: 0.0065
+someone: 0.0063
+undertake: 0.0060
+entrances: 0.0053
+expected: 0.0052
+members: 0.0050
+
+Topic_319:
+prostitution: 0.0796
+sex: 0.0343
+exploitation: 0.0201
+sexual: 0.0170
+women: 0.0127
+trafficking: 0.0092
+slavery: 0.0092
+exploited: 0.0080
+commercial: 0.0067
+trafficked: 0.0064
+
+Topic_320:
+psni: 0.0331
+constable: 0.0200
+garda: 0.0179
+ireland: 0.0161
+northern: 0.0147
+policing: 0.0135
+chief: 0.0117
+police: 0.0116
+officers: 0.0095
+border: 0.0092
+
+Topic_321:
+warrant: 0.1002
+arrest: 0.0859
+european: 0.0244
+extradition: 0.0199
+arrangements: 0.0081
+identical: 0.0077
+extradite: 0.0073
+security: 0.0070
+criminals: 0.0070
+sharing: 0.0062
+
+Topic_322:
+debt: 0.0516
+household: 0.0155
+credit: 0.0116
+card: 0.0114
+breathing: 0.0114
+payday: 0.0107
+cards: 0.0106
+lenders: 0.0105
+financial: 0.0101
+advice: 0.0098
+
+Topic_323:
+engagements: 0.4671
+wednesday: 0.3312
+official: 0.2823
+list: 0.2533
+her: 0.0564
+she: 0.0475
+if: 0.0430
+june: 0.0281
+october: 0.0280
+january: 0.0274
+
+Topic_324:
+music: 0.0419
+musicians: 0.0266
+orchestras: 0.0173
+arts: 0.0165
+touring: 0.0160
+venues: 0.0155
+theatre: 0.0149
+theatres: 0.0101
+performing: 0.0078
+cultural: 0.0067
+
+Topic_325:
+tessa: 0.0770
+jowell: 0.0147
+her: 0.0138
+olympics: 0.0138
+she: 0.0135
+norwood: 0.0063
+love: 0.0060
+was: 0.0060
+dulwich: 0.0059
+you: 0.0058
+
+Topic_326:
+foreign: 0.0400
+memo: 0.0136
+secretary: 0.0127
+president: 0.0115
+he: 0.0064
+questions: 0.0056
+cabinet: 0.0054
+answer: 0.0051
+gulag: 0.0051
+trump: 0.0049
+
+Topic_327:
+libyan: 0.0393
+ira: 0.0304
+libya: 0.0293
+gaddafi: 0.0234
+victims: 0.0145
+semtex: 0.0135
+terrorism: 0.0135
+assets: 0.0130
+compensation: 0.0121
+sponsored: 0.0103
+
+Topic_328:
+petition: 0.0569
+petitioners: 0.0415
+urges: 0.0289
+vires: 0.0241
+consultation: 0.0236
+educating: 0.0236
+accessible: 0.0229
+contents: 0.0208
+etc: 0.0205
+workable: 0.0201
+
+Topic_329:
+scottish: 0.0183
+scotland: 0.0146
+snp: 0.0139
+budget: 0.0112
+transactions: 0.0090
+cuts: 0.0074
+underspend: 0.0073
+million: 0.0073
+spent: 0.0065
+453: 0.0062
+
+Topic_330:
+pku: 0.0605
+kuvan: 0.0319
+protein: 0.0186
+diet: 0.0166
+condition: 0.0133
+rare: 0.0127
+nspku: 0.0107
+phenylketonuria: 0.0106
+treatment: 0.0083
+phenylalanine: 0.0079
+
+Topic_331:
+inquiry: 0.0500
+blood: 0.0442
+contaminated: 0.0404
+infected: 0.0313
+brian: 0.0283
+scandal: 0.0206
+reference: 0.0139
+langstaff: 0.0133
+maxwellisation: 0.0130
+sir: 0.0124
+
+Topic_332:
+rape: 0.0330
+sexual: 0.0296
+exploitation: 0.0217
+victims: 0.0188
+telford: 0.0149
+child: 0.0111
+prosecution: 0.0096
+juries: 0.0093
+victim: 0.0090
+intercourse: 0.0078
+
+Topic_333:
+followed: 0.0405
+commencing: 0.0237
+monday: 0.0212
+motion: 0.0199
+tuesday: 0.0197
+stages: 0.0186
+thursday: 0.0170
+wednesday: 0.0166
+business: 0.0163
+remaining: 0.0161
+
+Topic_334:
+childcare: 0.0876
+vouchers: 0.0428
+voucher: 0.0231
+scheme: 0.0166
+parents: 0.0164
+tax: 0.0158
+free: 0.0145
+families: 0.0141
+entrants: 0.0075
+eligible: 0.0067
+
+Topic_335:
+winter: 0.0466
+nhs: 0.0181
+patients: 0.0133
+beds: 0.0117
+pressures: 0.0092
+bed: 0.0088
+hospital: 0.0077
+crisis: 0.0076
+northumberland: 0.0074
+staff: 0.0069
+
+Topic_336:
+japan: 0.0492
+japanese: 0.0254
+epa: 0.0179
+trade: 0.0128
+agreement: 0.0107
+eu: 0.0087
+agreements: 0.0053
+partnership: 0.0051
+scrutiny: 0.0046
+investor: 0.0045
+
+Topic_337:
+steps: 0.1545
+fiscal: 0.1103
+taking: 0.1099
+entrepreneurs: 0.0429
+support: 0.0394
+small: 0.0376
+growth: 0.0340
+street: 0.0327
+what: 0.0282
+sector: 0.0275
+
+Topic_338:
+however: 0.5019
+detract: 0.1062
+fortunately: 0.0949
+meanwhile: 0.0822
+nevertheless: 0.0647
+apart: 0.0642
+even: 0.0618
+overall: 0.0481
+though: 0.0450
+certainly: 0.0290
+
+Topic_339:
+streets: 0.0525
+high: 0.0400
+street: 0.0226
+675: 0.0184
+shops: 0.0161
+towns: 0.0109
+retail: 0.0094
+fund: 0.0093
+retailers: 0.0088
+vibrant: 0.0084
+
+Topic_340:
+affets: 0.0897
+absence: 0.0693
+solidarity: 0.0425
+uc: 0.0402
+comes: 0.0367
+collective: 0.0366
+view: 0.0362
+integration: 0.0357
+shop: 0.0346
+dwp: 0.0339
+
+Topic_341:
+nazanin: 0.0595
+ratcliffe: 0.0497
+zaghari: 0.0486
+iran: 0.0250
+iranian: 0.0187
+foreign: 0.0127
+release: 0.0125
+separated: 0.0115
+her: 0.0108
+gabriella: 0.0104
+
+Topic_342:
+recent: 0.0454
+eu: 0.0448
+progress: 0.0421
+negotiations: 0.0369
+leaves: 0.0336
+estimate: 0.0268
+discussions: 0.0264
+leaving: 0.0261
+uk: 0.0236
+made: 0.0230
+
+Topic_343:
+special: 0.0551
+educational: 0.0381
+needs: 0.0284
+children: 0.0173
+schools: 0.0160
+education: 0.0133
+school: 0.0122
+mainstream: 0.0109
+funding: 0.0108
+pupils: 0.0107
+
+Topic_344:
+outbreak: 0.0619
+ebola: 0.0315
+congo: 0.0241
+drc: 0.0236
+sierra: 0.0225
+leone: 0.0217
+experimental: 0.0139
+vaccine: 0.0129
+republic: 0.0113
+ugandan: 0.0104
+
+Topic_345:
+salisbury: 0.0367
+incident: 0.0195
+wiltshire: 0.0146
+skripal: 0.0122
+decontamination: 0.0104
+nerve: 0.0097
+dawn: 0.0087
+agent: 0.0087
+sturgess: 0.0084
+hospital: 0.0081
+
+Topic_346:
+travellers: 0.0383
+traveller: 0.0353
+encampments: 0.0324
+unauthorised: 0.0225
+sites: 0.0206
+gypsy: 0.0141
+illegal: 0.0105
+settled: 0.0097
+gypsies: 0.0086
+trespass: 0.0081
+
+Topic_347:
+media: 0.0397
+social: 0.0223
+mental: 0.0186
+young: 0.0146
+health: 0.0123
+online: 0.0122
+internet: 0.0093
+technology: 0.0070
+children: 0.0065
+use: 0.0065
+
+Topic_348:
+environmental: 0.0420
+environment: 0.0211
+protections: 0.0100
+principles: 0.0093
+bathing: 0.0088
+standards: 0.0064
+eu: 0.0060
+body: 0.0057
+regulatory: 0.0055
+chemicals: 0.0054
+
+Topic_349:
+implementation: 0.0421
+period: 0.0387
+orderly: 0.0090
+eu: 0.0082
+directives: 0.0073
+transition: 0.0073
+european: 0.0072
+continuity: 0.0070
+businesses: 0.0070
+negotiating: 0.0065
+
+Topic_350:
+no: 0.4652
+inc: 0.2127
+counts: 0.1295
+apparently: 0.0926
+sir: 0.0506
+both: 0.0275
+not: 0.0038
+on: 0.0031
+: 0.0000
+: 0.0000
+
+Topic_351:
+boundary: 0.0657
+review: 0.0174
+commissions: 0.0166
+constituencies: 0.0126
+boundaries: 0.0109
+commission: 0.0093
+reviews: 0.0092
+600: 0.0070
+recommendations: 0.0067
+parliamentary: 0.0067
+
+Topic_352:
+steps: 0.0686
+leaves: 0.0653
+taking: 0.0407
+eu: 0.0381
+uk: 0.0287
+after: 0.0223
+leaving: 0.0222
+agreements: 0.0212
+negotiations: 0.0193
+department: 0.0161
+
+Topic_353:
+seven: 0.1500
+59th: 0.1239
+69th: 0.1239
+six: 0.1203
+thirteen: 0.0950
+multiply: 0.0936
+alsager: 0.0923
+ninety: 0.0901
+168: 0.0874
+fifty: 0.0805
+
+Topic_354:
+tax: 0.0423
+income: 0.0257
+rate: 0.0171
+taxation: 0.0151
+earners: 0.0144
+thresholds: 0.0131
+allowance: 0.0123
+threshold: 0.0104
+top: 0.0097
+pay: 0.0092
+
+Topic_355:
+hope: 0.1841
+eli: 0.0522
+hopefully: 0.0455
+revive: 0.0382
+hopeful: 0.0312
+much: 0.0310
+swift: 0.0281
+accepting: 0.0256
+babies: 0.0242
+praise: 0.0230
+
+Topic_356:
+church: 0.1507
+meriden: 0.1063
+commissioners: 0.0739
+representing: 0.0734
+metal: 0.0458
+england: 0.0346
+ask: 0.0337
+churches: 0.0283
+communion: 0.0205
+theft: 0.0171
+
+Topic_357:
+empty: 0.0604
+properties: 0.0252
+homes: 0.0202
+premium: 0.0119
+property: 0.0110
+vacant: 0.0101
+authorities: 0.0087
+premiums: 0.0086
+councils: 0.0071
+measure: 0.0070
+
+Topic_358:
+conservative: 0.0428
+manifesto: 0.0275
+party: 0.0266
+election: 0.0162
+manifestos: 0.0122
+lord: 0.0122
+stip: 0.0105
+incon: 0.0105
+democrat: 0.0102
+yesterdays: 0.0097
+
+Topic_359:
+lords: 0.0614
+reform: 0.0174
+hereditary: 0.0136
+house: 0.0106
+commons: 0.0102
+elected: 0.0095
+peers: 0.0094
+abolition: 0.0083
+legitimacy: 0.0072
+daft: 0.0071
+
+Topic_360:
+labour: 0.0574
+dates: 0.0124
+crag: 0.0117
+feigned: 0.0117
+labouring: 0.0108
+45p: 0.0105
+hs1: 0.0094
+surprised: 0.0091
+starter: 0.0091
+rate: 0.0091
+
+Topic_361:
+letter: 0.0376
+case: 0.0278
+details: 0.0151
+lady: 0.0138
+offended: 0.0132
+write: 0.0125
+closer: 0.0125
+cases: 0.0107
+looked: 0.0105
+arouse: 0.0093
+
+Topic_362:
+give: 0.1054
+way: 0.0771
+gentleman: 0.0762
+redemption: 0.0310
+rushes: 0.0286
+hon: 0.0207
+occurring: 0.0185
+will: 0.0177
+returns: 0.0154
+early: 0.0140
+
+Topic_363:
+foster: 0.0597
+fostering: 0.0279
+carers: 0.0199
+children: 0.0180
+care: 0.0135
+stocktake: 0.0110
+sefton: 0.0074
+child: 0.0069
+adoption: 0.0066
+permanence: 0.0063
+
+Topic_364:
+beg: 0.2505
+read: 0.2234
+clause: 0.1948
+second: 0.1598
+move: 0.1570
+time: 0.0569
+love: 0.0192
+be: 0.0150
+formally: 0.0130
+schedule: 0.0120
+
+Topic_365:
+gender: 0.0451
+trans: 0.0301
+transgender: 0.0235
+recognition: 0.0204
+2004: 0.0126
+women: 0.0113
+act: 0.0091
+dysphoria: 0.0087
+identification: 0.0069
+certificate: 0.0066
+
+Topic_366:
+drones: 0.0918
+drone: 0.0483
+prisons: 0.0229
+gatwick: 0.0189
+grilles: 0.0150
+flying: 0.0140
+prison: 0.0118
+nets: 0.0112
+kg: 0.0110
+drugs: 0.0103
+
+Topic_367:
+salary: 0.0254
+brightest: 0.0197
+immigration: 0.0173
+skills: 0.0146
+researchers: 0.0137
+technicians: 0.0126
+science: 0.0108
+talent: 0.0107
+threshold: 0.0102
+migration: 0.0098
+
+Topic_368:
+shooting: 0.0772
+games: 0.0454
+bisley: 0.0251
+sports: 0.0240
+commonwealth: 0.0169
+cgf: 0.0169
+sport: 0.0152
+rifle: 0.0150
+birmingham: 0.0139
+medals: 0.0127
+
+Topic_369:
+consumers: 0.0383
+œmodernising: 0.0126
+regulation: 0.0124
+consumer: 0.0123
+marketsa: 0.0113
+sales: 0.0102
+products: 0.0102
+markets: 0.0089
+competition: 0.0088
+suppliers: 0.0080
+
+Topic_370:
+female: 0.0414
+offender: 0.0274
+custody: 0.0231
+offenders: 0.0227
+women: 0.0196
+strategy: 0.0180
+corston: 0.0163
+prison: 0.0143
+custodial: 0.0118
+alternatives: 0.0110
+
+Topic_371:
+girls: 0.0976
+education: 0.0469
+212: 0.0178
+summit: 0.0130
+pakistan: 0.0130
+commonwealth: 0.0113
+marginalised: 0.0113
+developing: 0.0112
+g7: 0.0111
+spanner: 0.0101
+
+Topic_372:
+assent: 1.9098
+indicated: 1.4543
+decant: 0.0841
+conjunction: 0.0802
+full: 0.0251
+in: 0.0009
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+
+Topic_373:
+visas: 0.0259
+visa: 0.0239
+visitor: 0.0170
+students: 0.0150
+toeic: 0.0119
+ets: 0.0118
+test: 0.0108
+english: 0.0091
+immigration: 0.0089
+œpanoramaa: 0.0074
+
+Topic_374:
+dissent: 1.3278
+indicated: 0.8444
+promoters: 0.0538
+withdrawn: 0.0443
+petitions: 0.0390
+agents: 0.0366
+petitioners: 0.0324
+speaking: 0.0257
+held: 0.0213
+providing: 0.0212
+
+Topic_375:
+oxfam: 0.0434
+haiti: 0.0206
+sexual: 0.0150
+charity: 0.0150
+aid: 0.0147
+exploitation: 0.0133
+safeguarding: 0.0118
+abuse: 0.0108
+charities: 0.0090
+beneficiaries: 0.0083
+
+Topic_376:
+interpol: 0.0960
+balances: 0.0197
+president: 0.0181
+vice: 0.0162
+prokopchuk: 0.0153
+presidency: 0.0144
+checks: 0.0132
+organisation: 0.0120
+notices: 0.0103
+candidate: 0.0102
+
+Topic_377:
+divis: 0.0823
+seen: 0.0596
+likewise: 0.0503
+reached: 0.0304
+must: 0.0288
+ground: 0.0284
+seeing: 0.0269
+officials: 0.0266
+true: 0.0243
+have: 0.0237
+
+Topic_378:
+dna: 0.0789
+mandatory: 0.0174
+gurkhas: 0.0167
+immigration: 0.0141
+evidence: 0.0124
+voluntary: 0.0118
+home: 0.0096
+cases: 0.0083
+applicant: 0.0072
+records: 0.0067
+
+Topic_379:
+maternity: 0.0529
+pregnant: 0.0447
+discrimination: 0.0422
+pregnancy: 0.0278
+mothers: 0.0217
+taylor: 0.0205
+women: 0.0179
+redundancy: 0.0164
+review: 0.0114
+equalities: 0.0103
+
+Topic_380:
+grimsby: 0.0970
+cleethorpes: 0.0579
+town: 0.0317
+greater: 0.0130
+board: 0.0120
+project: 0.0109
+resorts: 0.0087
+centre: 0.0077
+chips: 0.0072
+seaside: 0.0071
+
+Topic_381:
+literacy: 0.0281
+phonics: 0.0238
+maths: 0.0216
+reading: 0.0187
+tables: 0.0154
+primary: 0.0139
+pupils: 0.0127
+schools: 0.0126
+pirls: 0.0124
+numeracy: 0.0112
+
+Topic_382:
+effect: 0.0660
+leaving: 0.0590
+discussions: 0.0482
+assessment: 0.0394
+scotland: 0.0361
+eu: 0.0331
+recent: 0.0329
+uk: 0.0237
+internal: 0.0204
+leaves: 0.0186
+
+Topic_383:
+give: 0.1163
+way: 0.0824
+minister: 0.0550
+beguiles: 0.0409
+yesses: 0.0409
+port: 0.0287
+unsure: 0.0252
+concludes: 0.0237
+glass: 0.0232
+fishing: 0.0228
+
+Topic_384:
+fca: 0.0406
+payday: 0.0381
+loans: 0.0276
+lending: 0.0215
+credit: 0.0213
+logbook: 0.0208
+lenders: 0.0186
+card: 0.0159
+loan: 0.0158
+debt: 0.0146
+
+Topic_385:
+spitting: 0.0367
+assault: 0.0323
+emergency: 0.0199
+offence: 0.0146
+sentence: 0.0134
+maximum: 0.0128
+assaults: 0.0120
+worker: 0.0114
+sexual: 0.0087
+workers: 0.0086
+
+Topic_386:
+forthcoming: 0.1811
+please: 0.1148
+leader: 0.0993
+business: 0.0760
+give: 0.0487
+house: 0.0325
+us: 0.0294
+proceedings: 0.0141
+thursday: 0.0138
+knighthood: 0.0136
+
+Topic_387:
+chairman: 0.0704
+committee: 0.0610
+give: 0.0534
+select: 0.0496
+chair: 0.0459
+fellow: 0.0420
+way: 0.0378
+happily: 0.0343
+exiting: 0.0300
+sit: 0.0261
+
+Topic_388:
+basketball: 0.0793
+sport: 0.0392
+grassroots: 0.0108
+olympic: 0.0102
+elite: 0.0099
+sports: 0.0098
+league: 0.0097
+game: 0.0091
+communities: 0.0064
+player: 0.0064
+
+Topic_389:
+charter: 0.0499
+rights: 0.0230
+law: 0.0154
+fundamental: 0.0098
+principles: 0.0095
+retained: 0.0084
+lord: 0.0068
+human: 0.0065
+learned: 0.0063
+amendment: 0.0060
+
+Topic_390:
+geothermal: 0.0728
+energy: 0.0299
+heat: 0.0263
+clackmannanshire: 0.0194
+resource: 0.0121
+renewable: 0.0113
+heating: 0.0093
+southampton: 0.0084
+potential: 0.0083
+auckland: 0.0082
+
+Topic_391:
+nhs: 0.0136
+patient: 0.0103
+kirkup: 0.0070
+patients: 0.0069
+doctors: 0.0064
+safety: 0.0059
+culture: 0.0057
+medical: 0.0054
+healthcare: 0.0048
+staff: 0.0047
+
+Topic_392:
+trusts: 0.0376
+subsidiary: 0.0358
+subsidiaries: 0.0321
+nhs: 0.0260
+owned: 0.0218
+staff: 0.0215
+wholly: 0.0194
+trust: 0.0151
+companies: 0.0114
+œagenda: 0.0086
+
+Topic_393:
+theft: 0.0628
+pet: 0.0610
+stolen: 0.0279
+pets: 0.0268
+dog: 0.0254
+dogs: 0.0213
+sampa: 0.0203
+monetary: 0.0146
+sentencing: 0.0115
+value: 0.0087
+
+Topic_394:
+haulage: 0.0366
+hauliers: 0.0131
+road: 0.0122
+permits: 0.0109
+goods: 0.0108
+transam: 0.0094
+industry: 0.0074
+trailer: 0.0069
+logistics: 0.0068
+hgv: 0.0062
+
+Topic_395:
+negotiations: 0.0216
+negotiation: 0.0196
+european: 0.0129
+gentleman: 0.0117
+michel: 0.0078
+negotiating: 0.0078
+barnier: 0.0073
+union: 0.0072
+deal: 0.0063
+outcome: 0.0062
+
+Topic_396:
+tickets: 0.0470
+viagogo: 0.0275
+ticket: 0.0268
+ticketing: 0.0265
+secondary: 0.0243
+touts: 0.0151
+google: 0.0137
+sites: 0.0119
+resale: 0.0099
+fans: 0.0098
+
+Topic_397:
+leaves: 0.0494
+discussions: 0.0341
+farmers: 0.0315
+food: 0.0306
+affairs: 0.0298
+environment: 0.0261
+rural: 0.0260
+agricultural: 0.0222
+agriculture: 0.0221
+eu: 0.0210
+
+Topic_398:
+sanctions: 0.0632
+regimes: 0.0187
+arms: 0.0098
+implement: 0.0087
+un: 0.0061
+bill: 0.0060
+regime: 0.0054
+laundering: 0.0053
+eu: 0.0049
+foreign: 0.0048
+
+Topic_399:
+important: 0.0622
+vivid: 0.0366
+crucial: 0.0276
+vibrant: 0.0245
+emotional: 0.0218
+demonstrates: 0.0202
+importance: 0.0196
+factor: 0.0196
+factors: 0.0191
+vital: 0.0190
+
+Topic_400:
+premature: 0.0347
+babies: 0.0338
+baby: 0.0298
+neonatal: 0.0246
+parents: 0.0229
+birth: 0.0189
+born: 0.0170
+maternity: 0.0154
+paternity: 0.0125
+prematurely: 0.0116
+
+Topic_401:
+bombardier: 0.0771
+belfast: 0.0161
+northern: 0.0105
+ireland: 0.0105
+company: 0.0098
+aerospace: 0.0093
+workforce: 0.0092
+manufacturing: 0.0090
+490: 0.0074
+chain: 0.0070
+
+Topic_402:
+hp: 0.1046
+sauce: 0.0770
+shell: 0.0708
+it: 0.0342
+detail: 0.0265
+yes: 0.0233
+is: 0.0229
+currently: 0.0207
+no: 0.0187
+know: 0.0160
+
+Topic_403:
+strive: 0.0325
+focused: 0.0277
+better: 0.0253
+metoo: 0.0210
+sfgb: 0.0202
+stumbling: 0.0199
+focus: 0.0192
+mindset: 0.0190
+optimal: 0.0188
+performance: 0.0182
+
+Topic_404:
+give: 0.1321
+way: 0.0936
+gentleman: 0.0870
+right: 0.0503
+injection: 0.0277
+hon: 0.0237
+will: 0.0209
+welcome: 0.0054
+him: 0.0049
+the: 0.0026
+
+Topic_405:
+pension: 0.0501
+age: 0.0275
+pensions: 0.0143
+women: 0.0132
+1995: 0.0114
+state: 0.0093
+66: 0.0090
+increase: 0.0082
+waspi: 0.0071
+65: 0.0068
+
+Topic_406:
+chemicals: 0.0853
+reach: 0.0148
+chemical: 0.0126
+industry: 0.0100
+regulation: 0.0100
+regulatory: 0.0081
+evaluation: 0.0064
+registration: 0.0063
+authorisation: 0.0058
+market: 0.0054
+
+Topic_407:
+pfi: 0.0788
+contracts: 0.0331
+pfis: 0.0309
+pf2: 0.0204
+labour: 0.0190
+signed: 0.0163
+awarded: 0.0111
+gordon: 0.0107
+private: 0.0100
+brown: 0.0098
+
+Topic_408:
+whistleblowers: 0.0346
+whistleblowing: 0.0170
+pida: 0.0119
+whistle: 0.0109
+whistleblower: 0.0105
+nhs: 0.0076
+litigation: 0.0069
+francis: 0.0067
+g4s: 0.0065
+disclosure: 0.0064
+
+Topic_409:
+mile: 0.0603
+daily: 0.0383
+schools: 0.0219
+obesity: 0.0209
+sport: 0.0205
+school: 0.0185
+active: 0.0178
+primary: 0.0162
+physical: 0.0140
+pe: 0.0133
+
+Topic_410:
+tolls: 0.0716
+severn: 0.0437
+wales: 0.0299
+bridge: 0.0233
+south: 0.0142
+crossing: 0.0139
+newport: 0.0132
+mersey: 0.0126
+m4: 0.0119
+brynglas: 0.0116
+
+Topic_411:
+it: 0.1100
+certainly: 0.0560
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+
+Topic_412:
+nhs: 0.0352
+funding: 0.0151
+billion: 0.0140
+budget: 0.0118
+five: 0.0102
+spending: 0.0094
+20: 0.0092
+settlement: 0.0092
+stevens: 0.0084
+increase: 0.0075
+
+Topic_413:
+reciprocal: 0.0286
+healthcare: 0.0261
+card: 0.0135
+ehic: 0.0134
+arrangements: 0.0120
+citizens: 0.0110
+insurance: 0.0107
+eu: 0.0100
+travel: 0.0087
+pensioners: 0.0065
+
+Topic_414:
+sport: 0.0511
+clubs: 0.0211
+sports: 0.0203
+ackley: 0.0133
+meek: 0.0113
+bravery: 0.0090
+young: 0.0086
+abuse: 0.0084
+reoffending: 0.0074
+children: 0.0074
+
+Topic_415:
+borderlands: 0.0599
+ayrshire: 0.0439
+growth: 0.0425
+deal: 0.0180
+carlisle: 0.0151
+blockers: 0.0119
+connectivity: 0.0101
+border: 0.0099
+borders: 0.0084
+governments: 0.0084
+
+Topic_416:
+social: 0.0336
+workers: 0.0286
+worker: 0.0136
+professional: 0.0117
+profession: 0.0109
+ongar: 0.0079
+brentwood: 0.0078
+accreditation: 0.0078
+work: 0.0070
+regulator: 0.0069
+
+Topic_417:
+amphibious: 0.0398
+hms: 0.0386
+devonport: 0.0363
+marines: 0.0273
+frigates: 0.0270
+type: 0.0264
+royal: 0.0235
+plymouth: 0.0235
+ships: 0.0235
+navy: 0.0219
+
+Topic_418:
+cps: 0.1136
+prosecution: 0.0437
+fgm: 0.0420
+prosecutors: 0.0295
+steps: 0.0264
+prosecutions: 0.0262
+exploitation: 0.0235
+rate: 0.0212
+taking: 0.0200
+effectiveness: 0.0186
+
+Topic_419:
+flood: 0.0894
+floods: 0.0256
+flooding: 0.0217
+insurance: 0.0214
+catchment: 0.0181
+defences: 0.0164
+householders: 0.0132
+management: 0.0126
+york: 0.0111
+submerged: 0.0094
+
+Topic_420:
+colleges: 0.0562
+sixth: 0.0482
+fe: 0.0358
+college: 0.0242
+form: 0.0201
+education: 0.0172
+funding: 0.0160
+16: 0.0152
+resilience: 0.0115
+fes: 0.0113
+
+Topic_421:
+enrolment: 0.0741
+auto: 0.0707
+enrolled: 0.0288
+employers: 0.0158
+pension: 0.0151
+pensions: 0.0137
+retirement: 0.0131
+success: 0.0118
+chippenham: 0.0106
+donelan: 0.0096
+
+Topic_422:
+know: 0.1326
+disheartening: 0.0876
+don: 0.0855
+libre: 0.0779
+knows: 0.0693
+style: 0.0478
+understand: 0.0476
+everyone: 0.0461
+knew: 0.0395
+head: 0.0321
+
+Topic_423:
+departmental: 0.2938
+responsibilities: 0.2430
+statement: 0.1224
+her: 0.0564
+make: 0.0538
+she: 0.0498
+if: 0.0414
+occupational: 0.0196
+weaknesses: 0.0194
+106: 0.0185
+
+Topic_424:
+give: 0.1365
+way: 0.0967
+gentleman: 0.0899
+right: 0.0520
+hon: 0.0245
+will: 0.0209
+the: 0.0027
+: 0.0000
+: 0.0000
+: 0.0000
+
+Topic_425:
+suicide: 0.0762
+prevention: 0.0129
+suicides: 0.0125
+samaritans: 0.0101
+suicidal: 0.0091
+tragedy: 0.0078
+coroner: 0.0073
+mental: 0.0073
+harm: 0.0068
+health: 0.0060
+
+Topic_426:
+withdrawal: 0.0219
+exit: 0.0101
+eca: 0.0099
+agreement: 0.0095
+european: 0.0092
+act: 0.0085
+eu: 0.0080
+implementation: 0.0079
+white: 0.0074
+bill: 0.0066
+
+Topic_427:
+arts: 0.0510
+coalfield: 0.0256
+miners: 0.0226
+mansfield: 0.0123
+mining: 0.0121
+facilities: 0.0118
+pneumoconiosis: 0.0107
+coalfields: 0.0097
+communities: 0.0096
+council: 0.0087
+
+Topic_428:
+voted: 0.0272
+leave: 0.0258
+vote: 0.0215
+european: 0.0181
+union: 0.0170
+deliver: 0.0151
+gave: 0.0138
+british: 0.0111
+result: 0.0082
+people: 0.0081
+
+Topic_429:
+06: 0.0539
+26: 0.0520
+2011: 0.0517
+year: 0.0506
+g8: 0.0499
+2012: 0.0498
+september: 0.0488
+2017: 0.0470
+mere: 0.0381
+2003: 0.0351
+
+Topic_430:
+penalty: 0.0616
+death: 0.0466
+assurances: 0.0183
+oppose: 0.0106
+seek: 0.0079
+osja: 0.0070
+fighters: 0.0070
+circumstances: 0.0069
+letter: 0.0064
+crimes: 0.0063
+
+Topic_431:
+hiv: 0.0943
+aids: 0.0258
+stigma: 0.0128
+prep: 0.0087
+kemptown: 0.0085
+viral: 0.0082
+treatment: 0.0077
+diagnosed: 0.0074
+moyle: 0.0071
+undetectable: 0.0069
+
+Topic_432:
+un: 0.0461
+resolution: 0.0226
+stockholm: 0.0185
+security: 0.0127
+council: 0.0120
+nations: 0.0113
+compliance: 0.0102
+peacekeeping: 0.0091
+peace: 0.0089
+presidential: 0.0089
+
+Topic_433:
+rural: 0.0398
+crime: 0.0259
+hare: 0.0215
+coursing: 0.0209
+urban: 0.0163
+areas: 0.0107
+crimes: 0.0100
+police: 0.0080
+theft: 0.0077
+tipping: 0.0076
+
+Topic_434:
+scottish: 0.0138
+security: 0.0124
+social: 0.0102
+welfare: 0.0089
+carrick: 0.0077
+cumnock: 0.0076
+ayr: 0.0075
+scotland: 0.0068
+snp: 0.0067
+tory: 0.0062
+
+Topic_435:
+isotretinoin: 0.0633
+acne: 0.0367
+accutane: 0.0221
+drugs: 0.0195
+drug: 0.0187
+effects: 0.0167
+prescription: 0.0152
+roaccutane: 0.0141
+severe: 0.0096
+controlled: 0.0094
+
+Topic_436:
+hong: 0.0933
+kong: 0.0923
+china: 0.0230
+declaration: 0.0169
+freedoms: 0.0160
+joint: 0.0143
+rights: 0.0107
+handover: 0.0098
+systems: 0.0085
+autonomy: 0.0084
+
+Topic_437:
+grandparents: 0.0686
+grandchildren: 0.0220
+child: 0.0146
+grandparent: 0.0140
+family: 0.0137
+divorce: 0.0103
+breakdown: 0.0090
+worcestershire: 0.0087
+huddleston: 0.0078
+relationship: 0.0066
+
+Topic_438:
+knives: 0.0411
+bladed: 0.0187
+knife: 0.0155
+retailers: 0.0127
+weapons: 0.0120
+online: 0.0112
+sale: 0.0098
+items: 0.0097
+decorating: 0.0097
+firearms: 0.0093
+
+Topic_439:
+illegal: 0.0303
+compliant: 0.0184
+migration: 0.0179
+illegally: 0.0145
+here: 0.0136
+legally: 0.0135
+immigration: 0.0129
+environment: 0.0106
+immigrants: 0.0105
+migrants: 0.0103
+
+Topic_440:
+unrwa: 0.0944
+palestinian: 0.0146
+donors: 0.0132
+states: 0.0120
+conference: 0.0114
+peace: 0.0107
+funding: 0.0105
+united: 0.0086
+kra: 0.0082
+henba¼hl: 0.0082
+
+Topic_441:
+assent: 1.6664
+indicated: 1.2690
+objectives: 0.0617
+return: 0.0394
+referred: 0.0384
+let: 0.0225
+me: 0.0106
+which: 0.0052
+at: 0.0050
+to: 0.0012
+
+Topic_442:
+outdated: 0.1729
+closing: 0.1206
+that: 0.0391
+given: 0.0354
+point: 0.0217
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+
+Topic_443:
+sri: 0.0967
+lanka: 0.0735
+lankan: 0.0337
+colombo: 0.0183
+tamil: 0.0147
+rajapaksa: 0.0142
+reconciliation: 0.0135
+human: 0.0115
+gsp: 0.0103
+mahinda: 0.0090
+
+Topic_444:
+adjournment: 0.0310
+write: 0.0222
+directly: 0.0218
+lady: 0.0210
+seek: 0.0184
+her: 0.0179
+raises: 0.0175
+encourage: 0.0166
+raise: 0.0157
+ministers: 0.0148
+
+Topic_445:
+unemployment: 0.0254
+wage: 0.0146
+wages: 0.0138
+lower: 0.0134
+inequality: 0.0122
+labour: 0.0114
+2010: 0.0109
+lowest: 0.0101
+income: 0.0099
+left: 0.0094
+
+Topic_446:
+press: 0.0583
+gannett: 0.0104
+newsquest: 0.0101
+media: 0.0097
+ipso: 0.0084
+watson: 0.0076
+free: 0.0074
+journalists: 0.0069
+freedom: 0.0066
+bromwich: 0.0065
+
+Topic_447:
+uighurs: 0.3246
+hither: 0.2769
+rhinos: 0.2420
+american: 0.1387
+modern: 0.0907
+the: 0.0156
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+
+Topic_448:
+speech: 0.0343
+universities: 0.0315
+students: 0.0284
+free: 0.0233
+freedom: 0.0183
+campus: 0.0130
+unions: 0.0125
+university: 0.0119
+campuses: 0.0117
+views: 0.0112
+
+Topic_449:
+exports: 0.0461
+welsh: 0.0278
+wales: 0.0245
+market: 0.0119
+customs: 0.0115
+investment: 0.0099
+643: 0.0097
+toyota: 0.0097
+union: 0.0094
+chains: 0.0090
+
+Topic_450:
+bills: 0.0591
+private: 0.0382
+fridays: 0.0221
+members: 0.0131
+bill: 0.0106
+aversion: 0.0103
+queue: 0.0091
+2005: 0.0078
+sitting: 0.0076
+friday: 0.0072
+
+Topic_451:
+coroner: 0.0676
+coroners: 0.0676
+deaths: 0.0152
+inquest: 0.0142
+death: 0.0136
+bereaved: 0.0094
+chief: 0.0089
+examiner: 0.0082
+judicial: 0.0076
+courts: 0.0073
+
+Topic_452:
+wildcats: 0.2822
+translates: 0.2776
+barring: 0.2699
+participant: 0.2416
+states: 0.1508
+bid: 0.1257
+finally: 0.1016
+someone: 0.0766
+as: 0.0405
+know: 0.0277
+
+Topic_453:
+badger: 0.0672
+cull: 0.0601
+tb: 0.0310
+culling: 0.0306
+badgers: 0.0299
+cattle: 0.0239
+vaccination: 0.0221
+disease: 0.0140
+testing: 0.0121
+incidence: 0.0114
+
+Topic_454:
+pubs: 0.0663
+pub: 0.0480
+code: 0.0240
+tenants: 0.0193
+beer: 0.0176
+adjudicator: 0.0106
+mro: 0.0085
+pubcos: 0.0085
+newby: 0.0080
+tied: 0.0075
+
+Topic_455:
+funding: 0.1024
+donors: 0.0331
+reused: 0.0277
+disputing: 0.0260
+fundinga: 0.0252
+œplease: 0.0218
+additional: 0.0205
+budgeting: 0.0203
+capital: 0.0203
+conditional: 0.0201
+
+Topic_456:
+am: 0.1833
+equally: 0.0601
+re: 0.0542
+really: 0.0533
+man: 0.0504
+listening: 0.0495
+standing: 0.0434
+carefully: 0.0430
+cross: 0.0400
+yes: 0.0381
+
+Topic_457:
+split: 0.0672
+payments: 0.0397
+abuse: 0.0260
+domestic: 0.0208
+payment: 0.0174
+universal: 0.0141
+credit: 0.0132
+women: 0.0093
+survivors: 0.0090
+household: 0.0088
+
+Topic_458:
+trade: 0.0274
+agreements: 0.0137
+gentleman: 0.0104
+trading: 0.0099
+free: 0.0091
+deals: 0.0087
+conflating: 0.0082
+tariffs: 0.0073
+wto: 0.0072
+traffickers: 0.0067
+
+Topic_459:
+posting: 0.1748
+retaining: 0.1243
+as: 0.1154
+involves: 0.1014
+well: 0.0473
+certainly: 0.0442
+part: 0.0254
+also: 0.0162
+so: 0.0106
+my: 0.0053
+
+Topic_460:
+give: 0.1365
+way: 0.0967
+gentleman: 0.0899
+right: 0.0520
+hon: 0.0245
+will: 0.0209
+the: 0.0027
+: 0.0000
+: 0.0000
+: 0.0000
+
+Topic_461:
+meals: 0.0479
+universal: 0.0292
+credit: 0.0267
+school: 0.0253
+free: 0.0229
+threshold: 0.0205
+earnings: 0.0129
+eligibility: 0.0117
+children: 0.0106
+roll: 0.0104
+
+Topic_462:
+exclusions: 0.0604
+ofsted: 0.0509
+timpson: 0.0181
+schools: 0.0178
+exclusion: 0.0175
+excluded: 0.0152
+exclude: 0.0147
+education: 0.0132
+school: 0.0126
+resort: 0.0101
+
+Topic_463:
+navigation: 0.0416
+commissioners: 0.0269
+waterways: 0.0242
+middle: 0.0208
+drainage: 0.0132
+level: 0.0129
+waterway: 0.0119
+facilities: 0.0098
+boat: 0.0091
+vessel: 0.0087
+
+Topic_464:
+29: 0.0429
+march: 0.0307
+2019: 0.0279
+leaving: 0.0277
+eu: 0.0190
+leave: 0.0141
+union: 0.0116
+european: 0.0116
+unilateral: 0.0072
+relationship: 0.0069
+
+Topic_465:
+parliament: 0.0388
+fallacious: 0.0155
+confected: 0.0155
+parliamentarians: 0.0143
+detracts: 0.0143
+legislator: 0.0143
+snub: 0.0139
+cons: 0.0112
+pros: 0.0112
+maastricht: 0.0111
+
+Topic_466:
+chancellor: 0.0191
+budget: 0.0132
+brexit: 0.0098
+economy: 0.0093
+austerity: 0.0085
+dividend: 0.0076
+uncertainty: 0.0058
+growth: 0.0056
+fiscal: 0.0049
+borrowing: 0.0049
+
+Topic_467:
+alcohol: 0.0805
+drink: 0.0234
+mg: 0.0196
+drinking: 0.0188
+alcoholism: 0.0135
+harm: 0.0104
+ciders: 0.0101
+pubs: 0.0100
+cheap: 0.0099
+limit: 0.0098
+
+Topic_468:
+france: 0.0381
+french: 0.0322
+macron: 0.0150
+co: 0.0114
+partners: 0.0109
+european: 0.0105
+operation: 0.0099
+emmanuel: 0.0097
+relationship: 0.0093
+security: 0.0084
+
+Topic_469:
+restraint: 0.0528
+force: 0.0176
+œforcea: 0.0164
+patient: 0.0163
+amendment: 0.0135
+œsignificanta: 0.0131
+restrainta: 0.0129
+medication: 0.0119
+tranquilisation: 0.0114
+use: 0.0103
+
+Topic_470:
+roger: 0.0793
+scruton: 0.0576
+sir: 0.0378
+aesthetics: 0.0177
+philosopher: 0.0122
+beauty: 0.0119
+qualified: 0.0109
+views: 0.0107
+appointment: 0.0095
+freedom: 0.0094
+
+Topic_471:
+schools: 0.0243
+school: 0.0128
+academy: 0.0104
+academies: 0.0102
+teachers: 0.0082
+education: 0.0075
+pupils: 0.0054
+borough: 0.0047
+constituency: 0.0047
+multi: 0.0046
+
+Topic_472:
+sky: 0.0710
+fox: 0.0318
+cma: 0.0239
+broadcasting: 0.0224
+merger: 0.0218
+plurality: 0.0217
+news: 0.0201
+murdoch: 0.0149
+comcast: 0.0144
+ofcom: 0.0133
+
+Topic_473:
+learned: 0.1698
+give: 0.0767
+way: 0.0544
+friend: 0.0294
+differentiation: 0.0247
+right: 0.0239
+my: 0.0168
+precedent: 0.0158
+hon: 0.0144
+conclusions: 0.0141
+
+Topic_474:
+fans: 0.0545
+cup: 0.0394
+russia: 0.0346
+football: 0.0195
+travel: 0.0167
+russian: 0.0167
+embassy: 0.0146
+tournament: 0.0146
+travelling: 0.0120
+foreign: 0.0120
+
+Topic_475:
+trial: 0.0474
+unpaid: 0.0429
+trials: 0.0236
+shift: 0.0164
+shifts: 0.0145
+employer: 0.0112
+job: 0.0100
+periods: 0.0093
+hour: 0.0087
+someone: 0.0080
+
+Topic_476:
+industrial: 0.0257
+strategy: 0.0196
+productivity: 0.0138
+strengths: 0.0072
+winners: 0.0072
+industries: 0.0069
+economy: 0.0066
+sector: 0.0058
+development: 0.0053
+exciting: 0.0052
+
+Topic_477:
+zero: 0.0431
+hours: 0.0317
+contracts: 0.0275
+workers: 0.0159
+gig: 0.0143
+employment: 0.0122
+jobs: 0.0099
+flexibility: 0.0096
+employed: 0.0094
+contract: 0.0090
+
+Topic_478:
+wound: 0.0804
+a5: 0.0778
+hat: 0.0755
+ve: 0.0655
+addition: 0.0395
+though: 0.0353
+side: 0.0310
+got: 0.0289
+everyone: 0.0271
+really: 0.0198
+
+Topic_479:
+home: 0.0415
+secretary: 0.0215
+subjectively: 0.0114
+sealey: 0.0114
+bureaucracy: 0.0107
+salary: 0.0107
+jace: 0.0105
+fall: 0.0103
+eyes: 0.0103
+steadfastly: 0.0094
+
+Topic_480:
+white: 0.0656
+paper: 0.0520
+dexeu: 0.0258
+published: 0.0183
+publishing: 0.0107
+publish: 0.0099
+inflammatory: 0.0087
+cabinet: 0.0076
+papers: 0.0072
+soon: 0.0063
+
+Topic_481:
+give: 0.1592
+way: 0.1128
+gentleman: 0.1049
+hon: 0.0286
+will: 0.0244
+the: 0.0031
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+
+Topic_482:
+employment: 0.0375
+created: 0.0342
+2010: 0.0256
+jobs: 0.0254
+000: 0.0251
+record: 0.0211
+since: 0.0182
+estimate: 0.0175
+vacancies: 0.0133
+figures: 0.0122
+
+Topic_483:
+give: 0.0985
+state: 0.0841
+secretary: 0.0785
+way: 0.0698
+paperwork: 0.0274
+satisfy: 0.0248
+sees: 0.0213
+examine: 0.0211
+will: 0.0151
+moving: 0.0133
+
+Topic_484:
+productivity: 0.0760
+quarters: 0.0134
+gdp: 0.0106
+growth: 0.0100
+improving: 0.0090
+economy: 0.0084
+figures: 0.0079
+wages: 0.0079
+challenge: 0.0070
+lagged: 0.0067
+
+Topic_485:
+assessments: 0.0377
+impact: 0.0369
+assessment: 0.0230
+inspection: 0.0084
+analysis: 0.0078
+faulty: 0.0074
+fobts: 0.0071
+80s: 0.0070
+proceedings: 0.0068
+reveal: 0.0064
+
+Topic_486:
+apd: 0.0775
+dublin: 0.0152
+tourism: 0.0144
+haul: 0.0135
+belfast: 0.0105
+vat: 0.0099
+airports: 0.0095
+airport: 0.0092
+ireland: 0.0073
+passenger: 0.0060
+
+Topic_487:
+bailiffs: 0.1067
+bailiff: 0.0518
+jerome: 0.0296
+rogers: 0.0181
+rogue: 0.0144
+constituent: 0.0130
+bail: 0.0115
+reforms: 0.0103
+2014: 0.0094
+call: 0.0092
+
+Topic_488:
+assessment: 0.0942
+effect: 0.0658
+ireland: 0.0470
+leaving: 0.0446
+northern: 0.0442
+eu: 0.0362
+made: 0.0311
+recent: 0.0271
+potential: 0.0254
+withdrawal: 0.0247
+
+Topic_489:
+cold: 0.0605
+calling: 0.0364
+claims: 0.0298
+ban: 0.0282
+calls: 0.0212
+management: 0.0154
+outright: 0.0150
+injury: 0.0133
+nuisance: 0.0128
+companies: 0.0125
+
+Topic_490:
+royce: 0.0690
+rolls: 0.0653
+company: 0.0204
+derby: 0.0167
+redundancies: 0.0147
+losses: 0.0107
+restructuring: 0.0085
+aerospace: 0.0079
+jobs: 0.0075
+industrial: 0.0070
+
+Topic_491:
+if: 0.2800
+applies: 0.0967
+whatever: 0.0671
+even: 0.0646
+something: 0.0390
+however: 0.0303
+said: 0.0181
+what: 0.0090
+he: 0.0085
+on: 0.0035
+
+Topic_492:
+hpv: 0.0623
+vaccination: 0.0373
+jcvi: 0.0190
+boys: 0.0189
+cancers: 0.0179
+penile: 0.0157
+men: 0.0150
+thanet: 0.0142
+warts: 0.0134
+virus: 0.0130
+
+Topic_493:
+mobility: 0.2230
+steps: 0.0923
+improve: 0.0903
+social: 0.0898
+taking: 0.0547
+department: 0.0393
+measurement: 0.0172
+evolution: 0.0165
+what: 0.0155
+ordinate: 0.0136
+
+Topic_494:
+petitioners: 0.0586
+closure: 0.0513
+bank: 0.0494
+petition: 0.0491
+branch: 0.0368
+royal: 0.0360
+branches: 0.0331
+declares: 0.0275
+etc: 0.0259
+urges: 0.0245
+
+Topic_495:
+jobcentres: 0.0566
+jobcentre: 0.0375
+glasgow: 0.0342
+closures: 0.0170
+closure: 0.0105
+maryhill: 0.0078
+closed: 0.0070
+coaches: 0.0067
+city: 0.0066
+unemployment: 0.0063
+
+Topic_496:
+wind: 0.0626
+offshore: 0.0484
+renewable: 0.0362
+energy: 0.0254
+renewables: 0.0220
+turbines: 0.0168
+scotland: 0.0132
+windfarms: 0.0113
+clean: 0.0110
+growth: 0.0108
+
+Topic_497:
+refuges: 0.0546
+domestic: 0.0361
+abuse: 0.0282
+refuge: 0.0264
+women: 0.0224
+beds: 0.0205
+bed: 0.0153
+2010: 0.0139
+victims: 0.0133
+violence: 0.0132
+
+Topic_498:
+mortgage: 0.0813
+loan: 0.0294
+interest: 0.0232
+mortgages: 0.0219
+claimants: 0.0136
+fitzgerald: 0.0091
+homeowners: 0.0089
+scheme: 0.0088
+support: 0.0086
+eileen: 0.0081
+
+Topic_499:
+coventry: 0.0865
+football: 0.0369
+club: 0.0347
+city: 0.0268
+clubs: 0.0195
+efl: 0.0190
+supporters: 0.0166
+ricoh: 0.0164
+league: 0.0155
+wasps: 0.0103
+
+Topic_500:
+cameras: 0.0617
+worn: 0.0322
+body: 0.0253
+camera: 0.0206
+police: 0.0156
+practicable: 0.0117
+officers: 0.0092
+wear: 0.0086
+victim: 0.0083
+criminal: 0.0081
+
+Topic_501:
+protects: 0.0263
+deal: 0.0233
+kingdom: 0.0163
+delivers: 0.0153
+united: 0.0136
+notices: 0.0120
+quangos: 0.0103
+best: 0.0091
+technical: 0.0089
+outcome: 0.0079
+
+Topic_502:
+languages: 0.0734
+mandarin: 0.0700
+language: 0.0486
+teaching: 0.0409
+foreign: 0.0291
+gcse: 0.0249
+colleges: 0.0246
+schools: 0.0214
+entries: 0.0174
+modern: 0.0147
+
+Topic_503:
+briefly: 0.5025
+tentatively: 0.1530
+quickly: 0.1358
+temporarily: 0.1044
+very: 0.0815
+twice: 0.0620
+surely: 0.0465
+else: 0.0428
+yes: 0.0368
+nothing: 0.0352
+
+Topic_504:
+armed: 0.0475
+forces: 0.0401
+pay: 0.0353
+body: 0.0209
+personnel: 0.0207
+retention: 0.0192
+review: 0.0147
+freeze: 0.0138
+banding: 0.0134
+rise: 0.0115
+
+Topic_505:
+holidays: 0.0650
+religious: 0.0228
+festivals: 0.0146
+eid: 0.0143
+holiday: 0.0139
+celebrate: 0.0129
+occasions: 0.0122
+faiths: 0.0121
+employers: 0.0113
+petitions: 0.0100
+
+Topic_506:
+laser: 0.0642
+pointers: 0.0225
+lasers: 0.0192
+misuse: 0.0170
+pens: 0.0127
+bill: 0.0094
+beam: 0.0089
+pilots: 0.0083
+incidents: 0.0077
+search: 0.0076
+
+Topic_507:
+lots: 0.1583
+sum: 0.0955
+fourth: 0.0950
+enough: 0.0865
+none: 0.0661
+many: 0.0541
+each: 0.0489
+less: 0.0435
+much: 0.0411
+some: 0.0389
+
+Topic_508:
+hygiene: 0.0462
+infections: 0.0352
+infection: 0.0313
+hand: 0.0228
+mrsa: 0.0185
+hospital: 0.0162
+sepsis: 0.0143
+hands: 0.0090
+nhs: 0.0078
+patients: 0.0073
+
+Topic_509:
+acid: 0.0463
+substances: 0.0308
+corrosive: 0.0246
+attacks: 0.0153
+poisons: 0.0137
+knives: 0.0120
+ham: 0.0112
+sulphuric: 0.0108
+acids: 0.0104
+possession: 0.0098
+
+Topic_510:
+electronic: 0.0675
+voting: 0.0454
+lobbies: 0.0293
+votes: 0.0162
+divisions: 0.0108
+lobby: 0.0102
+tends: 0.0102
+ipads: 0.0101
+hours: 0.0098
+vote: 0.0092
+
+Topic_511:
+cornish: 0.0743
+census: 0.0465
+cornwall: 0.0267
+tick: 0.0167
+identity: 0.0160
+data: 0.0100
+box: 0.0079
+austell: 0.0078
+ons: 0.0076
+newquay: 0.0073
+
+Topic_512:
+colombia: 0.0647
+peace: 0.0188
+colombian: 0.0184
+murders: 0.0140
+defenders: 0.0112
+paramilitaries: 0.0103
+paramilitary: 0.0098
+farc: 0.0094
+abcolombia: 0.0083
+duque: 0.0074
+
+Topic_513:
+tennis: 0.0420
+games: 0.0407
+cricket: 0.0385
+cgf: 0.0195
+commonwealth: 0.0189
+sports: 0.0188
+sport: 0.0126
+birmingham: 0.0125
+olympics: 0.0116
+wimbledon: 0.0115
+
+Topic_514:
+dover: 0.0668
+ports: 0.0235
+port: 0.0210
+checks: 0.0160
+lorries: 0.0151
+trucks: 0.0129
+calais: 0.0125
+flow: 0.0122
+customs: 0.0097
+lorry: 0.0095
+
+Topic_515:
+benefit: 0.0132
+system: 0.0124
+work: 0.0103
+coaches: 0.0096
+benefits: 0.0086
+people: 0.0077
+into: 0.0076
+freeze: 0.0069
+helping: 0.0069
+getting: 0.0068
+
+Topic_516:
+devolving: 0.0875
+discussions: 0.0856
+scottish: 0.0718
+powers: 0.0646
+leaves: 0.0601
+devolution: 0.0469
+cabinet: 0.0468
+recent: 0.0442
+upon: 0.0423
+leaving: 0.0364
+
+Topic_517:
+investment: 0.0426
+direct: 0.0414
+foreign: 0.0304
+investors: 0.0240
+fdi: 0.0233
+jobs: 0.0110
+divestment: 0.0099
+destination: 0.0093
+exports: 0.0084
+attract: 0.0078
+
+Topic_518:
+pharmacies: 0.1402
+pharmacy: 0.0385
+pharmacists: 0.0308
+community: 0.0290
+gps: 0.0229
+ailments: 0.0202
+minor: 0.0160
+role: 0.0146
+integration: 0.0138
+ramped: 0.0137
+
+Topic_519:
+assent: 2.0330
+indicated: 1.5481
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+
+Topic_520:
+prevent: 0.0624
+groomed: 0.0116
+extremism: 0.0113
+referrals: 0.0101
+critics: 0.0094
+terrorism: 0.0083
+review: 0.0082
+safeguarding: 0.0077
+plots: 0.0075
+communities: 0.0073
+
+Topic_521:
+liberty: 0.0321
+restraint: 0.0110
+mental: 0.0104
+deprivation: 0.0104
+bill: 0.0085
+capacity: 0.0072
+safeguards: 0.0069
+person: 0.0064
+deprived: 0.0059
+protected: 0.0057
+
+Topic_522:
+maldives: 0.0731
+yameen: 0.0237
+mala: 0.0196
+president: 0.0190
+gayoom: 0.0120
+maldivian: 0.0117
+supreme: 0.0105
+commonwealth: 0.0095
+nasheed: 0.0093
+tourists: 0.0089
+
+Topic_523:
+dashboard: 0.1301
+pensions: 0.0722
+industry: 0.0181
+feasibility: 0.0148
+dashboards: 0.0145
+unclaimed: 0.0140
+information: 0.0137
+retirement: 0.0112
+guidance: 0.0102
+financial: 0.0096
+
+Topic_524:
+exports: 0.0130
+trade: 0.0122
+commerce: 0.0111
+businesses: 0.0103
+states: 0.0084
+east: 0.0082
+north: 0.0073
+deals: 0.0073
+chains: 0.0071
+chamber: 0.0070
+
+Topic_525:
+didcot: 0.1530
+secondly: 0.1443
+loved: 0.0613
+love: 0.0577
+appeal: 0.0575
+ultimately: 0.0536
+addition: 0.0513
+lower: 0.0492
+whose: 0.0446
+powerful: 0.0446
+
+Topic_526:
+online: 0.0377
+media: 0.0239
+abuse: 0.0237
+platforms: 0.0166
+offline: 0.0139
+social: 0.0130
+bullying: 0.0123
+code: 0.0121
+women: 0.0111
+illegal: 0.0105
+
+Topic_527:
+levy: 0.0506
+bank: 0.0330
+banks: 0.0234
+surcharge: 0.0194
+tax: 0.0183
+corporation: 0.0111
+pfi: 0.0110
+profits: 0.0088
+banking: 0.0087
+hsbc: 0.0083
+
+Topic_528:
+infrastructure: 0.0451
+housing: 0.0264
+homes: 0.0239
+fund: 0.0221
+866: 0.0129
+projects: 0.0114
+unlock: 0.0110
+witham: 0.0097
+133: 0.0094
+billion: 0.0083
+
+Topic_529:
+inverclyde: 0.1885
+witham: 0.1848
+doing: 0.0843
+in: 0.0404
+so: 0.0278
+my: 0.0207
+it: 0.0039
+: 0.0000
+: 0.0000
+: 0.0000
+
+Topic_530:
+stonehenge: 0.0318
+archaeology: 0.0256
+site: 0.0241
+archaeological: 0.0224
+heritage: 0.0203
+wiltshire: 0.0193
+unesco: 0.0149
+stones: 0.0134
+a303: 0.0127
+tunnel: 0.0113
+
+Topic_531:
+untie: 0.2132
+let: 0.1408
+welcome: 0.0910
+likewise: 0.0651
+conclusions: 0.0494
+broadly: 0.0483
+love: 0.0422
+hands: 0.0396
+touch: 0.0392
+like: 0.0386
+
+Topic_532:
+wildlife: 0.1034
+illegal: 0.1009
+hunting: 0.0961
+trail: 0.0715
+tackle: 0.0549
+hunt: 0.0521
+steps: 0.0451
+foxhunting: 0.0386
+taking: 0.0346
+trade: 0.0277
+
+Topic_533:
+art: 0.0583
+mackintosh: 0.0335
+glasgow: 0.0311
+building: 0.0240
+restoration: 0.0234
+school: 0.0213
+fire: 0.0178
+inns: 0.0144
+architectural: 0.0134
+city: 0.0108
+
+Topic_534:
+allegations: 0.0284
+evidence: 0.0122
+serial: 0.0114
+investigated: 0.0111
+criminal: 0.0107
+printed: 0.0104
+prosecution: 0.0099
+judge: 0.0098
+potentially: 0.0087
+stupider: 0.0087
+
+Topic_535:
+record: 0.0286
+correct: 0.0245
+order: 0.0233
+speaker: 0.0174
+corrected: 0.0125
+remarks: 0.0121
+inadvertently: 0.0118
+mr: 0.0103
+point: 0.0103
+apologise: 0.0096
+
+Topic_536:
+steel: 0.1110
+procurement: 0.0329
+producers: 0.0251
+corby: 0.0189
+industry: 0.0140
+sector: 0.0137
+projects: 0.0108
+pipeline: 0.0101
+publication: 0.0085
+competing: 0.0078
+
+Topic_537:
+donations: 0.0758
+transparency: 0.0371
+loans: 0.0354
+electoral: 0.0350
+2014: 0.0289
+donation: 0.0288
+parties: 0.0273
+commission: 0.0251
+ireland: 0.0171
+northern: 0.0171
+
+Topic_538:
+mental: 0.0607
+armed: 0.0392
+health: 0.0351
+forces: 0.0349
+veterans: 0.0255
+stigma: 0.0193
+wellbeing: 0.0153
+steps: 0.0134
+stress: 0.0133
+personnel: 0.0123
+
+Topic_539:
+department: 0.1124
+ob: 0.0745
+pr: 0.0553
+specify: 0.0492
+oecd: 0.0398
+instances: 0.0362
+thirdly: 0.0342
+pursuing: 0.0334
+monitoring: 0.0324
+transparent: 0.0317
+
+Topic_540:
+sit: 0.2265
+beg: 0.2134
+move: 0.1405
+private: 0.1160
+deli: 0.0578
+door: 0.0453
+house: 0.0420
+implore: 0.0376
+lock: 0.0322
+lottery: 0.0320
+
+Topic_541:
+cqc: 0.0653
+highlights: 0.0123
+inspections: 0.0115
+chc: 0.0088
+identifying: 0.0079
+report: 0.0078
+rachel: 0.0077
+patients: 0.0075
+review: 0.0072
+wessely: 0.0070
+
+Topic_542:
+ipso: 0.0927
+arbitration: 0.0410
+regulator: 0.0253
+corrections: 0.0189
+press: 0.0188
+redress: 0.0154
+newspaper: 0.0144
+online: 0.0128
+low: 0.0125
+compulsory: 0.0124
+
+Topic_543:
+assessment: 0.0917
+adequacy: 0.0580
+effect: 0.0394
+effectiveness: 0.0378
+authorities: 0.0372
+viability: 0.0339
+local: 0.0329
+made: 0.0287
+finance: 0.0270
+settlement: 0.0240
+
+Topic_544:
+crossrail: 0.1040
+mayor: 0.0257
+london: 0.0247
+tfl: 0.0239
+transport: 0.0158
+project: 0.0148
+projects: 0.0108
+overspent: 0.0107
+repaid: 0.0092
+delivery: 0.0090
+
+Topic_545:
+sikh: 0.1169
+sikhs: 0.0348
+community: 0.0152
+turbaned: 0.0139
+kirpan: 0.0139
+federation: 0.0126
+turban: 0.0097
+memorial: 0.0091
+gurdwara: 0.0090
+ethnic: 0.0087
+
+Topic_546:
+hepatitis: 0.0633
+testing: 0.0179
+pharmacy: 0.0111
+treatment: 0.0107
+prevention: 0.0103
+virus: 0.0094
+southend: 0.0094
+blood: 0.0079
+infection: 0.0079
+patients: 0.0077
+
+Topic_547:
+statistics: 0.0640
+œcornisha: 0.0191
+facts: 0.0145
+tick: 0.0134
+headcount: 0.0109
+misleading: 0.0108
+challenged: 0.0100
+box: 0.0094
+library: 0.0088
+ons: 0.0082
+
+Topic_548:
+litter: 0.0958
+littering: 0.0208
+highways: 0.0203
+roadside: 0.0202
+roads: 0.0146
+barnet: 0.0121
+clearance: 0.0113
+road: 0.0102
+clearing: 0.0092
+chipping: 0.0091
+
+Topic_549:
+midland: 0.0494
+trains: 0.0321
+line: 0.0316
+main: 0.0247
+corby: 0.0187
+electrify: 0.0171
+passengers: 0.0162
+electrification: 0.0154
+kettering: 0.0149
+bi: 0.0147
+
+Topic_550:
+thursdays: 0.2723
+embodied: 0.1223
+steam: 0.1042
+week: 0.0887
+ago: 0.0869
+recently: 0.0673
+tomorrow: 0.0574
+shortly: 0.0535
+friday: 0.0503
+couple: 0.0487
+
+Topic_551:
+trailers: 0.0708
+trailer: 0.0484
+towing: 0.0217
+registration: 0.0195
+freddie: 0.0158
+kg: 0.0149
+safety: 0.0149
+tow: 0.0125
+750: 0.0120
+tonnes: 0.0119
+
+Topic_552:
+open: 0.0362
+access: 0.0292
+operators: 0.0277
+competition: 0.0171
+rail: 0.0160
+network: 0.0158
+franchising: 0.0113
+passengers: 0.0101
+operator: 0.0099
+satisfaction: 0.0096
+
+Topic_553:
+michael: 0.0413
+martin: 0.0310
+speaker: 0.0201
+springburn: 0.0167
+glasgow: 0.0140
+kindness: 0.0129
+catholic: 0.0094
+his: 0.0092
+he: 0.0081
+remember: 0.0072
+
+Topic_554:
+bermuda: 0.0829
+bermudian: 0.0339
+sex: 0.0275
+marriage: 0.0204
+governor: 0.0190
+couples: 0.0179
+supreme: 0.0140
+married: 0.0132
+same: 0.0128
+lgbt: 0.0118
+
+Topic_555:
+vaccines: 0.0407
+vaccination: 0.0338
+vaccine: 0.0292
+vaccinations: 0.0244
+diseases: 0.0199
+preventable: 0.0120
+countries: 0.0112
+crabb: 0.0112
+preseli: 0.0108
+developing: 0.0107
+
+Topic_556:
+cold: 0.0512
+calling: 0.0350
+pensions: 0.0236
+pension: 0.0223
+scams: 0.0197
+ban: 0.0191
+calls: 0.0114
+conned: 0.0097
+clause: 0.0096
+wept: 0.0086
+
+Topic_557:
+blocks: 0.0728
+wanted: 0.0432
+probably: 0.0425
+independent: 0.0332
+record: 0.0310
+always: 0.0260
+put: 0.0185
+is: 0.0172
+could: 0.0156
+only: 0.0140
+
+Topic_558:
+immigration: 0.0268
+home: 0.0221
+office: 0.0114
+mess: 0.0106
+visas: 0.0102
+casework: 0.0086
+immigrants: 0.0082
+rhetoric: 0.0076
+muslim: 0.0074
+demo: 0.0073
+
+Topic_559:
+when: 0.2948
+miss: 0.1467
+whenever: 0.1442
+note: 0.0932
+indeed: 0.0482
+even: 0.0412
+how: 0.0226
+she: 0.0183
+they: 0.0091
+but: 0.0090
+
+Topic_560:
+skripal: 0.0317
+russian: 0.0276
+sergei: 0.0205
+salisbury: 0.0193
+nerve: 0.0187
+agent: 0.0179
+novichok: 0.0158
+explanation: 0.0147
+attack: 0.0140
+yulia: 0.0136
+
+Topic_561:
+harlow: 0.0737
+hospital: 0.0637
+alexandra: 0.0444
+princess: 0.0418
+fit: 0.0170
+campus: 0.0132
+purpose: 0.0124
+21st: 0.0119
+essex: 0.0112
+staff: 0.0110
+
+Topic_562:
+linlithg: 0.2942
+chippen: 0.2942
+caith: 0.2942
+solih: 0.2599
+member: 0.2502
+ray: 0.1891
+kyle: 0.1734
+hove: 0.1607
+peter: 0.1210
+for: 0.0179
+
+Topic_563:
+reserves: 0.0920
+rescue: 0.0158
+earmarked: 0.0156
+reserve: 0.0131
+emergencies: 0.0124
+councils: 0.0120
+cuckoo: 0.0103
+tyne: 0.0096
+fire: 0.0092
+wear: 0.0090
+
+Topic_564:
+will: 0.1198
+hold: 0.1114
+so: 0.0183
+do: 0.0161
+on: 0.0058
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+
+Topic_565:
+supermarkets: 0.0410
+groceries: 0.0382
+adjudicator: 0.0309
+code: 0.0244
+chain: 0.0181
+farmers: 0.0160
+suppliers: 0.0155
+supply: 0.0154
+asda: 0.0153
+producers: 0.0145
+
+Topic_566:
+confidence: 0.0363
+motion: 0.0317
+vote: 0.0206
+majesty: 0.0144
+meaningful: 0.0134
+opposition: 0.0113
+table: 0.0112
+prime: 0.0101
+january: 0.0097
+no: 0.0096
+
+Topic_567:
+agree: 0.1552
+sillars: 0.0953
+sentiment: 0.0597
+profoundly: 0.0577
+entirely: 0.0575
+wholeheartedly: 0.0490
+jim: 0.0428
+reference: 0.0408
+disagree: 0.0398
+absolutely: 0.0395
+
+Topic_568:
+football: 0.0740
+grassroots: 0.0430
+league: 0.0400
+wembley: 0.0378
+pitches: 0.0279
+stadium: 0.0259
+premier: 0.0244
+fa: 0.0238
+sale: 0.0205
+sport: 0.0170
+
+Topic_569:
+clause: 0.0176
+clauses: 0.0139
+new: 0.0082
+analysis: 0.0079
+measures: 0.0074
+avoidance: 0.0072
+tax: 0.0071
+finance: 0.0066
+amendment: 0.0056
+distributional: 0.0055
+
+Topic_570:
+assurance: 0.1833
+give: 0.0526
+happy: 0.0384
+yes: 0.0355
+dwelling: 0.0268
+categorical: 0.0268
+reassure: 0.0227
+friend: 0.0208
+my: 0.0144
+can: 0.0141
+
+Topic_571:
+why: 0.3497
+reason: 0.1104
+wonder: 0.0796
+sorry: 0.0747
+explain: 0.0661
+did: 0.0297
+only: 0.0212
+does: 0.0151
+can: 0.0100
+is: 0.0074
+
+Topic_572:
+cadets: 0.1318
+cadet: 0.0814
+armed: 0.0272
+forces: 0.0270
+units: 0.0199
+uniformed: 0.0153
+sea: 0.0136
+detachments: 0.0131
+recruitment: 0.0099
+taste: 0.0093
+
+Topic_573:
+self: 0.0778
+employed: 0.0551
+employment: 0.0372
+bogus: 0.0348
+uber: 0.0246
+workers: 0.0168
+holiday: 0.0140
+drivers: 0.0140
+couriers: 0.0108
+deliveroo: 0.0106
+
+Topic_574:
+hate: 0.0304
+misogyny: 0.0240
+crime: 0.0157
+hostility: 0.0117
+women: 0.0114
+crimes: 0.0107
+nottinghamshire: 0.0092
+men: 0.0086
+misandry: 0.0085
+attitudes: 0.0081
+
+Topic_575:
+roads: 0.0507
+highways: 0.0220
+road: 0.0183
+highway: 0.0161
+potholes: 0.0155
+maintenance: 0.0146
+pothole: 0.0145
+unadopted: 0.0104
+296: 0.0104
+fund: 0.0098
+
+Topic_576:
+animals: 0.0597
+animal: 0.0419
+finn: 0.0304
+cruelty: 0.0207
+welfare: 0.0183
+handler: 0.0169
+stab: 0.0152
+rescue: 0.0145
+offences: 0.0122
+service: 0.0119
+
+Topic_577:
+care: 0.0273
+social: 0.0258
+health: 0.0213
+funding: 0.0162
+spending: 0.0155
+fenced: 0.0148
+discussions: 0.0139
+ring: 0.0121
+public: 0.0119
+palliative: 0.0109
+
+Topic_578:
+rail: 0.0367
+network: 0.0223
+devolve: 0.0137
+scotland: 0.0136
+tender: 0.0131
+franchise: 0.0121
+scottish: 0.0119
+devolution: 0.0109
+coast: 0.0107
+barnett: 0.0103
+
+Topic_579:
+petition: 0.0528
+petitioners: 0.0349
+residents: 0.0248
+declares: 0.0214
+urges: 0.0185
+sudbury: 0.0176
+ryarsh: 0.0166
+bredbury: 0.0142
+heywood: 0.0137
+etc: 0.0135
+
+Topic_580:
+school: 0.0206
+early: 0.0160
+children: 0.0147
+language: 0.0119
+disadvantaged: 0.0119
+outcomes: 0.0112
+slcn: 0.0107
+age: 0.0099
+headteachers: 0.0099
+classrooms: 0.0097
+
+Topic_581:
+select: 0.0704
+committee: 0.0340
+chair: 0.0234
+committees: 0.0166
+hodeida: 0.0154
+diligence: 0.0150
+recused: 0.0131
+doubtful: 0.0127
+undertaken: 0.0117
+extremely: 0.0102
+
+Topic_582:
+battery: 0.0640
+faraday: 0.0418
+automotive: 0.0211
+vehicles: 0.0208
+electric: 0.0207
+batteries: 0.0192
+lithium: 0.0174
+technology: 0.0174
+technologies: 0.0165
+manufacture: 0.0164
+
+Topic_583:
+neurone: 0.0769
+motor: 0.0659
+disease: 0.0587
+mnd: 0.0339
+terminal: 0.0162
+ds1500: 0.0151
+die: 0.0135
+cure: 0.0132
+reassessment: 0.0122
+neurones: 0.0117
+
+Topic_584:
+allergy: 0.0553
+allergies: 0.0461
+anaphylactic: 0.0149
+anaphylaxis: 0.0149
+school: 0.0144
+nut: 0.0143
+nuts: 0.0140
+sony: 0.0122
+allergens: 0.0112
+food: 0.0111
+
+Topic_585:
+think: 0.1830
+sure: 0.0582
+believe: 0.0528
+though: 0.0512
+either: 0.0453
+whether: 0.0420
+do: 0.0416
+although: 0.0302
+am: 0.0247
+not: 0.0245
+
+Topic_586:
+evidence: 0.1822
+suggests: 0.0644
+revile: 0.0611
+refusal: 0.0610
+cumulatively: 0.0507
+speculating: 0.0476
+wilful: 0.0427
+entertain: 0.0400
+photographic: 0.0395
+intransigence: 0.0391
+
+Topic_587:
+prince: 0.0526
+highness: 0.0432
+royal: 0.0214
+birthday: 0.0148
+duke: 0.0103
+his: 0.0101
+rothesay: 0.0098
+charles: 0.0090
+cumnock: 0.0084
+70th: 0.0082
+
+Topic_588:
+leaseholders: 0.0721
+cladding: 0.0306
+costs: 0.0205
+freeholders: 0.0195
+heysmoor: 0.0170
+heights: 0.0155
+blocks: 0.0146
+owners: 0.0127
+developers: 0.0118
+edgware: 0.0113
+
+Topic_589:
+julie: 0.0317
+kirsty: 0.0221
+pearson: 0.0188
+fco: 0.0185
+consular: 0.0159
+death: 0.0158
+spanish: 0.0138
+family: 0.0121
+abroad: 0.0119
+suspicious: 0.0113
+
+Topic_590:
+cameroon: 0.0952
+anglophone: 0.0463
+drc: 0.0245
+kumbo: 0.0221
+cameroonian: 0.0221
+violence: 0.0217
+dialogue: 0.0172
+africa: 0.0128
+separatist: 0.0124
+resorting: 0.0120
+
+Topic_591:
+glasgow: 0.0096
+jewish: 0.0067
+rabbi: 0.0066
+school: 0.0059
+skins: 0.0056
+stanley: 0.0053
+jim: 0.0051
+carrick: 0.0049
+scotland: 0.0049
+shettleston: 0.0048
+
+Topic_592:
+dividend: 0.0933
+brexit: 0.0296
+nhs: 0.0157
+posts: 0.0131
+nurses: 0.0113
+20: 0.0112
+studies: 0.0105
+fiscal: 0.0100
+spending: 0.0095
+institute: 0.0093
+
+Topic_593:
+bibi: 0.1057
+asia: 0.0980
+pakistan: 0.0386
+blasphemy: 0.0169
+swift: 0.0159
+family: 0.0146
+pakistani: 0.0139
+safety: 0.0131
+quashed: 0.0120
+death: 0.0116
+
+Topic_594:
+adhd: 0.1210
+diagnosis: 0.0279
+appg: 0.0115
+dataset: 0.0099
+data: 0.0098
+condition: 0.0081
+documentary: 0.0079
+workplace: 0.0079
+disorder: 0.0076
+diagnosed: 0.0073
+
+Topic_595:
+ceramics: 0.1114
+ceramic: 0.0295
+trent: 0.0221
+stoke: 0.0218
+sintering: 0.0129
+industry: 0.0129
+advanced: 0.0128
+research: 0.0110
+centre: 0.0090
+campus: 0.0090
+
+Topic_596:
+venezuela: 0.0942
+venezuelan: 0.0545
+maduro: 0.0269
+latin: 0.0203
+humanitarian: 0.0190
+venezuelans: 0.0179
+socialism: 0.0145
+america: 0.0131
+mismanagement: 0.0128
+crisis: 0.0124
+
+Topic_597:
+collars: 0.0687
+dogs: 0.0477
+shock: 0.0431
+devices: 0.0298
+dog: 0.0236
+sale: 0.0217
+ban: 0.0199
+collar: 0.0175
+langridge: 0.0169
+electric: 0.0138
+
+Topic_598:
+europe: 0.0381
+council: 0.0221
+rights: 0.0124
+human: 0.0100
+1949: 0.0087
+court: 0.0070
+conventions: 0.0065
+european: 0.0060
+achievements: 0.0059
+minorities: 0.0059
+
+Topic_599:
+wind: 0.0432
+renewables: 0.0334
+renewable: 0.0264
+onshore: 0.0261
+energy: 0.0240
+turbines: 0.0198
+offshore: 0.0169
+cheapest: 0.0138
+electricity: 0.0126
+coal: 0.0113
+
+Topic_600:
+enterprise: 0.0452
+joint: 0.0319
+doctrine: 0.0145
+law: 0.0115
+supreme: 0.0107
+murder: 0.0107
+alex: 0.0104
+powell: 0.0093
+coldfield: 0.0083
+guilty: 0.0082
+
+Topic_601:
+sudan: 0.0874
+peace: 0.0258
+south: 0.0249
+internally: 0.0113
+conflict: 0.0108
+african: 0.0105
+humanitarian: 0.0100
+displaced: 0.0096
+leprosy: 0.0079
+displacement: 0.0071
+
+Topic_602:
+vote: 0.0225
+deal: 0.0196
+final: 0.0165
+meaningful: 0.0138
+majority: 0.0127
+decision: 0.0096
+amendable: 0.0094
+house: 0.0092
+easy: 0.0085
+parliament: 0.0082
+
+Topic_603:
+e10: 0.1554
+fuel: 0.0678
+fuels: 0.0356
+ethanol: 0.0236
+rtfo: 0.0236
+renewable: 0.0223
+bioethanol: 0.0218
+introduction: 0.0207
+labelling: 0.0206
+diesel: 0.0165
+
+Topic_604:
+women: 0.0243
+pension: 0.0222
+pensions: 0.0166
+1950s: 0.0146
+waspi: 0.0141
+born: 0.0097
+injustice: 0.0097
+1995: 0.0094
+affected: 0.0076
+inequality: 0.0058
+
+Topic_605:
+primodos: 0.0786
+baroness: 0.0208
+cumberlege: 0.0198
+expert: 0.0198
+review: 0.0146
+group: 0.0118
+science: 0.0108
+vargesson: 0.0099
+scientific: 0.0094
+inquiry: 0.0087
+
+Topic_606:
+contingency: 0.1168
+plans: 0.0476
+leaving: 0.0347
+eu: 0.0264
+reached: 0.0263
+preparations: 0.0249
+planning: 0.0235
+prepare: 0.0231
+without: 0.0225
+deal: 0.0216
+
+Topic_607:
+combat: 0.0515
+air: 0.0389
+tempest: 0.0202
+capability: 0.0179
+capabilities: 0.0160
+strategy: 0.0138
+defence: 0.0135
+academia: 0.0094
+typhoon: 0.0088
+aerospace: 0.0086
+
+Topic_608:
+transport: 0.0388
+raise: 0.0300
+questions: 0.0279
+directly: 0.0221
+thursday: 0.0188
+encourage: 0.0159
+disableda: 0.0126
+24: 0.0118
+chargea: 0.0116
+issue: 0.0112
+
+Topic_609:
+disclosure: 0.0901
+cps: 0.0409
+dpp: 0.0306
+prosecutions: 0.0173
+attorney: 0.0172
+general: 0.0151
+instituted: 0.0149
+solicitor: 0.0129
+director: 0.0119
+cases: 0.0110
+
+Topic_610:
+disparity: 0.0740
+race: 0.0566
+audit: 0.0412
+racial: 0.0143
+ethnicity: 0.0143
+bca: 0.0129
+traveller: 0.0126
+integrate: 0.0124
+segregated: 0.0102
+disparities: 0.0100
+
+Topic_611:
+terrorism: 0.0236
+terrorist: 0.0140
+clause: 0.0106
+attacks: 0.0099
+threat: 0.0095
+terror: 0.0095
+terrorists: 0.0094
+attack: 0.0082
+outrages: 0.0075
+offences: 0.0070
+
+Topic_612:
+friend: 0.2548
+rightly: 0.0986
+knows: 0.0913
+new: 0.0322
+want: 0.0314
+she: 0.0241
+but: 0.0118
+: 0.0000
+: 0.0000
+: 0.0000
+
+Topic_613:
+mental: 0.0295
+health: 0.0155
+police: 0.0154
+cells: 0.0130
+custody: 0.0120
+practitioner: 0.0112
+professionals: 0.0111
+interview: 0.0099
+cqc: 0.0099
+medical: 0.0097
+
+Topic_614:
+airport: 0.0634
+edinburgh: 0.0379
+flight: 0.0209
+gatwick: 0.0195
+aviation: 0.0154
+noise: 0.0146
+path: 0.0130
+queensferry: 0.0130
+affected: 0.0128
+aircraft: 0.0124
+
+Topic_615:
+procurement: 0.1568
+steps: 0.0713
+small: 0.0710
+businesses: 0.0626
+taking: 0.0507
+department: 0.0456
+use: 0.0347
+his: 0.0208
+encourage: 0.0189
+target: 0.0179
+
+Topic_616:
+allander: 0.0150
+scotland: 0.0136
+gdp: 0.0135
+analysis: 0.0134
+fraser: 0.0134
+economy: 0.0125
+carney: 0.0115
+brexit: 0.0113
+institute: 0.0088
+cost: 0.0080
+
+Topic_617:
+caste: 0.1563
+characteristic: 0.0451
+discrimination: 0.0410
+equality: 0.0323
+consultation: 0.0274
+responses: 0.0245
+protected: 0.0233
+respond: 0.0199
+2010: 0.0191
+act: 0.0179
+
+Topic_618:
+church: 0.0629
+anglican: 0.0547
+religious: 0.0426
+christians: 0.0371
+holy: 0.0367
+literacy: 0.0245
+communion: 0.0245
+diocese: 0.0241
+clerics: 0.0208
+jerusalem: 0.0197
+
+Topic_619:
+gla: 0.0214
+london: 0.0190
+devolution: 0.0187
+boroughs: 0.0105
+combined: 0.0084
+mayor: 0.0083
+capital: 0.0080
+power: 0.0080
+mayoral: 0.0075
+borough: 0.0069
+
+Topic_620:
+commissioning: 0.0251
+clinical: 0.0204
+ccgs: 0.0183
+shropshire: 0.0143
+nhs: 0.0140
+hospitals: 0.0116
+commissioners: 0.0115
+care: 0.0110
+hospital: 0.0103
+providers: 0.0097
+
+Topic_621:
+prisoner: 0.0730
+transfer: 0.0526
+offenders: 0.0517
+prisons: 0.0432
+foreign: 0.0311
+removal: 0.0278
+deport: 0.0264
+compulsory: 0.0250
+agreements: 0.0210
+removed: 0.0199
+
+Topic_622:
+tips: 0.0626
+tip: 0.0206
+hospitality: 0.0181
+wage: 0.0165
+restaurant: 0.0149
+waiter: 0.0143
+bristol: 0.0137
+minimum: 0.0137
+employer: 0.0134
+italia: 0.0124
+
+Topic_623:
+nurseries: 0.0847
+nursery: 0.0198
+salford: 0.0137
+bolton: 0.0093
+funding: 0.0090
+shortfall: 0.0079
+maintained: 0.0078
+burnley: 0.0078
+30: 0.0076
+parents: 0.0073
+
+Topic_624:
+companies: 0.0364
+scares: 0.0307
+industry: 0.0257
+meetings: 0.0233
+engage: 0.0210
+businesses: 0.0208
+shouting: 0.0193
+extensively: 0.0190
+reveal: 0.0188
+scared: 0.0182
+
+Topic_625:
+childcare: 0.0771
+hours: 0.0307
+30: 0.0230
+olds: 0.0190
+costs: 0.0189
+parents: 0.0185
+rates: 0.0154
+hourly: 0.0151
+œthorough: 0.0150
+ranginga: 0.0143
+
+Topic_626:
+hospital: 0.0466
+liverpool: 0.0295
+midland: 0.0267
+carillion: 0.0266
+collapse: 0.0229
+metropolitan: 0.0223
+contractor: 0.0182
+construction: 0.0139
+completed: 0.0124
+beams: 0.0113
+
+Topic_627:
+lothian: 0.2029
+poynton: 0.1426
+barnard: 0.1155
+ayrshire: 0.1142
+mid: 0.1014
+islwyn: 0.0981
+pronounce: 0.0945
+berwick: 0.0850
+isles: 0.0788
+castle: 0.0786
+
+Topic_628:
+g7: 0.0926
+communiqua: 0.0431
+leaders: 0.0212
+œamerica: 0.0170
+president: 0.0144
+firsta: 0.0142
+nato: 0.0129
+malign: 0.0120
+summit: 0.0120
+trump: 0.0118
+
+Topic_629:
+bullying: 0.0847
+anti: 0.0140
+schools: 0.0125
+diana: 0.0094
+playground: 0.0086
+school: 0.0071
+award: 0.0068
+cambridge: 0.0066
+sessions: 0.0065
+bailey: 0.0060
+
+Topic_630:
+drc: 0.0500
+elections: 0.0255
+museveni: 0.0188
+congolese: 0.0172
+democratic: 0.0152
+observers: 0.0151
+kabila: 0.0141
+uganda: 0.0141
+presidential: 0.0137
+congo: 0.0136
+
+Topic_631:
+exchequer: 0.1229
+adequacy: 0.0570
+chancellor: 0.0545
+discussions: 0.0479
+recent: 0.0340
+fdi: 0.0265
+intra: 0.0260
+funding: 0.0217
+anne: 0.0210
+department: 0.0187
+
+Topic_632:
+sprinklers: 0.0838
+buildings: 0.0323
+fire: 0.0299
+sprinkler: 0.0286
+blocks: 0.0234
+building: 0.0187
+safety: 0.0148
+installed: 0.0130
+fitted: 0.0115
+tower: 0.0115
+
+Topic_633:
+romania: 0.0882
+romanian: 0.0364
+relations: 0.0152
+romanians: 0.0142
+relationship: 0.0103
+bucharest: 0.0103
+consul: 0.0097
+harrow: 0.0083
+honorary: 0.0082
+betts: 0.0078
+
+Topic_634:
+proxy: 0.1165
+voting: 0.0472
+votes: 0.0212
+debates: 0.0173
+vote: 0.0113
+conscience: 0.0096
+pairing: 0.0091
+apply: 0.0091
+roslyn: 0.0089
+proxied: 0.0089
+
+Topic_635:
+sleep: 0.0720
+shifts: 0.0391
+ins: 0.0374
+providers: 0.0231
+wage: 0.0221
+minimum: 0.0212
+care: 0.0165
+careworkers: 0.0104
+liability: 0.0099
+ruling: 0.0093
+
+Topic_636:
+cost: 0.0398
+estimate: 0.0392
+costs: 0.0368
+receiver: 0.0266
+grander: 0.0247
+contractors: 0.0232
+unmanaged: 0.0200
+transactional: 0.0200
+immeasurable: 0.0187
+unplanned: 0.0182
+
+Topic_637:
+marriage: 0.0399
+certificate: 0.0213
+register: 0.0125
+joan: 0.0118
+married: 0.0116
+mother: 0.0111
+shoreham: 0.0109
+worthing: 0.0105
+certificates: 0.0099
+books: 0.0097
+
+Topic_638:
+coventry: 0.0486
+crises: 0.0133
+soar: 0.0087
+local: 0.0081
+austerity: 0.0074
+city: 0.0066
+problem: 0.0062
+seen: 0.0060
+social: 0.0059
+philmont: 0.0058
+
+Topic_639:
+maintenance: 0.0905
+cms: 0.0515
+child: 0.0393
+parents: 0.0231
+service: 0.0160
+income: 0.0143
+paying: 0.0142
+upkeep: 0.0116
+payments: 0.0113
+children: 0.0100
+
+Topic_640:
+investment: 0.0692
+firms: 0.0259
+unpopular: 0.0227
+capital: 0.0213
+triple: 0.0207
+harness: 0.0205
+unlock: 0.0181
+allocate: 0.0181
+costly: 0.0181
+minded: 0.0166
+
+Topic_641:
+school: 0.0179
+schools: 0.0174
+teachers: 0.0126
+education: 0.0115
+background: 0.0094
+child: 0.0092
+narrowing: 0.0092
+teacher: 0.0090
+erewash: 0.0084
+every: 0.0083
+
+Topic_642:
+intervene: 0.0771
+intervention: 0.0554
+vantage: 0.0450
+isc: 0.0312
+anxieties: 0.0295
+terminology: 0.0274
+friend: 0.0235
+respectfully: 0.0232
+patience: 0.0231
+thank: 0.0211
+
+Topic_643:
+coaches: 0.1132
+jobcentre: 0.0330
+jobcentres: 0.0321
+uc: 0.0215
+work: 0.0212
+claimants: 0.0198
+training: 0.0139
+dreama: 0.0111
+marylebone: 0.0102
+helping: 0.0101
+
+Topic_644:
+sis: 0.0690
+ii: 0.0681
+database: 0.0512
+records: 0.0284
+information: 0.0193
+databases: 0.0185
+paragraph: 0.0160
+persons: 0.0157
+schengen: 0.0153
+criminal: 0.0143
+
+Topic_645:
+witnesses: 0.1230
+court: 0.0511
+improve: 0.0392
+victims: 0.0379
+counselling: 0.0342
+examination: 0.0325
+steps: 0.0294
+video: 0.0293
+experience: 0.0284
+defendant: 0.0242
+
+Topic_646:
+confessional: 0.1982
+picture: 0.0771
+re: 0.0677
+built: 0.0585
+are: 0.0362
+recognise: 0.0358
+schools: 0.0349
+we: 0.0296
+however: 0.0254
+being: 0.0168
+
+Topic_647:
+grammar: 0.1205
+schools: 0.0465
+pupils: 0.0261
+disadvantaged: 0.0209
+school: 0.0194
+meals: 0.0170
+backgrounds: 0.0161
+selective: 0.0119
+funding: 0.0109
+expand: 0.0091
+
+Topic_648:
+fuel: 0.0787
+poverty: 0.0445
+winter: 0.0132
+households: 0.0108
+efficiency: 0.0106
+energy: 0.0101
+win: 0.0091
+cold: 0.0086
+homes: 0.0083
+warm: 0.0077
+
+Topic_649:
+fairness: 0.1261
+allocation: 0.1193
+steps: 0.0884
+taking: 0.0629
+department: 0.0612
+funding: 0.0437
+libraries: 0.0358
+distribution: 0.0340
+ensure: 0.0288
+his: 0.0280
+
+Topic_650:
+hart: 0.0706
+institutional: 0.0244
+inquiry: 0.0217
+historical: 0.0210
+executive: 0.0198
+victims: 0.0185
+recommendations: 0.0184
+abuse: 0.0151
+troubles: 0.0122
+stormont: 0.0084
+
+Topic_651:
+english: 0.0749
+parliament: 0.0130
+feet: 0.0114
+opportunity: 0.0101
+certified: 0.0091
+members: 0.0084
+rosie: 0.0077
+votes: 0.0076
+surprises: 0.0071
+voice: 0.0068
+
+Topic_652:
+amendment: 0.0127
+amendments: 0.0096
+meaningful: 0.0087
+motion: 0.0081
+exit: 0.0080
+proceedings: 0.0071
+lords: 0.0070
+article: 0.0069
+withdrawal: 0.0066
+resolution: 0.0054
+
+Topic_653:
+homes: 0.0832
+department: 0.0821
+steps: 0.0550
+2027: 0.0516
+progress: 0.0479
+reduce: 0.0462
+affordability: 0.0461
+build: 0.0423
+assessment: 0.0397
+taking: 0.0392
+
+Topic_654:
+ivf: 0.1239
+fertility: 0.0462
+fertilisation: 0.0279
+treatment: 0.0228
+embryology: 0.0227
+postcode: 0.0203
+lottery: 0.0192
+guidelines: 0.0191
+ccgs: 0.0188
+cycles: 0.0173
+
+Topic_655:
+sfo: 0.1255
+blockbuster: 0.0221
+crime: 0.0183
+prosecution: 0.0172
+economic: 0.0158
+fraud: 0.0140
+prosecute: 0.0134
+accountancy: 0.0121
+nca: 0.0120
+investigate: 0.0110
+
+Topic_656:
+question: 0.2038
+answer: 0.1496
+answering: 0.0550
+precise: 0.0527
+answered: 0.0484
+wrong: 0.0482
+re: 0.0363
+entirely: 0.0280
+big: 0.0265
+just: 0.0251
+
+Topic_657:
+solitary: 0.0884
+confinement: 0.0877
+young: 0.0184
+segregation: 0.0177
+isolation: 0.0155
+feltham: 0.0140
+ab: 0.0127
+removal: 0.0118
+resort: 0.0111
+howard: 0.0107
+
+Topic_658:
+stormont: 0.0305
+marriage: 0.0299
+sex: 0.0290
+lgbt: 0.0238
+mcginn: 0.0211
+northern: 0.0206
+ireland: 0.0206
+conor: 0.0204
+helens: 0.0204
+same: 0.0115
+
+Topic_659:
+navy: 0.0931
+royal: 0.0602
+frigates: 0.0446
+destroyers: 0.0424
+elizabeth: 0.0416
+aircraft: 0.0360
+queen: 0.0343
+carriers: 0.0306
+fleet: 0.0263
+hms: 0.0256
+
+Topic_660:
+tees: 0.0267
+redcar: 0.0265
+site: 0.0223
+teesside: 0.0209
+ssi: 0.0165
+steel: 0.0123
+valley: 0.0104
+jobs: 0.0093
+blast: 0.0086
+steelworks: 0.0080
+
+Topic_661:
+again: 0.3277
+now: 0.1517
+once: 0.0827
+last: 0.0752
+problem: 0.0644
+time: 0.0509
+no: 0.0234
+more: 0.0176
+for: 0.0079
+have: 0.0052
+
+Topic_662:
+conflict: 0.0309
+children: 0.0219
+war: 0.0185
+dundee: 0.0100
+zones: 0.0098
+conflicts: 0.0097
+images: 0.0085
+pictures: 0.0068
+civilian: 0.0062
+photograph: 0.0055
+
+Topic_663:
+food: 0.0455
+production: 0.0227
+dairy: 0.0224
+imports: 0.0223
+produce: 0.0214
+standards: 0.0213
+sourced: 0.0169
+products: 0.0156
+foods: 0.0153
+œuntold: 0.0130
+
+Topic_664:
+sex: 0.0346
+craigslist: 0.0235
+rent: 0.0233
+adverts: 0.0135
+accommodation: 0.0127
+prosecutions: 0.0118
+exploitative: 0.0112
+pritchard: 0.0103
+powerless: 0.0086
+exchange: 0.0080
+
+Topic_665:
+bidding: 0.0344
+bid: 0.0304
+capita: 0.0157
+bids: 0.0135
+scrutinise: 0.0133
+robust: 0.0131
+bidder: 0.0122
+process: 0.0110
+undertakings: 0.0105
+evaluation: 0.0099
+
+Topic_666:
+intermodal: 0.0615
+transport: 0.0366
+transportation: 0.0321
+integrated: 0.0250
+approach: 0.0220
+residential: 0.0205
+planning: 0.0146
+economic: 0.0109
+ris: 0.0107
+usable: 0.0098
+
+Topic_667:
+youth: 0.0411
+justice: 0.0269
+feltham: 0.0241
+young: 0.0185
+coates: 0.0117
+juvenile: 0.0113
+offenders: 0.0110
+system: 0.0110
+reform: 0.0109
+heston: 0.0108
+
+Topic_668:
+arsa: 0.0756
+ne: 0.0747
+wenger: 0.0728
+arsenal: 0.0473
+football: 0.0223
+manager: 0.0143
+stadium: 0.0135
+œinvinciblesa: 0.0132
+season: 0.0131
+players: 0.0129
+
+Topic_669:
+cum: 0.2599
+member: 0.1807
+dwyfor: 0.1798
+meirionnydd: 0.1761
+for: 0.0417
+said: 0.0210
+members: 0.0191
+: 0.0000
+: 0.0000
+: 0.0000
+
+Topic_670:
+deal: 0.0297
+vote: 0.0177
+contentious: 0.0161
+default: 0.0126
+œmeaningful: 0.0119
+negotiated: 0.0103
+house: 0.0101
+finalising: 0.0100
+no: 0.0100
+votea: 0.0099
+
+Topic_671:
+skills: 0.0369
+shortage: 0.0067
+numeracy: 0.0065
+employment: 0.0064
+maths: 0.0056
+barriers: 0.0055
+technical: 0.0054
+devolution: 0.0053
+essex: 0.0052
+workforce: 0.0050
+
+Topic_672:
+cctv: 0.0558
+care: 0.0210
+homes: 0.0204
+surveillance: 0.0201
+cameras: 0.0166
+learned: 0.0105
+communal: 0.0092
+substitute: 0.0089
+quality: 0.0086
+nursery: 0.0084
+
+Topic_673:
+arms: 0.0769
+sniper: 0.0445
+rifles: 0.0427
+israel: 0.0395
+licences: 0.0365
+israeli: 0.0357
+sales: 0.0254
+export: 0.0246
+criteria: 0.0237
+ammunition: 0.0210
+
+Topic_674:
+bill: 0.0118
+kevin: 0.0074
+member: 0.0067
+aberdeenshire: 0.0064
+thank: 0.0056
+torbay: 0.0051
+fiendishly: 0.0047
+wishart: 0.0045
+pete: 0.0045
+great: 0.0044
+
+Topic_675:
+legal: 0.0260
+lawyers: 0.0220
+eu27: 0.0171
+mutual: 0.0155
+law: 0.0150
+clients: 0.0150
+firms: 0.0133
+recognition: 0.0121
+services: 0.0114
+uk: 0.0112
+
+Topic_676:
+yes: 0.2330
+do: 0.1704
+care: 0.0433
+much: 0.0320
+not: 0.0290
+no: 0.0208
+so: 0.0149
+it: 0.0042
+for: 0.0035
+: 0.0000
+
+Topic_677:
+give: 0.1592
+way: 0.1128
+friend: 0.0584
+my: 0.0334
+hon: 0.0286
+will: 0.0244
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+
+Topic_678:
+thank: 0.0143
+breakthrough: 0.0136
+thoughtful: 0.0114
+grateful: 0.0091
+punchline: 0.0084
+reply: 0.0077
+clunky: 0.0076
+breakthroughs: 0.0069
+contributed: 0.0069
+minister: 0.0066
+
+Topic_679:
+clause: 0.0453
+subsection: 0.0220
+determination: 0.0201
+œrequirea: 0.0186
+œceasesa: 0.0186
+determinationa: 0.0186
+litter: 0.0179
+power: 0.0179
+œreviewa: 0.0172
+œpower: 0.0172
+
+Topic_680:
+equality: 0.0526
+equal: 0.0130
+act: 0.0102
+politicians: 0.0101
+cultures: 0.0096
+repealed: 0.0095
+hpv: 0.0088
+harwich: 0.0087
+obsession: 0.0081
+analysis: 0.0079
+
+Topic_681:
+shadow: 0.1725
+reply: 0.0387
+tolerant: 0.0295
+extremists: 0.0289
+implied: 0.0287
+postal: 0.0265
+disagreement: 0.0255
+minister: 0.0250
+mcdonagh: 0.0233
+œwhat: 0.0227
+
+Topic_682:
+corners: 0.0722
+wake: 0.0584
+inevitably: 0.0532
+awful: 0.0460
+sensible: 0.0371
+late: 0.0367
+roll: 0.0351
+return: 0.0308
+they: 0.0303
+board: 0.0299
+
+Topic_683:
+collected: 0.0759
+law: 0.0752
+electronically: 0.0538
+indiscriminate: 0.0459
+restriction: 0.0401
+duty: 0.0365
+examine: 0.0325
+enforce: 0.0319
+rules: 0.0315
+restrictions: 0.0309
+
+Topic_684:
+give: 0.0515
+way: 0.0365
+tempting: 0.0339
+intolerable: 0.0324
+point: 0.0311
+friend: 0.0273
+kettering: 0.0266
+sits: 0.0254
+describes: 0.0245
+moves: 0.0245
+
+Topic_685:
+obr: 0.0731
+remit: 0.0228
+œfiscal: 0.0165
+fiscal: 0.0151
+policies: 0.0142
+reporta: 0.0135
+sustainability: 0.0124
+forecast: 0.0106
+costings: 0.0104
+chote: 0.0101
+
+Topic_686:
+hospital: 0.0202
+urgent: 0.0168
+centre: 0.0142
+accrington: 0.0129
+nhs: 0.0099
+gp: 0.0098
+hyndburn: 0.0093
+patient: 0.0086
+walk: 0.0085
+petition: 0.0075
+
+Topic_687:
+uniform: 0.0608
+uniforms: 0.0492
+school: 0.0314
+trousers: 0.0168
+clothing: 0.0127
+kit: 0.0125
+pupils: 0.0123
+skirts: 0.0121
+cost: 0.0121
+pe: 0.0108
+
+Topic_688:
+water: 0.0702
+swimming: 0.0561
+drowning: 0.0374
+swim: 0.0316
+drowned: 0.0316
+curriculum: 0.0276
+safety: 0.0244
+scaife: 0.0242
+river: 0.0193
+tragically: 0.0175
+
+Topic_689:
+voter: 0.2534
+id: 0.2489
+pilots: 0.2149
+legality: 0.0877
+statement: 0.0493
+representations: 0.0469
+operation: 0.0458
+assessment: 0.0391
+received: 0.0313
+whether: 0.0311
+
+Topic_690:
+capita: 0.0683
+mod: 0.0375
+contract: 0.0332
+rescue: 0.0276
+fire: 0.0268
+awarded: 0.0184
+risk: 0.0183
+highest: 0.0163
+defence: 0.0162
+10: 0.0159
+
+Topic_691:
+riders: 0.1080
+horse: 0.0763
+horses: 0.0459
+highway: 0.0431
+road: 0.0237
+roads: 0.0212
+code: 0.0199
+users: 0.0167
+safety: 0.0150
+cyclists: 0.0147
+
+Topic_692:
+shisha: 0.0865
+smoking: 0.0205
+bars: 0.0179
+tobacco: 0.0178
+lounges: 0.0164
+lounge: 0.0147
+alcohol: 0.0146
+ladywood: 0.0134
+licensing: 0.0128
+premises: 0.0106
+
+Topic_693:
+assessments: 0.0742
+recording: 0.0341
+professionals: 0.0176
+assessment: 0.0174
+reassessing: 0.0150
+video: 0.0150
+constant: 0.0137
+improved: 0.0107
+assessors: 0.0105
+ratings: 0.0105
+
+Topic_694:
+digital: 0.0637
+signalling: 0.0363
+railway: 0.0348
+technology: 0.0235
+cab: 0.0133
+network: 0.0129
+train: 0.0125
+signals: 0.0124
+trains: 0.0118
+capacity: 0.0117
+
+Topic_695:
+petition: 0.0705
+petitioners: 0.0437
+signed: 0.0429
+sullied: 0.0268
+198: 0.0234
+org: 0.0218
+hobson: 0.0218
+repatriated: 0.0206
+november: 0.0177
+200: 0.0176
+
+Topic_696:
+steps: 0.1125
+shortages: 0.0993
+nhs: 0.0832
+taking: 0.0728
+manus: 0.0514
+tackle: 0.0497
+workforce: 0.0483
+deirdre: 0.0477
+innovative: 0.0408
+psychiatrist: 0.0401
+
+Topic_697:
+give: 0.1911
+way: 0.1354
+minister: 0.0816
+will: 0.0293
+the: 0.0038
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+: 0.0000
+
+Topic_698:
+deaths: 0.0797
+hemisphere: 0.0408
+survival: 0.0378
+unre: 0.0378
+colder: 0.0360
+heatwaves: 0.0348
+biology: 0.0323
+375: 0.0312
+1966: 0.0293
+creatures: 0.0288
+
+Topic_699:
+hawk: 0.0427
+brough: 0.0243
+orders: 0.0240
+hawks: 0.0206
+defence: 0.0202
+bae: 0.0186
+kuwait: 0.0176
+qatari: 0.0104
+systems: 0.0101
+aircraft: 0.0096
+
+Topic_700:
+exam: 0.0658
+texts: 0.0581
+literature: 0.0556
+pupils: 0.0333
+poetry: 0.0249
+studied: 0.0241
+poems: 0.0232
+english: 0.0230
+gcse: 0.0204
+quote: 0.0181
+
+Topic_701:
+baha: 0.0856
+haydara: 0.0599
+bin: 0.0339
+yemen: 0.0337
+persecution: 0.0235
+hamed: 0.0235
+houthis: 0.0213
+sana: 0.0191
+death: 0.0183
+iran: 0.0179
+
+Topic_702:
+vote: 0.0463
+meaningful: 0.0240
+voters: 0.0216
+whitsun: 0.0153
+nfus: 0.0150
+misheard: 0.0148
+hobson: 0.0146
+accepted: 0.0128
+snell: 0.0120
+margin: 0.0110
+
+Topic_703:
+gcse: 0.0674
+agriculture: 0.0544
+farming: 0.0178
+henson: 0.0110
+food: 0.0103
+herefordshire: 0.0102
+background: 0.0087
+option: 0.0086
+countryside: 0.0082
+pupils: 0.0080
+
+Topic_704:
+36: 0.4597
+claimed: 0.4523
+closure: 0.3466
+standing: 0.2655
+move: 0.1813
+order: 0.1774
+no: 0.0623
+to: 0.0041
+the: 0.0021
+: 0.0000
+
+Topic_705:
+malawi: 0.0717
+argyll: 0.0177
+ngos: 0.0150
+livingstone: 0.0134
+dar: 0.0111
+visas: 0.0110
+twinning: 0.0108
+salaam: 0.0106
+nadia: 0.0101
+scotland: 0.0100
+
+Topic_706:
+smattering: 0.0932
+bycatchers: 0.0864
+spurdog: 0.0864
+state: 0.0807
+secretary: 0.0754
+bycatch: 0.0695
+championed: 0.0500
+relatives: 0.0424
+quoted: 0.0421
+wonder: 0.0292
+
+Topic_707:
+nhs: 0.0203
+blaenau: 0.0112
+gwent: 0.0103
+tredegar: 0.0088
+hospital: 0.0081
+oxford: 0.0071
+bevan: 0.0068
+health: 0.0067
+doctors: 0.0064
+dacorum: 0.0063
+
+Topic_708:
+adequacy: 0.1422
+assessment: 0.0987
+recent: 0.0616
+police: 0.0606
+level: 0.0420
+effect: 0.0403
+made: 0.0325
+funding: 0.0325
+forces: 0.0263
+policing: 0.0258
+
+Topic_709:
+beer: 0.0577
+wine: 0.0543
+brewers: 0.0416
+breweries: 0.0287
+strangers: 0.0282
+wines: 0.0263
+sparkling: 0.0249
+brewer: 0.0201
+beers: 0.0185
+brewing: 0.0172
+
+Topic_710:
+chagos: 0.0945
+islanders: 0.0594
+icj: 0.0443
+ocean: 0.0296
+mauritius: 0.0296
+indian: 0.0294
+islands: 0.0216
+territory: 0.0204
+chagossian: 0.0187
+americas: 0.0146
+
+Topic_711:
+acoba: 0.0599
+appointments: 0.0269
+appointment: 0.0179
+pacac: 0.0160
+servants: 0.0158
+principles: 0.0153
+public: 0.0138
+code: 0.0133
+civil: 0.0129
+former: 0.0101
+
+Topic_712:
+human: 0.0940
+steps: 0.0887
+promote: 0.0813
+rights: 0.0744
+taking: 0.0631
+counterparts: 0.0616
+37th: 0.0423
+internationally: 0.0413
+throughout: 0.0355
+discussions: 0.0322
+
+Topic_713:
+analysis: 0.0132
+brexit: 0.0127
+modelling: 0.0087
+leaving: 0.0084
+economic: 0.0077
+worse: 0.0077
+forecast: 0.0073
+quote: 0.0071
+deal: 0.0069
+manufacturing: 0.0068
+
+Topic_714:
+students: 0.0377
+universities: 0.0167
+fees: 0.0165
+university: 0.0162
+maintenance: 0.0137
+grants: 0.0109
+office: 0.0106
+widening: 0.0093
+tuition: 0.0090
+validator: 0.0085
+
+Topic_715:
+oh: 0.7902
+go: 0.2252
+then: 0.1602
+goodness: 0.1469
+come: 0.1196
+on: 0.0429
+my: 0.0061
+: 0.0000
+: 0.0000
+: 0.0000
+
+Topic_716:
+veterans: 0.0707
+charities: 0.0344
+legion: 0.0241
+davidson: 0.0226
+heroes: 0.0217
+leigh: 0.0202
+hull: 0.0201
+transition: 0.0154
+gateway: 0.0142
+charity: 0.0135
+
+Topic_717:
+steps: 0.1634
+defence: 0.1606
+taking: 0.1163
+suppliers: 0.0879
+encourage: 0.0788
+innovation: 0.0751
+exports: 0.0722
+industry: 0.0663
+what: 0.0290
+companies: 0.0261
+
+Topic_718:
+fares: 0.0649
+rpi: 0.0267
+fare: 0.0216
+rail: 0.0208
+index: 0.0150
+passengers: 0.0127
+cpi: 0.0115
+rdg: 0.0106
+prices: 0.0102
+costs: 0.0097
+
+Topic_719:
+lines: 0.0602
+county: 0.0474
+ordination: 0.0262
+co: 0.0200
+centre: 0.0125
+seized: 0.0108
+emanate: 0.0104
+london: 0.0100
+activity: 0.0095
+ordinated: 0.0095
+
+Topic_720:
+contracts: 0.0266
+public: 0.0143
+private: 0.0130
+sector: 0.0126
+delivery: 0.0106
+cheapest: 0.0104
+contract: 0.0100
+value: 0.0097
+receiver: 0.0092
+companies: 0.0090
+
+Topic_721:
+aerospace: 0.0828
+ge: 0.0256
+industry: 0.0218
+tewkesbury: 0.0196
+safran: 0.0164
+propeller: 0.0164
+propellers: 0.0164
+exports: 0.0159
+research: 0.0147
+95: 0.0142
+
+Topic_722:
+retained: 0.0186
+statute: 0.0163
+delegated: 0.0160
+book: 0.0150
+amendment: 0.0143
+clause: 0.0137
+rights: 0.0128
+law: 0.0122
+deficiencies: 0.0121
+primary: 0.0109
+
+Topic_723:
+libya: 0.0678
+migrants: 0.0251
+traffickers: 0.0154
+libyan: 0.0146
+iar: 0.0140
+eileanan: 0.0139
+na: 0.0137
+slavery: 0.0119
+refugees: 0.0113
+complicated: 0.0107
+
+Topic_724:
+steven: 0.0268
+thanking: 0.0251
+join: 0.0236
+congratulating: 0.0228
+volunteers: 0.0205
+parades: 0.0199
+rnli: 0.0192
+cave: 0.0188
+ramsbottom: 0.0188
+cats: 0.0184
+
+Topic_725:
+collaboration: 0.0991
+fire: 0.0475
+greater: 0.0352
+police: 0.0312
+encourage: 0.0296
+commissioners: 0.0222
+services: 0.0204
+steps: 0.0199
+blue: 0.0175
+between: 0.0172
+
+Topic_726:
+meetings: 0.1020
+ministerial: 0.0653
+duties: 0.0552
+addition: 0.0436
+morning: 0.0423
+colleagues: 0.0394
+shall: 0.0362
+later: 0.0301
+others: 0.0233
+forgiveness: 0.0207
+
+Topic_727:
+learned: 0.2248
+give: 0.1062
+way: 0.0752
+gentleman: 0.0700
+right: 0.0405
+hon: 0.0190
+will: 0.0163
+and: 0.0053
+the: 0.0021
+: 0.0000
+
+Topic_728:
+underpaid: 0.0543
+underpayments: 0.0532
+payments: 0.0304
+repaid: 0.0164
+quick: 0.0110
+correct: 0.0107
+fast: 0.0098
+overpayment: 0.0096
+overpayments: 0.0091
+exercise: 0.0091
+
+Topic_729:
+hope: 0.0670
+quasi: 0.0470
+house: 0.0451
+confirms: 0.0427
+endeavour: 0.0382
+courage: 0.0338
+passing: 0.0315
+judicial: 0.0291
+certainly: 0.0282
+promise: 0.0273
+
+Topic_730:
+fca: 0.0509
+fos: 0.0306
+smes: 0.0295
+ombudsman: 0.0171
+lending: 0.0150
+financial: 0.0148
+sme: 0.0107
+avenues: 0.0102
+resolution: 0.0097
+appg: 0.0095
+
+Topic_731:
+india: 0.1572
+trade: 0.0382
+bilateral: 0.0258
+audit: 0.0256
+joint: 0.0167
+barriers: 0.0156
+sciences: 0.0155
+indian: 0.0153
+prabhu: 0.0151
+788: 0.0140
+
+Topic_732:
+exhibition: 0.0665
+gateshead: 0.0572
+newcastle: 0.0376
+visit: 0.0187
+north: 0.0163
+great: 0.0161
+shorts: 0.0156
+boxer: 0.0142
+tomorrow: 0.0125
+spencer: 0.0105
+
+Topic_733:
+bradford: 0.1155
+odeon: 0.0506
+rejuvenation: 0.0188
+recipient: 0.0187
+bulls: 0.0176
+festival: 0.0166
+regenerate: 0.0132
+cultural: 0.0127
+opportunities: 0.0116
+regeneration: 0.0106
+
+Topic_734:
+brexit: 0.0117
+options: 0.0061
+constituents: 0.0060
+referendum: 0.0059
+saboteurs: 0.0058
+crush: 0.0050
+judged: 0.0050
+europe: 0.0050
+coherence: 0.0049
+vote: 0.0048
+
+Topic_735:
+hon: 0.0471
+earlier: 0.0424
+although: 0.0385
+raised: 0.0380
+heard: 0.0335
+my: 0.0300
+right: 0.0273
+think: 0.0212
+as: 0.0175
+point: 0.0162
+
+Topic_736:
+83m: 0.3766
+forthwith: 0.3348
+grand: 0.2426
+assent: 0.2182
+resolved: 0.2059
+legislative: 0.1675
+indicated: 0.1661
+itself: 0.1305
+standing: 0.1282
+order: 0.0857
+
+Topic_737:
+appeal: 0.0488
+appeals: 0.0160
+rasalingam: 0.0137
+overturned: 0.0121
+granted: 0.0106
+case: 0.0099
+tribunal: 0.0090
+stakeholders: 0.0085
+decision: 0.0080
+harborne: 0.0074
+
+Topic_738:
+lenient: 0.1955
+unduly: 0.1674
+sentence: 0.0812
+scheme: 0.0504
+173: 0.0479
+solicitor: 0.0430
+general: 0.0416
+attorney: 0.0412
+appeal: 0.0357
+144: 0.0295
+
+Topic_739:
+perinatal: 0.0390
+mental: 0.0233
+health: 0.0201
+mother: 0.0179
+maternal: 0.0178
+baby: 0.0168
+check: 0.0158
+women: 0.0148
+mothers: 0.0138
+tools: 0.0113
+
+Topic_740:
+slps: 0.1024
+herald: 0.0133
+havens: 0.0111
+leask: 0.0107
+dirty: 0.0095
+money: 0.0093
+partnerships: 0.0091
+fines: 0.0084
+laundering: 0.0081
+legislate: 0.0081
+
+Topic_741:
+leaves: 0.0779
+operates: 0.0701
+effectively: 0.0613
+legal: 0.0532
+system: 0.0376
+plans: 0.0336
+uk: 0.0333
+steps: 0.0312
+after: 0.0304
+continues: 0.0278
+
+Topic_742:
+breathing: 0.0378
+mental: 0.0346
+debt: 0.0330
+crisis: 0.0226
+space: 0.0208
+health: 0.0189
+experiencing: 0.0113
+scheme: 0.0108
+advice: 0.0096
+receiving: 0.0090
+
+Topic_743:
+kashmir: 0.1282
+pakistan: 0.0725
+jammu: 0.0667
+india: 0.0550
+kashmiri: 0.0242
+flashpoint: 0.0228
+delhi: 0.0218
+peace: 0.0166
+pakistani: 0.0159
+bases: 0.0150
+
+Topic_744:
+trust: 0.0939
+nevola: 0.0397
+diane: 0.0315
+mcguinness: 0.0283
+prizes: 0.0271
+meetings: 0.0266
+autonomous: 0.0221
+fiona: 0.0210
+weekly: 0.0193
+witnessed: 0.0191
+
+Topic_745:
+apologise: 0.0432
+apology: 0.0256
+apologies: 0.0167
+credits: 0.0158
+clumsily: 0.0143
+words: 0.0132
+apologised: 0.0129
+mistakes: 0.0109
+opposition: 0.0103
+mistake: 0.0101
+
+Topic_746:
+pavement: 0.0575
+parking: 0.0476
+pavements: 0.0205
+guide: 0.0147
+spaces: 0.0135
+dogs: 0.0117
+guidance: 0.0105
+casuists: 0.0105
+blind: 0.0097
+bollards: 0.0097
+
+Topic_747:
+pilots: 0.1196
+elections: 0.0225
+reasonable: 0.0208
+electoral: 0.0206
+cast: 0.0193
+voting: 0.0192
+proportionate: 0.0187
+overwhelming: 0.0181
+successful: 0.0177
+voters: 0.0162
+
+Topic_748:
+shop: 0.0359
+retail: 0.0332
+op: 0.0255
+stores: 0.0246
+staff: 0.0236
+clause: 0.0223
+convenience: 0.0202
+consortium: 0.0202
+usdaw: 0.0197
+newsagents: 0.0174
+
+Topic_749:
+immigration: 0.0293
+postponement: 0.0252
+movement: 0.0230
+white: 0.0115
+caseworked: 0.0113
+free: 0.0106
+frustrateda: 0.0105
+œhugely: 0.0105
+confusion: 0.0101
+ideaa: 0.0100
+
+Topic_750:
+town: 0.0897
+centre: 0.0381
+centres: 0.0356
+spencer: 0.0261
+streets: 0.0260
+shopping: 0.0208
+thriving: 0.0208
+marks: 0.0201
+redditch: 0.0200
+revitalised: 0.0189
+
+Topic_751:
+commission: 0.0397
+representative: 0.0331
+commissioners: 0.0189
+placements: 0.0181
+myfanwy: 0.0171
+barrett: 0.0158
+œfinallya: 0.0158
+oscars: 0.0141
+resting: 0.0126
+consultancy: 0.0124
+
+Topic_752:
+deal: 0.0246
+brexit: 0.0190
+chancellor: 0.0166
+no: 0.0141
+œcountervailing: 0.0134
+opportunitiesa: 0.0131
+insist: 0.0122
+analysis: 0.0104
+bad: 0.0088
+scenario: 0.0087
+
+Topic_753:
+church: 0.0789
+schools: 0.0257
+catholic: 0.0211
+rural: 0.0184
+muslim: 0.0177
+school: 0.0176
+england: 0.0169
+literacy: 0.0137
+pupils: 0.0133
+ballinteer: 0.0131
+
+Topic_754:
+meet: 0.0899
+happy: 0.0527
+chagos: 0.0312
+painfully: 0.0303
+uptake: 0.0254
+course: 0.0215
+happily: 0.0199
+slow: 0.0196
+discuss: 0.0191
+am: 0.0184
+
+Topic_755:
+steps: 0.0678
+ireland: 0.0612
+northern: 0.0561
+promote: 0.0419
+throughout: 0.0306
+parties: 0.0295
+she: 0.0288
+recent: 0.0286
+taken: 0.0229
+kirsty: 0.0227

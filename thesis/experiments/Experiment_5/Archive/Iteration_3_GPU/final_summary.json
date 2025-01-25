@@ -1,0 +1,66 @@
+{
+    "batch": {
+        "cpu_memory_mean": 0.6496730804443359,
+        "cpu_memory_std": 0.3971313305465488,
+        "time_mean": 215.5862307548523,
+        "time_std": 8.236907160939946,
+        "gpu_memory_stats": {
+            "gpu_0": {
+                "allocated_mean": 0.08565855026245117,
+                "allocated_std": 0.0023169254023562387,
+                "reserved_mean": 0.0734375,
+                "reserved_std": 0.01714305332616538
+            },
+            "gpu_1": {
+                "allocated_mean": 0.0,
+                "allocated_std": 0.0,
+                "reserved_mean": 0.0,
+                "reserved_std": 0.0
+            },
+            "gpu_2": {
+                "allocated_mean": 0.0,
+                "allocated_std": 0.0,
+                "reserved_mean": 0.0,
+                "reserved_std": 0.0
+            },
+            "gpu_3": {
+                "allocated_mean": 0.0,
+                "allocated_std": 0.0,
+                "reserved_mean": 0.0,
+                "reserved_std": 0.0
+            }
+        }
+    },
+    "incremental": {
+        "cpu_memory_mean": 0.09930419921875,
+        "cpu_memory_std": 0.0998241214578192,
+        "time_mean": 118.1203078508377,
+        "time_std": 88.89741766488724,
+        "gpu_memory_stats": {
+            "gpu_0": {
+                "allocated_mean": 0.08492612838745117,
+                "allocated_std": 0.00030517578125,
+                "reserved_mean": 0.071484375,
+                "reserved_std": 0.014776781499513858
+            },
+            "gpu_1": {
+                "allocated_mean": 0.0,
+                "allocated_std": 0.0,
+                "reserved_mean": 0.0,
+                "reserved_std": 0.0
+            },
+            "gpu_2": {
+                "allocated_mean": 0.0,
+                "allocated_std": 0.0,
+                "reserved_mean": 0.0,
+                "reserved_std": 0.0
+            },
+            "gpu_3": {
+                "allocated_mean": 0.0,
+                "allocated_std": 0.0,
+                "reserved_mean": 0.0,
+                "reserved_std": 0.0
+            }
+        }
+    }
+}

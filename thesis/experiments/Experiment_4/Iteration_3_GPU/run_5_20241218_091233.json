@@ -1,0 +1,98 @@
+{
+    "batch": {
+        "cpu_memory": [
+            0.4097633361816406,
+            0.510894775390625
+        ],
+        "gpu_memory": [
+            {
+                "gpu_0": {
+                    "allocated_diff": 0.08523130416870117,
+                    "reserved_diff": 0.052734375
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            },
+            {
+                "gpu_0": {
+                    "allocated_diff": 0.08462095260620117,
+                    "reserved_diff": 0.07421875
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            }
+        ],
+        "time": [
+            211.34199833869934,
+            230.58005213737488
+        ]
+    },
+    "incremental": {
+        "cpu_memory": [
+            0.19054031372070312,
+            0.000171661376953125
+        ],
+        "gpu_memory": [
+            {
+                "gpu_0": {
+                    "allocated_diff": 0.08523130416870117,
+                    "reserved_diff": 0.052734375
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            },
+            {
+                "gpu_0": {
+                    "allocated_diff": 0.08462095260620117,
+                    "reserved_diff": 0.07421875
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            }
+        ],
+        "time": [
+            206.02955102920532,
+            30.65125322341919
+        ]
+    }
+}

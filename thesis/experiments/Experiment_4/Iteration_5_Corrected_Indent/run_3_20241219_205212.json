@@ -1,0 +1,512 @@
+{
+    "run_number": 3,
+    "timestamp": "20241219_205212",
+    "batch_results": {
+        "initial": {
+            "cpu_memory": 8.79534912109375,
+            "gpu_memory": {
+                "gpu_0": {
+                    "allocated_diff": 0.08523130416870117,
+                    "reserved_diff": 0.291015625
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            },
+            "time": 6447.439282417297
+        },
+        "full": {
+            "cpu_memory": 9.756660461425781,
+            "gpu_memory": {
+                "gpu_0": {
+                    "allocated_diff": 0.08523130416870117,
+                    "reserved_diff": 0.240234375
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            },
+            "time": 7197.170764923096
+        }
+    },
+    "incremental_results": [
+        {
+            "year": 2000,
+            "cpu_memory": 0.2530975341796875,
+            "gpu_memory": {
+                "gpu_0": {
+                    "allocated_diff": 0.08523130416870117,
+                    "reserved_diff": 0.291015625
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            },
+            "time": 149.58749055862427
+        },
+        {
+            "year": 2001,
+            "cpu_memory": 0.16703033447265625,
+            "gpu_memory": {
+                "gpu_0": {
+                    "allocated_diff": 0.08462095260620117,
+                    "reserved_diff": 0.296875
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            },
+            "time": 122.30461549758911
+        },
+        {
+            "year": 2002,
+            "cpu_memory": 0.20291900634765625,
+            "gpu_memory": {
+                "gpu_0": {
+                    "allocated_diff": 0.08523130416870117,
+                    "reserved_diff": 0.267578125
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            },
+            "time": 125.94006562232971
+        },
+        {
+            "year": 2003,
+            "cpu_memory": 0.21650314331054688,
+            "gpu_memory": {
+                "gpu_0": {
+                    "allocated_diff": 0.08462095260620117,
+                    "reserved_diff": 0.275390625
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            },
+            "time": 140.3470642566681
+        },
+        {
+            "year": 2004,
+            "cpu_memory": 0.22848129272460938,
+            "gpu_memory": {
+                "gpu_0": {
+                    "allocated_diff": 0.08523130416870117,
+                    "reserved_diff": 0.25390625
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            },
+            "time": 140.0891842842102
+        },
+        {
+            "year": 2005,
+            "cpu_memory": 0.17717742919921875,
+            "gpu_memory": {
+                "gpu_0": {
+                    "allocated_diff": 0.08462095260620117,
+                    "reserved_diff": 0.2734375
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            },
+            "time": 116.25460124015808
+        },
+        {
+            "year": 2006,
+            "cpu_memory": 0.21656036376953125,
+            "gpu_memory": {
+                "gpu_0": {
+                    "allocated_diff": 0.08523130416870117,
+                    "reserved_diff": 0.25
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            },
+            "time": 131.391428232193
+        },
+        {
+            "year": 2007,
+            "cpu_memory": 0.23247528076171875,
+            "gpu_memory": {
+                "gpu_0": {
+                    "allocated_diff": 0.08462095260620117,
+                    "reserved_diff": 0.271484375
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            },
+            "time": 135.95012378692627
+        },
+        {
+            "year": 2008,
+            "cpu_memory": 0.236907958984375,
+            "gpu_memory": {
+                "gpu_0": {
+                    "allocated_diff": 0.08523130416870117,
+                    "reserved_diff": 0.248046875
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            },
+            "time": 143.75564622879028
+        },
+        {
+            "year": 2009,
+            "cpu_memory": 0.21741485595703125,
+            "gpu_memory": {
+                "gpu_0": {
+                    "allocated_diff": 0.08462095260620117,
+                    "reserved_diff": 0.26953125
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            },
+            "time": 132.2798945903778
+        },
+        {
+            "year": 2010,
+            "cpu_memory": 0.2666168212890625,
+            "gpu_memory": {
+                "gpu_0": {
+                    "allocated_diff": 0.08523130416870117,
+                    "reserved_diff": 0.24609375
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            },
+            "time": 159.60924172401428
+        },
+        {
+            "year": 2011,
+            "cpu_memory": 0.3157997131347656,
+            "gpu_memory": {
+                "gpu_0": {
+                    "allocated_diff": 0.08462095260620117,
+                    "reserved_diff": 0.267578125
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            },
+            "time": 174.6689658164978
+        },
+        {
+            "year": 2012,
+            "cpu_memory": 0.2584075927734375,
+            "gpu_memory": {
+                "gpu_0": {
+                    "allocated_diff": 0.08523130416870117,
+                    "reserved_diff": 0.244140625
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            },
+            "time": 150.31205582618713
+        },
+        {
+            "year": 2013,
+            "cpu_memory": 0.2907981872558594,
+            "gpu_memory": {
+                "gpu_0": {
+                    "allocated_diff": 0.08462095260620117,
+                    "reserved_diff": 0.265625
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            },
+            "time": 166.1216950416565
+        },
+        {
+            "year": 2014,
+            "cpu_memory": 0.2756614685058594,
+            "gpu_memory": {
+                "gpu_0": {
+                    "allocated_diff": 0.08523130416870117,
+                    "reserved_diff": 0.2421875
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            },
+            "time": 154.13029074668884
+        },
+        {
+            "year": 2015,
+            "cpu_memory": 0.24003219604492188,
+            "gpu_memory": {
+                "gpu_0": {
+                    "allocated_diff": 0.08462095260620117,
+                    "reserved_diff": 0.263671875
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            },
+            "time": 145.50074529647827
+        },
+        {
+            "year": 2016,
+            "cpu_memory": 0.281280517578125,
+            "gpu_memory": {
+                "gpu_0": {
+                    "allocated_diff": 0.08523130416870117,
+                    "reserved_diff": 0.240234375
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            },
+            "time": 172.17048239707947
+        },
+        {
+            "year": 2017,
+            "cpu_memory": 0.252197265625,
+            "gpu_memory": {
+                "gpu_0": {
+                    "allocated_diff": 0.08462095260620117,
+                    "reserved_diff": 0.26171875
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            },
+            "time": 151.50068378448486
+        },
+        {
+            "year": 2018,
+            "cpu_memory": 0.3404693603515625,
+            "gpu_memory": {
+                "gpu_0": {
+                    "allocated_diff": 0.08523130416870117,
+                    "reserved_diff": 0.240234375
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            },
+            "time": 194.648832321167
+        },
+        {
+            "year": 2019,
+            "cpu_memory": 0.27954864501953125,
+            "gpu_memory": {
+                "gpu_0": {
+                    "allocated_diff": 0.08462095260620117,
+                    "reserved_diff": 0.26171875
+                },
+                "gpu_1": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_2": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                },
+                "gpu_3": {
+                    "allocated_diff": 0.0,
+                    "reserved_diff": 0.0
+                }
+            },
+            "time": 164.29258251190186
+        }
+    ]
+}

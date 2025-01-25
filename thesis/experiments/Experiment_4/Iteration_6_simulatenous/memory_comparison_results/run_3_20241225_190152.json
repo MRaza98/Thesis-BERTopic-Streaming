@@ -1,0 +1,106 @@
+{
+    "batch": {
+        "peak_memory": [
+            17.381942749023438,
+            19.275611877441406,
+            20.73687744140625
+        ],
+        "gpu_memory": [
+            [
+                {
+                    "device": 0,
+                    "allocated": 0.0,
+                    "reserved": 0.0
+                },
+                {
+                    "device": 1,
+                    "allocated": 0.0,
+                    "reserved": 0.0
+                },
+                {
+                    "device": 2,
+                    "allocated": 0.0,
+                    "reserved": 0.0
+                },
+                {
+                    "device": 3,
+                    "allocated": 0.09255552291870117,
+                    "reserved": 0.310546875
+                }
+            ],
+            [
+                {
+                    "device": 0,
+                    "allocated": 0.0,
+                    "reserved": 0.0
+                },
+                {
+                    "device": 1,
+                    "allocated": 0.0,
+                    "reserved": 0.0
+                },
+                {
+                    "device": 2,
+                    "allocated": 0.0,
+                    "reserved": 0.0
+                },
+                {
+                    "device": 3,
+                    "allocated": 0.09316587448120117,
+                    "reserved": 0.310546875
+                }
+            ],
+            [
+                {
+                    "device": 0,
+                    "allocated": 0.0,
+                    "reserved": 0.0
+                },
+                {
+                    "device": 1,
+                    "allocated": 0.0,
+                    "reserved": 0.0
+                },
+                {
+                    "device": 2,
+                    "allocated": 0.0,
+                    "reserved": 0.0
+                },
+                {
+                    "device": 3,
+                    "allocated": 0.09316587448120117,
+                    "reserved": 0.310546875
+                }
+            ]
+        ],
+        "training_time": [
+            2863.80011343956,
+            2534.064381122589,
+            2553.7528042793274
+        ]
+    },
+    "simultaneous_merge": {
+        "training": {
+            "peak_memory": [
+                14.063518524169922,
+                15.707714080810547,
+                17.138973236083984
+            ],
+            "gpu_memory": [],
+            "time": []
+        },
+        "merge": {
+            "peak_memory": [
+                16.47665023803711,
+                17.984176635742188,
+                19.407997131347656
+            ],
+            "gpu_memory": [],
+            "time": [
+                31.775514364242554,
+                32.17046093940735,
+                60.3819842338562
+            ]
+        }
+    }
+}
