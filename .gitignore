@@ -22,3 +22,4 @@ model_*
 archive/preliminary_models
 archive/data
 all_analyses/experiments/data
+*.txt
