@@ -1,0 +1,14 @@
+Major parts of the code in this directory were developed with assistance from Claude 3.5 Sonnet (Anthropic), a GenAI model.
+
+
+Specifically, the low level detailed syntax of the following were done with the assistance of AI:
+
+1. Functions around coherence models
+2. Boilerplate code to read and output csv files
+3. General I/O
+4. General improvements and critical feedback
+
+This enabled the author to quickly iterate and experiment over new parameters and conduct detailed
+exploratory analyses to understand the behaviour of BERTopic.
+
+

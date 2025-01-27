@@ -1,0 +1,3 @@
+Parts of the code in this directory were developed with assistance from Claude 3.5 Sonnet (Anthropic), a GenAI model.
+Specifically, developing the low level details of the MPNet Chunker class relied heavily on the model
+while the author guided the model on what steps to take and outcomes to achieve.
