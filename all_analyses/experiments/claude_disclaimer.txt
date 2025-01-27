@@ -7,6 +7,7 @@ Specifically, the low level detailed syntax of the following were done with the 
 2. Boilerplate code to read and output csv files
 3. General I/O
 4. General improvements and critical feedback
+5. Code reiterations or adaptations from one experiment to another
 
 This enabled the author to quickly iterate and experiment over new parameters and conduct detailed
 exploratory analyses to understand the behaviour of BERTopic.
