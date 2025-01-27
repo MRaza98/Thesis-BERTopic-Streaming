@@ -1,12 +1,18 @@
+"""This script samples data from the entire csv for each country
+i.e. when 2010 onwards data is needed for the cross parliamentary analysis.
+It is a template which can be modified to sample any ParlSpeechV2 csv.
+"""
+
 import pandas as pd
 
 # Read the original CSV file
+# csv of any of the parliaments
 df = pd.read_csv('/home/raza/projects/Streaming-Pipeline-Parliamentary-Debates/data/Corp_Bundestag_V2.csv')
 
 # Convert date column to datetime if it's not already
 df['date'] = pd.to_datetime(df['date'])
 
-# Create mask for date range (2000 to 2018 inclusive)
+# Create mask for date range to sample data
 mask_date_range = (df['date'].dt.year >= 2010)
 
 # Combine masks and filter the dataframe
