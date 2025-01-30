@@ -1,3 +1,0 @@
-Parts of the code in this directory were developed with assistance from Claude 3.5 Sonnet (Anthropic), a GenAI model.
-Specifically, the low level detailed syntax of the functions around coherence models were built 
-with the assistance of AI.
