@@ -1,3 +1,6 @@
+# Major parts of the code were written with AI.
+# AI was especially used in debugging, improving logging, and giving feedback on my initial drafts.
+
 from sentence_transformers import SentenceTransformer
 from experiment_tracker import BERTopicExperimentTracker
 import pandas as pd
