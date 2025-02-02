@@ -1,3 +1,6 @@
+# Major parts of the code were written with AI.
+# AI was especially used in debugging, improving logging, and giving feedback on my initial drafts.
+
 import pandas as pd
 import numpy as np
 from typing import List
